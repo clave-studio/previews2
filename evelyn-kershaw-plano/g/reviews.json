@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Carissa",
+   "rating": 5,
+   "text": "Autumn is the best! I came to see her after a less than great haircut at another salon. She’s gotten me into a better and more modern haircut that I love. Her coloring maintains much longer than I’ve had in the past. Very sweet personality and great memory for small details. Highly recommend!",
+   "reviewer": "Carissa Torres",
+   "date": "2026-08-14T17:56:25.699Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/The+Evelyn+Kershaw+Salon/@33.0459109,-96.7927941,17z/data=!3m1!4b1!4m6!3m5!1s0x864c231e07430ef1:0x58d72f7fbaf1be0e!8m2!3d33.0459109!4d-96.7927941!16s%2Fg%2F1tgp1657"
+  },
+  {
+   "first": "Karen",
+   "rating": 5,
+   "text": "Evelyn and her staff are very professional and the salon is beautiful and welcoming. I highly recommend Evelyn if you are looking for a fresh new cut or style.",
+   "reviewer": "Karen Buitrago",
+   "date": "2026-05-14T01:48:10.609Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/The+Evelyn+Kershaw+Salon/@33.0459109,-96.7927941,17z/data=!3m1!4b1!4m6!3m5!1s0x864c231e07430ef1:0x58d72f7fbaf1be0e!8m2!3d33.0459109!4d-96.7927941!16s%2Fg%2F1tgp1657"
+  },
+  {
+   "first": "Joyce",
+   "rating": 5,
+   "text": "This was my first experience at this salon and with Alaina. She was very knowledgeable, very professional and did an excellent job on my very temperamental hair. I highly recommend her.",
+   "reviewer": "Joyce King",
+   "date": "2026-07-15T16:51:10.013Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/The+Evelyn+Kershaw+Salon/@33.0459109,-96.7927941,17z/data=!3m1!4b1!4m6!3m5!1s0x864c231e07430ef1:0x58d72f7fbaf1be0e!8m2!3d33.0459109!4d-96.7927941!16s%2Fg%2F1tgp1657"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Evelyn+Kershaw+Salon/@33.0459109,-96.7927941,17z/data=!3m1!4b1!4m6!3m5!1s0x864c231e07430ef1:0x58d72f7fbaf1be0e!8m2!3d33.0459109!4d-96.7927941!16s%2Fg%2F1tgp1657",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: Maps reviews all English; site English only.",
+ "services_source": "https://www.evelynkershawsalon.com/"
+}
