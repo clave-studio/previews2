@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Tiffany",
+   "rating": 5,
+   "text": "Absolutely wonderful experience! My hair came out perfect and the atmosphere was friendly and comfortable! Laura was very knowledgeable and honest with expectations on my hair!",
+   "reviewer": "Tiffany Taylor",
+   "date": "2026-06-18T23:34:34.677Z",
+   "lang": "en",
+   "file": "rev/23.json",
+   "source": "https://www.google.com/maps/place/Shear+Impressions+Salon+%26+Hair+Extension+Bar/@27.8947222,-82.3180556,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2d1e160bb0c55:0xab6fe75f03e41180!8m2!3d27.8947222!4d-82.3180556!16s%2Fg%2F1260j_1k9"
+  },
+  {
+   "first": "Kaylynn",
+   "rating": 5,
+   "text": "I love this salon! Richard did an amazing job with my hair and everyone is super friendly. Such a good environment!! Highly recommend",
+   "reviewer": "Kaylynn Delaurie",
+   "date": "2026-07-17T23:12:34.165Z",
+   "lang": "en",
+   "file": "rev/23.json",
+   "source": "https://www.google.com/maps/place/Shear+Impressions+Salon+%26+Hair+Extension+Bar/@27.8947222,-82.3180556,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2d1e160bb0c55:0xab6fe75f03e41180!8m2!3d27.8947222!4d-82.3180556!16s%2Fg%2F1260j_1k9"
+  },
+  {
+   "first": "Taylor",
+   "rating": 5,
+   "text": "Absolutely love Alexis, have been a regular for almost 2 years now!! Best hairstylist ever, absolutely love getting my highlights done by her. Always does what I ask!! Great service,\ncome here!!",
+   "reviewer": "Taylor Gonyea",
+   "date": "2026-02-19T17:56:29.569Z",
+   "lang": "en",
+   "file": "rev/23.json",
+   "source": "https://www.google.com/maps/place/Shear+Impressions+Salon+%26+Hair+Extension+Bar/@27.8947222,-82.3180556,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2d1e160bb0c55:0xab6fe75f03e41180!8m2!3d27.8947222!4d-82.3180556!16s%2Fg%2F1260j_1k9"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Shear+Impressions+Salon+%26+Hair+Extension+Bar/@27.8947222,-82.3180556,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2d1e160bb0c55:0xab6fe75f03e41180!8m2!3d27.8947222!4d-82.3180556!16s%2Fg%2F1260j_1k9",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: 45 Maps reviews all English; site English only.",
+ "services_source": "http://sisalon.net/services/ (+ homepage for hair extensions)"
+}
