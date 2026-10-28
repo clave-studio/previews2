@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Christina",
+   "rating": 5,
+   "text": "If you're looking for a very relaxed, comfortable welcoming environment, this is definitely the place to come to. Kelly and her team are amazing and very accommodating.",
+   "reviewer": "Christina Martinez",
+   "date": "2026-10-06T20:00:49.037Z",
+   "lang": "en",
+   "file": "rev/22.json",
+   "source": "https://www.google.com/maps/place/Looks+Rx+Medical+Spa/@32.9531035,-96.6260096,17z/data=!3m1!4b1!4m6!3m5!1s0x864c1c540edd2749:0xc0389b26537933b8!8m2!3d32.9531035!4d-96.6260096!16s%2Fg%2F11c6lvv1ft"
+  },
+  {
+   "first": "Holland",
+   "rating": 5,
+   "text": "Kelly is absolutely amazing! She’s so so so sweet, patient, and incredibly knowledgeable. I truly wouldn’t trust anyone else with my Botox and filler. I wish I could give more than just 5 stars!",
+   "reviewer": "Holland Baker",
+   "date": "2025-10-08T01:42:40.476Z",
+   "lang": "en",
+   "file": "rev/22.json",
+   "source": "https://www.google.com/maps/place/Looks+Rx+Medical+Spa/@32.9531035,-96.6260096,17z/data=!3m1!4b1!4m6!3m5!1s0x864c1c540edd2749:0xc0389b26537933b8!8m2!3d32.9531035!4d-96.6260096!16s%2Fg%2F11c6lvv1ft"
+  },
+  {
+   "first": "Susan",
+   "rating": 5,
+   "text": "Kelly does a great job helping me age graciously. She is always honest with her opinions and keeps me looking my best without looking over done.",
+   "reviewer": "Susan Foster",
+   "date": "2026-02-16T02:14:30.055Z",
+   "lang": "en",
+   "file": "rev/22.json",
+   "source": "https://www.google.com/maps/place/Looks+Rx+Medical+Spa/@32.9531035,-96.6260096,17z/data=!3m1!4b1!4m6!3m5!1s0x864c1c540edd2749:0xc0389b26537933b8!8m2!3d32.9531035!4d-96.6260096!16s%2Fg%2F11c6lvv1ft"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Looks+Rx+Medical+Spa/@32.9531035,-96.6260096,17z/data=!3m1!4b1!4m6!3m5!1s0x864c1c540edd2749:0xc0389b26537933b8!8m2!3d32.9531035!4d-96.6260096!16s%2Fg%2F11c6lvv1ft",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: 60 Maps reviews all English; site English only.",
+ "services_source": "https://looksrx.com/"
+}
