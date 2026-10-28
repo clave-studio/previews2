@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Laura",
+   "rating": 5,
+   "text": "Ally did my hair and she was absolutely amazing. My hair took forever to lift and she was very patient and very knowledgeable throughout the entire appointment. The vibes of the place itself are immaculate! Already have my second appointment scheduled :)",
+   "reviewer": "Laura Cruz",
+   "date": "2025-05-11T05:33:41.400Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/The+Beauty+Society+and+Co/@28.5664367,-81.578065,17z/data=!3m1!4b1!4m6!3m5!1s0x88e783b62f345d0f:0x91ac456f8e892019!8m2!3d28.5664367!4d-81.578065!16s%2Fg%2F11v5v8l6lt"
+  },
+  {
+   "first": "Adriana",
+   "rating": 5,
+   "text": "Kristen gave me an amazing haircut and blowout. She is skilled and professional. The salon is so beautiful and everyone is so nice. Thank you so much!",
+   "reviewer": "Adriana Ferazzoli",
+   "date": "2026-07-07T18:57:44.620Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/The+Beauty+Society+and+Co/@28.5664367,-81.578065,17z/data=!3m1!4b1!4m6!3m5!1s0x88e783b62f345d0f:0x91ac456f8e892019!8m2!3d28.5664367!4d-81.578065!16s%2Fg%2F11v5v8l6lt"
+  },
+  {
+   "first": "Brenda",
+   "rating": 5,
+   "text": "When I first came in to see Yasmin my hair was badly damaged by another stylist, and she saved it. She’s beyond talented, super honest and knows exactly what she’s doing. I trust her 100%. Highly recommend!",
+   "reviewer": "Brenda Vargas",
+   "date": "2026-01-05T13:56:16.845Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/The+Beauty+Society+and+Co/@28.5664367,-81.578065,17z/data=!3m1!4b1!4m6!3m5!1s0x88e783b62f345d0f:0x91ac456f8e892019!8m2!3d28.5664367!4d-81.578065!16s%2Fg%2F11v5v8l6lt"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Beauty+Society+and+Co/@28.5664367,-81.578065,17z/data=!3m1!4b1!4m6!3m5!1s0x88e783b62f345d0f:0x91ac456f8e892019!8m2!3d28.5664367!4d-81.578065!16s%2Fg%2F11v5v8l6lt",
+ "toggle": false,
+ "toggle_evidence": "Not enough evidence: Maps reviews sampled all English; site English (only an image file named \"Tatuajes.jpeg\"). Default OFF.",
+ "services_source": "https://www.thebeautysocietyandco.com/"
+}
