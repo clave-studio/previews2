@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Caitlyn",
+   "rating": 5,
+   "text": "I walked in today with a fairly vague idea of what i wanted and miss Mary did not disappoint. The customer service as well as the service itself were absolutely incredible and I will be going back. Thank you!",
+   "reviewer": "Caitlyn Silva",
+   "date": "2026-10-04T19:08:10.286Z",
+   "lang": "en",
+   "file": "rev/29.json",
+   "source": "https://www.google.com/maps/place/Hair+Haus+Hair+Salon/@32.6093435,-97.1422654,17z/data=!3m1!4b1!4m6!3m5!1s0x864e638e464be065:0x660edf27fd4211a2!8m2!3d32.6093435!4d-97.1422654!16s%2Fg%2F11hx1xnk5_"
+  },
+  {
+   "first": "Kay",
+   "rating": 5,
+   "text": "Absolutely wonderful! All the stylists were so sweet, and funny. They did a wonderful job with my hair, the color came out perfectly! The women who took care of me always made sure I was comfortable, and offered me drinks and snacks.",
+   "reviewer": "Kay Barkley",
+   "date": "2026-10-09T15:49:12.165Z",
+   "lang": "en",
+   "file": "rev/29.json",
+   "source": "https://www.google.com/maps/place/Hair+Haus+Hair+Salon/@32.6093435,-97.1422654,17z/data=!3m1!4b1!4m6!3m5!1s0x864e638e464be065:0x660edf27fd4211a2!8m2!3d32.6093435!4d-97.1422654!16s%2Fg%2F11hx1xnk5_"
+  },
+  {
+   "first": "Alyssa",
+   "rating": 5,
+   "text": "Mandy is the BEST! I have trusted her with my brows for over 5 years. She has also done my haircuts & provides wax services. So talented & the kindest woman!",
+   "reviewer": "Alyssa Villalobos",
+   "date": "2026-08-14T01:55:45.713Z",
+   "lang": "en",
+   "file": "rev/29.json",
+   "source": "https://www.google.com/maps/place/Hair+Haus+Hair+Salon/@32.6093435,-97.1422654,17z/data=!3m1!4b1!4m6!3m5!1s0x864e638e464be065:0x660edf27fd4211a2!8m2!3d32.6093435!4d-97.1422654!16s%2Fg%2F11hx1xnk5_"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Hair+Haus+Hair+Salon/@32.6093435,-97.1422654,17z/data=!3m1!4b1!4m6!3m5!1s0x864e638e464be065:0x660edf27fd4211a2!8m2!3d32.6093435!4d-97.1422654!16s%2Fg%2F11hx1xnk5_",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 57 of 60 Maps reviews English (3 no text), site English-only. Row language EN.",
+ "services_source": "https://hairhaususa.com/services/"
+}

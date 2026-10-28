@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Sabrina",
+   "rating": 5,
+   "text": "Jen is so kind, detailed, and insanely talented! She is a pro at lived in color, I go months between appointments and I still get compliments on my hair the whole time. Lived in color that I love all the way until my next appointment, I couldn’t be happier. So grateful to have found melt!",
+   "reviewer": "Sabrina Schilling",
+   "date": "2026-05-20T19:45:58.257Z",
+   "lang": "en",
+   "file": "rev/28.json",
+   "source": "https://www.google.com/maps/place/MELT+Salon/@27.7711747,-82.6723666,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2e1a1c4789edd:0x1e236e7652a02cf7!8m2!3d27.7711747!4d-82.6723666!16s%2Fg%2F11qr9_l9_c"
+  },
+  {
+   "first": "Jade",
+   "rating": 5,
+   "text": "Jen has been blessing me with the best hair for 6+ years and somehow she outdoes herself each time. All the stylists at Melt are so fun, and the space is so welcoming with the best vibes.\nBook the appointment, you deserve it! :)",
+   "reviewer": "Jade Lucas",
+   "date": "2026-07-24T21:54:37.910Z",
+   "lang": "en",
+   "file": "rev/28.json",
+   "source": "https://www.google.com/maps/place/MELT+Salon/@27.7711747,-82.6723666,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2e1a1c4789edd:0x1e236e7652a02cf7!8m2!3d27.7711747!4d-82.6723666!16s%2Fg%2F11qr9_l9_c"
+  },
+  {
+   "first": "Lorri",
+   "rating": 5,
+   "text": "This salon is special. Jen is not just amazing with color, (I have the most natural, sophisticated, layered color) but she actually cares and is knowledgable about hair + scalp health.",
+   "reviewer": "Lorri Roadcap-Clower",
+   "date": "2026-01-30T17:53:16.851Z",
+   "lang": "en",
+   "file": "rev/28.json",
+   "source": "https://www.google.com/maps/place/MELT+Salon/@27.7711747,-82.6723666,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2e1a1c4789edd:0x1e236e7652a02cf7!8m2!3d27.7711747!4d-82.6723666!16s%2Fg%2F11qr9_l9_c"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/MELT+Salon/@27.7711747,-82.6723666,17z/data=!3m1!4b1!4m6!3m5!1s0x88c2e1a1c4789edd:0x1e236e7652a02cf7!8m2!3d27.7711747!4d-82.6723666!16s%2Fg%2F11qr9_l9_c",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 56 of 60 Maps reviews English (4 no text), site English-only. Row language EN.",
+ "services_source": "https://www.melthair.com/livedincolorservices (+ homepage menu)"
+}

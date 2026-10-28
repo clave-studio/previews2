@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Devanea",
+   "rating": 5,
+   "text": "I had an appointment with Michelle, she was kind, professional and did an amazing job on my hair!! She listened to what I wanted and executed it to a T!!! Thanks to her I am in my copper era!! It’s giving Jessica Rabbit!",
+   "reviewer": "Devanea Norwood",
+   "date": "2026-05-02T01:37:30.088Z",
+   "lang": "en",
+   "file": "rev/27.json",
+   "source": "https://www.google.com/maps/place/Glow+Up+Salon+TX/@32.5661418,-97.1187341,17z/data=!3m1!4b1!4m6!3m5!1s0x864e61d7388b28f5:0xcd5fd022d272ab!8m2!3d32.5661418!4d-97.1187341!16s%2Fg%2F11qg3kw398"
+  },
+  {
+   "first": "Alyssa",
+   "rating": 5,
+   "text": "Fiona is amazing!!! She always makes me feel so beautiful every time I walk in and out of this salon! She takes her time and she loves what she does!!",
+   "reviewer": "Alyssa Russell",
+   "date": "2025-07-02T05:07:43.611Z",
+   "lang": "en",
+   "file": "rev/27.json",
+   "source": "https://www.google.com/maps/place/Glow+Up+Salon+TX/@32.5661418,-97.1187341,17z/data=!3m1!4b1!4m6!3m5!1s0x864e61d7388b28f5:0xcd5fd022d272ab!8m2!3d32.5661418!4d-97.1187341!16s%2Fg%2F11qg3kw398"
+  },
+  {
+   "first": "Estefania",
+   "rating": 5,
+   "text": "Love it here. I schedule with Fiona she's amazing! She takes her time with you; she's really sweet/nice. I will never go to anyone else. I love my hair!",
+   "reviewer": "Estefania Chavez",
+   "date": "2023-12-22T11:34:46.712Z",
+   "lang": "en",
+   "file": "rev/27.json",
+   "source": "https://www.google.com/maps/place/Glow+Up+Salon+TX/@32.5661418,-97.1187341,17z/data=!3m1!4b1!4m6!3m5!1s0x864e61d7388b28f5:0xcd5fd022d272ab!8m2!3d32.5661418!4d-97.1187341!16s%2Fg%2F11qg3kw398"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Glow+Up+Salon+TX/@32.5661418,-97.1187341,17z/data=!3m1!4b1!4m6!3m5!1s0x864e61d7388b28f5:0xcd5fd022d272ab!8m2!3d32.5661418!4d-97.1187341!16s%2Fg%2F11qg3kw398",
+ "toggle": false,
+ "toggle_evidence": "Not enough evidence: 57 of 60 Maps reviews English (3 no text), site English-only; only 2 of 11 stylists listed as bilingual. Row language EN. Default OFF.",
+ "services_source": "https://www.glowuptx.com/services"
+}
