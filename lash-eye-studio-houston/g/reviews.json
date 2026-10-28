@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jenni",
+   "rating": 5,
+   "text": "Mina is the best!! These are my favorite eyelashes by far, I love them so much. She did such a great job working with my stubborn eyelashes.",
+   "reviewer": "Jenni Tran",
+   "date": "2025-06-12T02:37:38.076Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Lash+And+Eye+Studio/@29.7968566,-95.5229003,17z/data=!3m1!4b1!4m6!3m5!1s0x8640c1385a659b3b:0xf0129768aea7b1b!8m2!3d29.7968566!4d-95.5229003!16s%2Fg%2F1hd_ht5yx"
+  },
+  {
+   "first": "Simone",
+   "rating": 5,
+   "text": "Great location, easy access and parking and my lashes always look flawless. Mina is my lash professional and she is timely and always does a natural lash that I like. I get the hybrid cat eye!",
+   "reviewer": "Simone Steele",
+   "date": "2025-04-09T20:27:16.148Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Lash+And+Eye+Studio/@29.7968566,-95.5229003,17z/data=!3m1!4b1!4m6!3m5!1s0x8640c1385a659b3b:0xf0129768aea7b1b!8m2!3d29.7968566!4d-95.5229003!16s%2Fg%2F1hd_ht5yx"
+  },
+  {
+   "first": "Jovi",
+   "rating": 5,
+   "text": "I’ve been coming to see Mina for almost a year and a half and she always does a beautiful job. My lashes last about a month with good care. I could always fall asleep with how gently she works!",
+   "reviewer": "Jovi Bui",
+   "date": "2024-03-25T18:27:26.073Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Lash+And+Eye+Studio/@29.7968566,-95.5229003,17z/data=!3m1!4b1!4m6!3m5!1s0x8640c1385a659b3b:0xf0129768aea7b1b!8m2!3d29.7968566!4d-95.5229003!16s%2Fg%2F1hd_ht5yx"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Lash+And+Eye+Studio/@29.7968566,-95.5229003,17z/data=!3m1!4b1!4m6!3m5!1s0x8640c1385a659b3b:0xf0129768aea7b1b!8m2!3d29.7968566!4d-95.5229003!16s%2Fg%2F1hd_ht5yx",
+ "toggle": false,
+ "toggle_evidence": "Not enough evidence: 60 Maps reviews all English; site English (1 of 13 site testimonials in Spanish). Row language EN. Default OFF.",
+ "services_source": "http://lashandeyestudio.com/"
+}
