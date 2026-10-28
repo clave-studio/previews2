@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Heather",
+   "rating": 5,
+   "text": "I had a wonderful experience with Ray today as my hair stylist! She was very personable and checked in me every step of the way. She worked with me in picking out the exact shades that I wanted and hair style. I will definitely be back and I highly recommend her!",
+   "reviewer": "Heather Atherton",
+   "date": "2026-04-02T02:59:17.437Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Victory+Salon/@29.4956485,-98.5561136,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5e13fc7b5421:0x65febe065a00002f!8m2!3d29.4956485!4d-98.5561136!16s%2Fg%2F11cn5shyr8"
+  },
+  {
+   "first": "Gabriella",
+   "rating": 5,
+   "text": "Angel is absolutely incredible! I've found my stylist for sure! Its so difficult to find stylists who are actually good at curly hair, let alone coloring it and shes a joy to be around to!",
+   "reviewer": "Gabriella “gabby” R",
+   "date": "2026-04-14T01:15:55.120Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Victory+Salon/@29.4956485,-98.5561136,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5e13fc7b5421:0x65febe065a00002f!8m2!3d29.4956485!4d-98.5561136!16s%2Fg%2F11cn5shyr8"
+  },
+  {
+   "first": "Sunny",
+   "rating": 5,
+   "text": "I’ve been seeing Miranda at Victory Salon for almost a year now, and I couldn’t be happier. I’m usually very picky about my hair, but she listens carefully and gives great recommendations. I trust her completely with my hair. Also, the staff is always friendly and welcoming.",
+   "reviewer": "Sunny Dugger",
+   "date": "2026-01-23T14:40:07.537Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Victory+Salon/@29.4956485,-98.5561136,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5e13fc7b5421:0x65febe065a00002f!8m2!3d29.4956485!4d-98.5561136!16s%2Fg%2F11cn5shyr8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Victory+Salon/@29.4956485,-98.5561136,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5e13fc7b5421:0x65febe065a00002f!8m2!3d29.4956485!4d-98.5561136!16s%2Fg%2F11cn5shyr8",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: Maps reviews all English; site English only.",
+ "services_source": "https://victorysalontx.com/services"
+}
