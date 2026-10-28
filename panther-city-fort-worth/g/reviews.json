@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kelli",
+   "rating": 5,
+   "text": "I have had great experiences at this salon! Alex is amazing and always does a phenomenal job!! Cute, clean and unique environment, and everyone I’ve met there is super friendly. HIGHLY RECOMMEND!",
+   "reviewer": "Kelli Sloan",
+   "date": "2026-05-17T23:36:21.710Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Panther+City+Salon/@32.7305331,-97.3418629,17z/data=!3m1!4b1!4m6!3m5!1s0x864e710aa4ce3c23:0x90aed75a72d2c695!8m2!3d32.7305331!4d-97.3418629!16s%2Fg%2F11b6cq4zn0"
+  },
+  {
+   "first": "Meagan",
+   "rating": 5,
+   "text": "I’ve been getting my hair done by Kourtney Lynn since 2022 at Panther City Salon and highly recommend her. She’s amazing and always does exactly what I want with my hair. Super cute salon and very friendly atmosphere.",
+   "reviewer": "Meagan Tackett",
+   "date": "2025-02-01T18:35:21.714Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Panther+City+Salon/@32.7305331,-97.3418629,17z/data=!3m1!4b1!4m6!3m5!1s0x864e710aa4ce3c23:0x90aed75a72d2c695!8m2!3d32.7305331!4d-97.3418629!16s%2Fg%2F11b6cq4zn0"
+  },
+  {
+   "first": "Caroline",
+   "rating": 5,
+   "text": "Kourtney is the best at highlights! I’ve been going to her for years and she always does an amazing job. The salon is very clean and relaxing - everyone is super friendly",
+   "reviewer": "Caroline Wilson",
+   "date": "2025-02-06T17:52:17.307Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Panther+City+Salon/@32.7305331,-97.3418629,17z/data=!3m1!4b1!4m6!3m5!1s0x864e710aa4ce3c23:0x90aed75a72d2c695!8m2!3d32.7305331!4d-97.3418629!16s%2Fg%2F11b6cq4zn0"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Panther+City+Salon/@32.7305331,-97.3418629,17z/data=!3m1!4b1!4m6!3m5!1s0x864e710aa4ce3c23:0x90aed75a72d2c695!8m2!3d32.7305331!4d-97.3418629!16s%2Fg%2F11b6cq4zn0",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: 40 Maps reviews all English; site English only.",
+ "services_source": "https://www.panthercitysalon.com/panthercitysalonservices"
+}
