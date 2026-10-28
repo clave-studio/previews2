@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Christina",
+   "rating": 5,
+   "text": "I’ve been coming here for my eyelashes, facials, IV therapy, and eyebrows, and I couldn’t be happier. It’s truly a one-stop shop for all my beauty and wellness needs. The team is professional, welcoming, and always does an amazing job. I always leave feeling refreshed and looking my best. Highly recommend!",
+   "reviewer": "Christina Pujol",
+   "date": "2026-06-26T03:55:20.036Z",
+   "lang": "en",
+   "file": "rev/25.json",
+   "source": "https://www.google.com/maps/place/J+Studio+Beauty/@25.680094,-80.315279,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9c7e101e0d8a7:0x706553881dce32b2!8m2!3d25.680094!4d-80.315279!16s%2Fg%2F11l5lxn_dr"
+  },
+  {
+   "first": "Ashley",
+   "rating": 5,
+   "text": "I am absolutely obsessed with J Studio! Every time I see Leilani for my lash lift I leave beyond impressed, the results never disappoint. You can tell this team really knows what they're doing, super professional and experienced. I wouldn't trust anyone else!",
+   "reviewer": "Ashley Chiron",
+   "date": "2026-03-04T23:55:57.594Z",
+   "lang": "en",
+   "file": "rev/25.json",
+   "source": "https://www.google.com/maps/place/J+Studio+Beauty/@25.680094,-80.315279,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9c7e101e0d8a7:0x706553881dce32b2!8m2!3d25.680094!4d-80.315279!16s%2Fg%2F11l5lxn_dr"
+  },
+  {
+   "first": "Victoria",
+   "rating": 5,
+   "text": "I absolutely love this beauty studio. Everyone is so welcoming, kind and helpful. Beautiful and clean place. Genuinely such a safe space to glow up and feel amazing about yourself. Diane is so incredibly talented. Highly recommend.",
+   "reviewer": "Victoria Martorella",
+   "date": "2026-04-17T17:30:43.701Z",
+   "lang": "en",
+   "file": "rev/25.json",
+   "source": "https://www.google.com/maps/place/J+Studio+Beauty/@25.680094,-80.315279,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9c7e101e0d8a7:0x706553881dce32b2!8m2!3d25.680094!4d-80.315279!16s%2Fg%2F11l5lxn_dr"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/J+Studio+Beauty/@25.680094,-80.315279,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9c7e101e0d8a7:0x706553881dce32b2!8m2!3d25.680094!4d-80.315279!16s%2Fg%2F11l5lxn_dr",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: 60 Maps reviews (57 tagged en, 3 untagged), site English only. Row language EN.",
+ "services_source": "https://jstudiobeauty.com/treatments/ (+ homepage title/description for injectables)"
+}
