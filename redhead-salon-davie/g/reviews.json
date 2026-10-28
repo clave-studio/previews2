@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Angela",
+   "rating": 5,
+   "text": "So grateful to have found Redhead Salon. Jaci is absolutely amazing. I have very thick hair and she knows just how to handle it and I received so many compliments on my color. The whole office is very nice and professional. Thank you so much.",
+   "reviewer": "Angela M22",
+   "date": "2021-01-26T14:55:02.095Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Redhead+Salon/@26.0903677,-80.2501743,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9078a4040ff17:0x263001bfa477e0b2!8m2!3d26.0903677!4d-80.2501743!16s%2Fg%2F1tgptdrc"
+  },
+  {
+   "first": "Ina",
+   "rating": 5,
+   "text": "Maegan is great! This salon has relaxed yet upscale atmosphere. Very convenient location.",
+   "reviewer": "Ina Griffin",
+   "date": "2017-02-16T22:40:26.389Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Redhead+Salon/@26.0903677,-80.2501743,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9078a4040ff17:0x263001bfa477e0b2!8m2!3d26.0903677!4d-80.2501743!16s%2Fg%2F1tgptdrc"
+  },
+  {
+   "first": "Desiree",
+   "rating": 5,
+   "text": "I first went to Redhead for my wedding hairstyle consultation 2 years ago and have been getting my hair done there ever since. I have extremely long, thick hair--no other salon has ever been able to make my hair look quite like Redhead does. I'll never go anywhere else!",
+   "reviewer": "Desiree Colon",
+   "date": "2014-08-26T19:21:07.632Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Redhead+Salon/@26.0903677,-80.2501743,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9078a4040ff17:0x263001bfa477e0b2!8m2!3d26.0903677!4d-80.2501743!16s%2Fg%2F1tgptdrc"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Redhead+Salon/@26.0903677,-80.2501743,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9078a4040ff17:0x263001bfa477e0b2!8m2!3d26.0903677!4d-80.2501743!16s%2Fg%2F1tgptdrc",
+ "toggle": false,
+ "toggle_evidence": "No Spanish found: 60 Maps reviews all English; site English only.",
+ "services_source": "https://redheadsalon.net/hair-services/"
+}
