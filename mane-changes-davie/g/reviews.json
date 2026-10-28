@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Patti",
+   "rating": 5,
+   "text": "Fantastic highlights and hairstyle! I had damaged blonde hair and lots of dead ends. All revived by Roxanna and the owner Alex was terrific. Highly recommend",
+   "reviewer": "Patti K.",
+   "date": "2026-06-11T22:53:33.871Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Mane+Changes+Salon/@26.061215,-80.253311,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9a841c1c14de7:0xef5a04c4c1609d7e!8m2!3d26.061215!4d-80.253311!16s%2Fg%2F1tfrsqnx"
+  },
+  {
+   "first": "Lori",
+   "rating": 5,
+   "text": "Alex is always amazing! He is the king of beautiful highlights!! Everyone else that works there is amazing too, you can’t go wrong with any of the stylists. They are always so welcoming and professional!",
+   "reviewer": "Lori Kurzejewski",
+   "date": "2026-01-08T20:54:50.259Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Mane+Changes+Salon/@26.061215,-80.253311,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9a841c1c14de7:0xef5a04c4c1609d7e!8m2!3d26.061215!4d-80.253311!16s%2Fg%2F1tfrsqnx"
+  },
+  {
+   "first": "Carola",
+   "rating": 5,
+   "text": "I had an amazing experience! From the moment I walked in, I felt welcomed and comfortable. Alex really took the time to listen to what I wanted and gave great suggestions based on my hair type and style. The result was even better than I imagined—my hair looks healthy and feels incredible! THANK YOU!!!",
+   "reviewer": "Carola Mendoza",
+   "date": "2026-05-02T16:33:35.117Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Mane+Changes+Salon/@26.061215,-80.253311,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9a841c1c14de7:0xef5a04c4c1609d7e!8m2!3d26.061215!4d-80.253311!16s%2Fg%2F1tfrsqnx"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Mane+Changes+Salon/@26.061215,-80.253311,17z/data=!3m1!4b1!4m6!3m5!1s0x88d9a841c1c14de7:0xef5a04c4c1609d7e!8m2!3d26.061215!4d-80.253311!16s%2Fg%2F1tfrsqnx",
+ "toggle": true,
+ "toggle_evidence": "Own site, The Team page (https://www.manechangessalon.com/the-team): stylist Eva described as \"a Spanish speaker from Nicaragua\"; stylist Karina \"a sprinkle of Spanish\"; owner Alex originally from the Dominican Republic. Maps: a 5-star review by Juana Encarnacion tagged language \"es\" (2026-03-06). Row language: ES.",
+ "services_source": "https://www.manechangessalon.com/copy-of-career"
+}
