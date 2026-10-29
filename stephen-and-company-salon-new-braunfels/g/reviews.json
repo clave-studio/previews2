@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Abigail",
+   "rating": 5,
+   "text": "I went to Stephen & Co. for the first time recently and had the best experience. Sofia did my balayage, and she absolutely nailed it—natural, blended, and exactly what I was hoping for. She was kind, professional, and made me feel completely at ease. The salon itself is beautiful and welcoming. I’m already looking forward to going back!",
+   "reviewer": "Abigail Kemter",
+   "date": "2025-04-25T20:55:42.711Z",
+   "lang": "en",
+   "file": "rev/22.json",
+   "source": "https://www.google.com/maps/place/Stephen+And+Company+Salon/@29.6979464,-98.1187169,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd696c9eaaab:0xe547833a881c6e92!8m2!3d29.6979464!4d-98.1187169!16s%2Fg%2F11fnyp9j4z"
+  },
+  {
+   "first": "Brittany",
+   "rating": 5,
+   "text": "Not only is Heather fun and outgoing, but she’s also a true color genius. She’s done a few balayages for me, and the blending and dimension are flawless every time! I highly recommend her to anyone looking to elevate their hair color. She also gives excellent tips on products and maintaining healthy hair, which I really appreciate!",
+   "reviewer": "Brittany",
+   "date": "2024-10-24T22:20:38.172Z",
+   "lang": "en",
+   "file": "rev/22.json",
+   "source": "https://www.google.com/maps/place/Stephen+And+Company+Salon/@29.6979464,-98.1187169,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd696c9eaaab:0xe547833a881c6e92!8m2!3d29.6979464!4d-98.1187169!16s%2Fg%2F11fnyp9j4z"
+  },
+  {
+   "first": "Sheri",
+   "rating": 5,
+   "text": "Megan was recommended to me after someone else messed up my hair, and I’m so glad I went to her! She did an absolutely amazing job fixing it. She’s professional, talented, and really listened to what I wanted. I left feeling confident and so happy with the results. Megan is awesome—I highly recommend her!",
+   "reviewer": "Sheri Brooks",
+   "date": "2025-05-31T23:28:44.582Z",
+   "lang": "en",
+   "file": "rev/22.json",
+   "source": "https://www.google.com/maps/place/Stephen+And+Company+Salon/@29.6979464,-98.1187169,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd696c9eaaab:0xe547833a881c6e92!8m2!3d29.6979464!4d-98.1187169!16s%2Fg%2F11fnyp9j4z"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Stephen+And+Company+Salon/@29.6979464,-98.1187169,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd696c9eaaab:0xe547833a881c6e92!8m2!3d29.6979464!4d-98.1187169!16s%2Fg%2F11fnyp9j4z",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.stephenandcompanysalon.com/services"
+}

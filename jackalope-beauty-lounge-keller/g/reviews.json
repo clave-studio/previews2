@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Melissa",
+   "rating": 5,
+   "text": "I love seeing Meg, and my husband has been seeing Chris for years. They are experts at what they do and maintain a relaxing environment for their clientele. When I come and just describe a vibe I’m looking for with my hair, Meg gets it spot on each time.",
+   "reviewer": "Melissa Mansell",
+   "date": "2023-04-06T23:44:51.166Z",
+   "lang": "en",
+   "file": "rev/23.json",
+   "source": "https://www.google.com/maps/place/Jackalope/@32.9308092,-97.2526688,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd768ce8b5c9f:0x94e64729c2ab4dae!8m2!3d32.9308092!4d-97.2526688!16s%2Fg%2F11bycjk4lk"
+  },
+  {
+   "first": "Jake",
+   "rating": 5,
+   "text": "Chris does an amazing job every time. He listens, makes sure you get exactly what you want, and is very meticulous. I'm very particular about my hair and I can't recommend Chris and Jackalope enough!",
+   "reviewer": "Jake Herring",
+   "date": "2020-12-17T22:26:07.429Z",
+   "lang": "en",
+   "file": "rev/23.json",
+   "source": "https://www.google.com/maps/place/Jackalope/@32.9308092,-97.2526688,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd768ce8b5c9f:0x94e64729c2ab4dae!8m2!3d32.9308092!4d-97.2526688!16s%2Fg%2F11bycjk4lk"
+  },
+  {
+   "first": "Tiffany",
+   "rating": 5,
+   "text": "Had the best experience getting my hair done. Lisa works miracles and I absolutely love my hair for the first time in many years. I finally found my hair stylist.",
+   "reviewer": "Tiffany Halderman",
+   "date": "2023-06-09T22:43:21.320Z",
+   "lang": "en",
+   "file": "rev/23.json",
+   "source": "https://www.google.com/maps/place/Jackalope/@32.9308092,-97.2526688,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd768ce8b5c9f:0x94e64729c2ab4dae!8m2!3d32.9308092!4d-97.2526688!16s%2Fg%2F11bycjk4lk"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Jackalope/@32.9308092,-97.2526688,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd768ce8b5c9f:0x94e64729c2ab4dae!8m2!3d32.9308092!4d-97.2526688!16s%2Fg%2F11bycjk4lk",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://jackalopebeauty.com/services/"
+}

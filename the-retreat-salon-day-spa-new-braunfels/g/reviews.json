@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jill",
+   "rating": 5,
+   "text": "I really enjoy getting a massage at the Retreat. Chase is great. He always asks me which area needs attention (shoulders, back, legs, etc) so he can focus the massage where it will have the best impact. I always leave feeling relaxed and restored. I even make my next appointment before I leave.",
+   "reviewer": "Jill Troyer",
+   "date": "2026-10-07T23:33:53.991Z",
+   "lang": "en",
+   "file": "rev/21.json",
+   "source": "https://www.google.com/maps/place/The+Retreat+Salon+%26+Day+Spa/@29.708842,-98.1185216,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd5c2f79dc65:0x50b255c791f51573!8m2!3d29.708842!4d-98.1185216!16s%2Fg%2F1tc_fphr"
+  },
+  {
+   "first": "Kelly",
+   "rating": 5,
+   "text": "Susan is a great stylist. She is experienced, and extremely dedicated. She listens to her clients, but also gives valuable feedback. Susan is extremely patient with new clients, which is really hard to find.\nHighly recommend Susan!",
+   "reviewer": "Kelly Peek-Price",
+   "date": "2026-09-25T22:00:47.128Z",
+   "lang": "en",
+   "file": "rev/21.json",
+   "source": "https://www.google.com/maps/place/The+Retreat+Salon+%26+Day+Spa/@29.708842,-98.1185216,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd5c2f79dc65:0x50b255c791f51573!8m2!3d29.708842!4d-98.1185216!16s%2Fg%2F1tc_fphr"
+  },
+  {
+   "first": "Susan",
+   "rating": 5,
+   "text": "Pam has been doing my manicures and pedicures for a while now and she is the best! She’s very thorough and meticulous! Always perfect!!! I tried many places when I moved to this area and finally found Pam!",
+   "reviewer": "Susan Demiany",
+   "date": "2026-08-21T22:35:56.880Z",
+   "lang": "en",
+   "file": "rev/21.json",
+   "source": "https://www.google.com/maps/place/The+Retreat+Salon+%26+Day+Spa/@29.708842,-98.1185216,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd5c2f79dc65:0x50b255c791f51573!8m2!3d29.708842!4d-98.1185216!16s%2Fg%2F1tc_fphr"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Retreat+Salon+%26+Day+Spa/@29.708842,-98.1185216,17z/data=!3m1!4b1!4m6!3m5!1s0x865cbd5c2f79dc65:0x50b255c791f51573!8m2!3d29.708842!4d-98.1185216!16s%2Fg%2F1tc_fphr",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://theretreatnb.com/ service pages: /spa/massage-new-braunfels/, /spa/facials-new-braunfels/, /specialty-services/lashes-brows/, /salon/waxing-new-braunfels/, /salon/hair-new-braunfels/, /spa/nails-new-braunfels/, /spa/packages/"
+}
