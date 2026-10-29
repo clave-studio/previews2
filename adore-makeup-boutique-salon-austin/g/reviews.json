@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Justine",
+   "rating": 5,
+   "text": "I got wedding hair and makeup done at Adore on September 15th. Both were amazing and coordination of the appointment was really easy and smooth, thanks to Shirley. Very grateful for the artists here!",
+   "reviewer": "Justine",
+   "date": "2024-10-17T23:45:15.127Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Adore+Makeup+Boutique+%2B+Salon/@30.2762336,-97.8035507,17z/data=!3m1!4b1!4m6!3m5!1s0x8644ca59f9ba28e7:0xe4430b26f186b358!8m2!3d30.2762336!4d-97.8035507!16s%2Fg%2F11h09v6vd"
+  },
+  {
+   "first": "Shannon",
+   "rating": 5,
+   "text": "Rhea did my makeup for a headshot I needed. She made me feel completely comfortable, and made me look like my very best self. I felt beautiful and natural. She even sent me home with the lipstick I loved! She is such a kind person, and so professional. I would recommend her or her team to anyone!",
+   "reviewer": "Shannon Rigby",
+   "date": "2024-01-15T19:55:54.868Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Adore+Makeup+Boutique+%2B+Salon/@30.2762336,-97.8035507,17z/data=!3m1!4b1!4m6!3m5!1s0x8644ca59f9ba28e7:0xe4430b26f186b358!8m2!3d30.2762336!4d-97.8035507!16s%2Fg%2F11h09v6vd"
+  },
+  {
+   "first": "Laura",
+   "rating": 5,
+   "text": "Rhea at Adore is literally THE BEST at microblading! She is extremely skilled and creates eyebrows that suit your face. She is the best around!",
+   "reviewer": "Laura Guidry",
+   "date": "2024-01-16T22:23:22.361Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Adore+Makeup+Boutique+%2B+Salon/@30.2762336,-97.8035507,17z/data=!3m1!4b1!4m6!3m5!1s0x8644ca59f9ba28e7:0xe4430b26f186b358!8m2!3d30.2762336!4d-97.8035507!16s%2Fg%2F11h09v6vd"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Adore+Makeup+Boutique+%2B+Salon/@30.2762336,-97.8035507,17z/data=!3m1!4b1!4m6!3m5!1s0x8644ca59f9ba28e7:0xe4430b26f186b358!8m2!3d30.2762336!4d-97.8035507!16s%2Fg%2F11h09v6vd",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish in 60 newest Google reviews",
+ "services_source": "https://www.adoremakeupsalon.com/ service pages (Makeup Bar & Hair Magic, Brow Bar, Lessons & Parties, Weddings)"
+}

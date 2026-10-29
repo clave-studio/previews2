@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Dana",
+   "rating": 5,
+   "text": "Couldn’t ask for better experience. Shannon was AMAZING! She was helpful, attentive, informative and professional. The entire staff went above and beyond to provide the best service possible. Will definitely be back.",
+   "reviewer": "Dana Kenny",
+   "date": "2026-10-17T22:46:24.336Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Viva+La+Med+Spa/@41.9127917,-87.6346016,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd38888639a7b:0x2b0cf9398025895d!8m2!3d41.9127917!4d-87.6346016!16s%2Fg%2F11skp90gdm"
+  },
+  {
+   "first": "Rebecca",
+   "rating": 5,
+   "text": "Got the express facial. It was very relaxing and my skin looked healthier. The owner and staff were very nice and knowledgeable. Would definitely recommend it!",
+   "reviewer": "Rebecca Vergara",
+   "date": "2026-10-05T20:02:41.607Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Viva+La+Med+Spa/@41.9127917,-87.6346016,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd38888639a7b:0x2b0cf9398025895d!8m2!3d41.9127917!4d-87.6346016!16s%2Fg%2F11skp90gdm"
+  },
+  {
+   "first": "Lori",
+   "rating": 5,
+   "text": "I went in today for a lash lift and Brazilian wax. Maya took care of me. I’ve been here before but today was my best experience yet. She was meticulous with my wax and gentle with my lashes. I left feeling like a million bucks. Thank you so much. Will be back soon!",
+   "reviewer": "Lori G",
+   "date": "2026-09-28T19:38:23.508Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Viva+La+Med+Spa/@41.9127917,-87.6346016,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd38888639a7b:0x2b0cf9398025895d!8m2!3d41.9127917!4d-87.6346016!16s%2Fg%2F11skp90gdm"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Viva+La+Med+Spa/@41.9127917,-87.6346016,17z/data=!3m1!4b1!4m6!3m5!1s0x880fd38888639a7b:0x2b0cf9398025895d!8m2!3d41.9127917!4d-87.6346016!16s%2Fg%2F11skp90gdm",
+ "toggle": true,
+ "toggle_evidence": "Own site home page: \"Hablamos Español. Mówimy po polsku.\"",
+ "services_source": "https://vivalamedspa.com/ Services menu"
+}

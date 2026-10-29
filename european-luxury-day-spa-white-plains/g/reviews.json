@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Marcella",
+   "rating": 5,
+   "text": "Such an amazing experience with Jessica. My skin felt so refreshed and glowing after my facial. She’s super professional, gentle, and really knows what she’s doing. I’ll definitely be coming back. I even got a complimentary glass of wine, which made the whole experience feel so relaxing.",
+   "reviewer": "Marcella Mazzarri",
+   "date": "2026-03-20T23:18:36.399Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/European+Luxury+Day+Spa/@41.0221633,-73.7589019,17z/data=!3m1!4b1!4m6!3m5!1s0x89c295558e506c37:0xd67bf4bfe1d42ae4!8m2!3d41.0221633!4d-73.7589019!16s%2Fg%2F11p12vfr6z"
+  },
+  {
+   "first": "Nicolle",
+   "rating": 5,
+   "text": "I got a 50 minute Swedish massage today, and it was a lovely experience from beginning to end! I will definitely be coming back to try other services at the spa like one of the body scrubs.",
+   "reviewer": "Nicolle Salazar",
+   "date": "2026-03-16T15:58:43.508Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/European+Luxury+Day+Spa/@41.0221633,-73.7589019,17z/data=!3m1!4b1!4m6!3m5!1s0x89c295558e506c37:0xd67bf4bfe1d42ae4!8m2!3d41.0221633!4d-73.7589019!16s%2Fg%2F11p12vfr6z"
+  },
+  {
+   "first": "Leila",
+   "rating": 5,
+   "text": "Had a facial with Deana today. She was so gentle and attentive. It was relaxing and my skin feels great! I definitely recommend a visit. The spa is beautiful and calming.",
+   "reviewer": "Leila Kharem",
+   "date": "2025-06-28T21:07:33.957Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/European+Luxury+Day+Spa/@41.0221633,-73.7589019,17z/data=!3m1!4b1!4m6!3m5!1s0x89c295558e506c37:0xd67bf4bfe1d42ae4!8m2!3d41.0221633!4d-73.7589019!16s%2Fg%2F11p12vfr6z"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/European+Luxury+Day+Spa/@41.0221633,-73.7589019,17z/data=!3m1!4b1!4m6!3m5!1s0x89c295558e506c37:0xd67bf4bfe1d42ae4!8m2!3d41.0221633!4d-73.7589019!16s%2Fg%2F11p12vfr6z",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish in 60 newest Google reviews",
+ "services_source": "https://www.euroluxdayspa.com/ service pages (Facials, Massages & Body Wraps, Body Care, Waxing, Eyebrows & Lashes)"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Makenzie",
+   "rating": 5,
+   "text": "I had a great experience at Copper Willow! Jenn was fantastic, made me feel comfortable, and did an amazing job on my haircut. I’m so happy with my experience and look forward to seeing her again! Highly recommend!",
+   "reviewer": "Makenzie Owens",
+   "date": "2026-10-16T20:40:51.087Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Copper+Willow+Salon/@35.2288448,-80.8615654,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f70d29cf4d3:0xc4808c4440406855!8m2!3d35.2288448!4d-80.8615654!16s%2Fg%2F11dd_m5z0f"
+  },
+  {
+   "first": "Karen",
+   "rating": 5,
+   "text": "What a beautiful venue to get the haircut of my dreams!! Kelsey gave me an expert cut that changed my look and attitude for the better. Atmosphere is lively and soothing! Beautiful place, easy parking and I highly recommend Kelsey.",
+   "reviewer": "Karen Hazel",
+   "date": "2026-10-03T01:00:57.385Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Copper+Willow+Salon/@35.2288448,-80.8615654,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f70d29cf4d3:0xc4808c4440406855!8m2!3d35.2288448!4d-80.8615654!16s%2Fg%2F11dd_m5z0f"
+  },
+  {
+   "first": "Liz",
+   "rating": 5,
+   "text": "Ana was phenomenal! She got my hair to the lightest it's been in years while keeping it healthy. I highly recommend her!",
+   "reviewer": "Liz Curry",
+   "date": "2026-07-13T16:57:36.893Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Copper+Willow+Salon/@35.2288448,-80.8615654,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f70d29cf4d3:0xc4808c4440406855!8m2!3d35.2288448!4d-80.8615654!16s%2Fg%2F11dd_m5z0f"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Copper+Willow+Salon/@35.2288448,-80.8615654,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f70d29cf4d3:0xc4808c4440406855!8m2!3d35.2288448!4d-80.8615654!16s%2Fg%2F11dd_m5z0f",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish in 60 newest Google reviews",
+ "services_source": "https://www.copperwillowsalon.com/ home + https://copperwillow.glossgenius.com/services"
+}
