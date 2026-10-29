@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Michelle",
+   "rating": 5,
+   "text": "Have been going here for years! Maryam is the owner and she is great, my hair and color are always spot on!",
+   "reviewer": "Michelle Suika",
+   "date": "2025-02-27T20:09:33.209Z",
+   "lang": "en",
+   "file": "rev/19.json",
+   "source": "https://www.google.com/maps/place/Kamran's+Hair+Concepts/@28.6871696,-81.3913622,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773d1a5c3e477:0x2ad9047623133e96!8m2!3d28.6871696!4d-81.3913622!16s%2Fg%2F1tfjx2_0"
+  },
+  {
+   "first": "Savanna",
+   "rating": 5,
+   "text": "Raja colored my hair and it’s the most beautiful it has ever been. Everyone stops me to tell me how gorgeous the color is! I recommend Raja to anyone looking to get some color done; nobody can do it like her. She also styled and cut my hair and did it exactly how I wanted, just like she always does.",
+   "reviewer": "Savanna Matson",
+   "date": "2024-08-29T02:38:21.399Z",
+   "lang": "en",
+   "file": "rev/19.json",
+   "source": "https://www.google.com/maps/place/Kamran's+Hair+Concepts/@28.6871696,-81.3913622,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773d1a5c3e477:0x2ad9047623133e96!8m2!3d28.6871696!4d-81.3913622!16s%2Fg%2F1tfjx2_0"
+  },
+  {
+   "first": "Christy",
+   "rating": 5,
+   "text": "I come here for everything! Maryam and the girls are great! They really go above and beyond, making sure everything looks perfect for you! I highly recommend.",
+   "reviewer": "Christy S.",
+   "date": "2023-02-03T21:01:52.643Z",
+   "lang": "en",
+   "file": "rev/19.json",
+   "source": "https://www.google.com/maps/place/Kamran's+Hair+Concepts/@28.6871696,-81.3913622,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773d1a5c3e477:0x2ad9047623133e96!8m2!3d28.6871696!4d-81.3913622!16s%2Fg%2F1tfjx2_0"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Kamran's+Hair+Concepts/@28.6871696,-81.3913622,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773d1a5c3e477:0x2ad9047623133e96!8m2!3d28.6871696!4d-81.3913622!16s%2Fg%2F1tfjx2_0",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "http://kamranshair.com/services-2 + /womens-styling, /nail-care-services, /other-services, /make-up-wedding-services"
+}

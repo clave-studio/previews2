@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Lauren",
+   "rating": 5,
+   "text": "I've been getting my hair colored, highlighted, and cut by Rico for a while now. He takes his time to do a thorough consultation before beginning to ensure my hair turns out great. I always leave the salon happy and more confident when Rico does my hair - plus he's the sweetest guy! Definitely recommend this salon.",
+   "reviewer": "Lauren Bresner",
+   "date": "2026-02-05T19:49:21.012Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Conte+Salon/@26.5262188,-80.1867219,17z/data=!3m1!4b1!4m6!3m5!1s0x88d92160af1588bb:0xbfd278e77166bbdc!8m2!3d26.5262188!4d-80.1867219!16s%2Fg%2F1ts1nfjg"
+  },
+  {
+   "first": "Mary",
+   "rating": 5,
+   "text": "The Conte Salon mirrors the finest Madison Avenue salon. Polina is a superb colorist and stylist. She went above and beyond my expectations. I love my hair! Thank you Polina. I will highly recommend the salon and Polina to my friends and family.",
+   "reviewer": "Mary Costello",
+   "date": "2025-01-29T19:17:05.010Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Conte+Salon/@26.5262188,-80.1867219,17z/data=!3m1!4b1!4m6!3m5!1s0x88d92160af1588bb:0xbfd278e77166bbdc!8m2!3d26.5262188!4d-80.1867219!16s%2Fg%2F1ts1nfjg"
+  },
+  {
+   "first": "Wendy",
+   "rating": 5,
+   "text": "Kathia did my color and extensions. She is the best. The color looks beautiful. Amazing highlights and depth. The extensions are incredible. I feel great. Highly recommend!!!",
+   "reviewer": "Wendy B",
+   "date": "2024-10-13T00:07:30.962Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Conte+Salon/@26.5262188,-80.1867219,17z/data=!3m1!4b1!4m6!3m5!1s0x88d92160af1588bb:0xbfd278e77166bbdc!8m2!3d26.5262188!4d-80.1867219!16s%2Fg%2F1ts1nfjg"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Conte+Salon/@26.5262188,-80.1867219,17z/data=!3m1!4b1!4m6!3m5!1s0x88d92160af1588bb:0xbfd278e77166bbdc!8m2!3d26.5262188!4d-80.1867219!16s%2Fg%2F1ts1nfjg",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 1 of 60 newest Google reviews in Spanish (too weak)",
+ "services_source": "https://contesalon.com/hair-design/ + /hair-color/, /keratin-treatments/, /hair-extensions/, /bridal-styling/, /nails/, /skin/"
+}

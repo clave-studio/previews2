@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Amanda",
+   "rating": 5,
+   "text": "Shirley did a great job with my hair! I recently moved from out-of-state, and my hair is definitely not used to the water here. I came in with brassy hair, and Shirley fixed it with good product and styling. I love the cut as well!",
+   "reviewer": "Amanda Lo",
+   "date": "2026-07-30T15:46:41.922Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/Sweetwater+Salon+%26+Spa,+Inc./@28.68451,-81.2081993,17z/data=!3m1!4b1!4m6!3m5!1s0x88e76bcb5681202b:0x8b96cd7769233ed7!8m2!3d28.68451!4d-81.2081993!16s%2Fg%2F1hc52qff_"
+  },
+  {
+   "first": "Louise",
+   "rating": 5,
+   "text": "Mira is amazing. She really listens and gives you the best outcome. She goes above and beyond to make sure you leave happy and looking your best. I cannot recommend her enough.",
+   "reviewer": "Louise Tifft",
+   "date": "2025-10-30T00:25:24.730Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/Sweetwater+Salon+%26+Spa,+Inc./@28.68451,-81.2081993,17z/data=!3m1!4b1!4m6!3m5!1s0x88e76bcb5681202b:0x8b96cd7769233ed7!8m2!3d28.68451!4d-81.2081993!16s%2Fg%2F1hc52qff_"
+  },
+  {
+   "first": "Mara",
+   "rating": 5,
+   "text": "Had a wonderful facial with Sunny! The facial was very relaxing and lovely experience. My skin feels soft and smooth. The space was lovely and well maintained. Great experience!",
+   "reviewer": "Mara Jimenez",
+   "date": "2024-12-14T19:37:08.427Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/Sweetwater+Salon+%26+Spa,+Inc./@28.68451,-81.2081993,17z/data=!3m1!4b1!4m6!3m5!1s0x88e76bcb5681202b:0x8b96cd7769233ed7!8m2!3d28.68451!4d-81.2081993!16s%2Fg%2F1hc52qff_"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Sweetwater+Salon+%26+Spa,+Inc./@28.68451,-81.2081993,17z/data=!3m1!4b1!4m6!3m5!1s0x88e76bcb5681202b:0x8b96cd7769233ed7!8m2!3d28.68451!4d-81.2081993!16s%2Fg%2F1hc52qff_",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 1 of 60 newest Google reviews in Spanish (too weak)",
+ "services_source": "https://sweetwatersalonandspa.com/Services"
+}

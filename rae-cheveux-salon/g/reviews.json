@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Patricia",
+   "rating": 5,
+   "text": "Fantastic cut by Jessica. Did exactly what I asked for. So happy to have found my salon finally.",
+   "reviewer": "Patricia Markusic",
+   "date": "2026-07-14T15:58:45.983Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Rae+Cheveux+Salon/@28.5644335,-81.7373785,17z/data=!3m1!4b1!4m6!3m5!1s0x88e78e545312047b:0xddd0f6f30c88db04!8m2!3d28.5644335!4d-81.7373785!16s%2Fg%2F11g6r249sk"
+  },
+  {
+   "first": "Kaitlynn",
+   "rating": 5,
+   "text": "I have been going to Kelly for years and there’s truly nobody else I would trust with my hair. Her haircuts are the best and she has revived my hair so it’s never been healthier.",
+   "reviewer": "Kaitlynn McCroy",
+   "date": "2026-01-20T18:18:56.562Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Rae+Cheveux+Salon/@28.5644335,-81.7373785,17z/data=!3m1!4b1!4m6!3m5!1s0x88e78e545312047b:0xddd0f6f30c88db04!8m2!3d28.5644335!4d-81.7373785!16s%2Fg%2F11g6r249sk"
+  },
+  {
+   "first": "Angie",
+   "rating": 5,
+   "text": "Been going to this salon on and off for years now! Always have great service! Rebecca is my stylist and I highly recommend her! Very personable and fun and very knowledgeable about her craft. Very happy with my services. Highly recommend.",
+   "reviewer": "Angie N",
+   "date": "2026-05-21T21:48:11.219Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Rae+Cheveux+Salon/@28.5644335,-81.7373785,17z/data=!3m1!4b1!4m6!3m5!1s0x88e78e545312047b:0xddd0f6f30c88db04!8m2!3d28.5644335!4d-81.7373785!16s%2Fg%2F11g6r249sk"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Rae+Cheveux+Salon/@28.5644335,-81.7373785,17z/data=!3m1!4b1!4m6!3m5!1s0x88e78e545312047b:0xddd0f6f30c88db04!8m2!3d28.5644335!4d-81.7373785!16s%2Fg%2F11g6r249sk",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://raecheveuxsalon.com/ + /faqs"
+}

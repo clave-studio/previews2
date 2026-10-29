@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Tamara",
+   "rating": 5,
+   "text": "Bonnie is an absolute magician with color. I haven’t trusted anyone else with my hair for the past 3+ years! She does blonde better than anyone, always knowing exactly what my hair needs and what will look best. I always leave her chair amazed.",
+   "reviewer": "Tamara L.",
+   "date": "2025-09-20T17:58:33.066Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Moriah+Brandon's+Hair+Salon/@28.6926082,-81.3877759,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773fd1014e039:0x8f11b9f8a8deb3c4!8m2!3d28.6926082!4d-81.3877759!16s%2Fg%2F1tfg3xtm"
+  },
+  {
+   "first": "Sophia",
+   "rating": 5,
+   "text": "Lucia has been doing my hair cut, keratin & color for years! Always feel so refreshed leaving her! Couldn’t recommend her enough.",
+   "reviewer": "Sophia Tanner",
+   "date": "2025-08-12T20:46:26.428Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Moriah+Brandon's+Hair+Salon/@28.6926082,-81.3877759,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773fd1014e039:0x8f11b9f8a8deb3c4!8m2!3d28.6926082!4d-81.3877759!16s%2Fg%2F1tfg3xtm"
+  },
+  {
+   "first": "Rosalind",
+   "rating": 5,
+   "text": "I am so pleased with my hair cut! Liz cut my hair and did an amazing job! My hair was a wreck and she brought it back to life! Thank you so much!",
+   "reviewer": "Rosalind Smith",
+   "date": "2023-12-21T02:14:32.310Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Moriah+Brandon's+Hair+Salon/@28.6926082,-81.3877759,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773fd1014e039:0x8f11b9f8a8deb3c4!8m2!3d28.6926082!4d-81.3877759!16s%2Fg%2F1tfg3xtm"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Moriah+Brandon's+Hair+Salon/@28.6926082,-81.3877759,17z/data=!3m1!4b1!4m6!3m5!1s0x88e773fd1014e039:0x8f11b9f8a8deb3c4!8m2!3d28.6926082!4d-81.3877759!16s%2Fg%2F1tfg3xtm",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.moriahbrandons.com/services"
+}
