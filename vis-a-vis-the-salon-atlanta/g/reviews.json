@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kris",
+   "rating": 5,
+   "text": "Blane is an excellent colorist and stylist! I've been going to him for years, and he always knows exactly the color I'm looking for. He's knowledgeable, explains the process well, and consistently delivers great results. Highly recommend!",
+   "reviewer": "Kris Christner",
+   "date": "2026-06-01T21:03:33.836Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Vis+A+Vis+The+Salon/@33.8379106,-84.3768691,17z/data=!3m1!4b1!4m6!3m5!1s0x88f5058d10d20a07:0x67546280e66161dd!8m2!3d33.8379106!4d-84.3768691!16s%2Fg%2F1tdch64s"
+  },
+  {
+   "first": "Lauren",
+   "rating": 5,
+   "text": "This is the nicest salon in Atlanta. Jeffrey, the owner gives the very best haircut and then styles your hair to perfection! I get so many compliments on my hair and I owe it all to him!",
+   "reviewer": "Lauren Flint",
+   "date": "2026-01-28T20:27:59.836Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Vis+A+Vis+The+Salon/@33.8379106,-84.3768691,17z/data=!3m1!4b1!4m6!3m5!1s0x88f5058d10d20a07:0x67546280e66161dd!8m2!3d33.8379106!4d-84.3768691!16s%2Fg%2F1tdch64s"
+  },
+  {
+   "first": "Katie",
+   "rating": 5,
+   "text": "Sawyer is the absolute best! She always gives top notch customer service with style tips to help with my everyday look. She always gives a beautiful cut and is my go to stylist.",
+   "reviewer": "Katie Quinn",
+   "date": "2025-09-23T16:59:02.977Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Vis+A+Vis+The+Salon/@33.8379106,-84.3768691,17z/data=!3m1!4b1!4m6!3m5!1s0x88f5058d10d20a07:0x67546280e66161dd!8m2!3d33.8379106!4d-84.3768691!16s%2Fg%2F1tdch64s"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Vis+A+Vis+The+Salon/@33.8379106,-84.3768691,17z/data=!3m1!4b1!4m6!3m5!1s0x88f5058d10d20a07:0x67546280e66161dd!8m2!3d33.8379106!4d-84.3768691!16s%2Fg%2F1tdch64s",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.visavisthesalon.com/services"
+}

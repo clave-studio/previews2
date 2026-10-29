@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Yanna",
+   "rating": 5,
+   "text": "I had an amazing experience at the hair salon and with Nikki! She was attentive, skilled, and executed exactly what I wanted. Nikki's passion for her craft and friendly nature made the visit truly enjoyable. My hair looks fantastic, and I highly recommend her services. A five-star experience all the way!",
+   "reviewer": "Yanna Angel",
+   "date": "2023-07-02T16:27:00.280Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Brash+Hairdressers/@34.061631,-84.22472,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59f01d0303533:0xbf5dedea086a4df5!8m2!3d34.061631!4d-84.22472!16s%2Fg%2F1tfcznn1"
+  },
+  {
+   "first": "Joyce",
+   "rating": 5,
+   "text": "Just got my first haircut by Nikki and it was perfect! I'm 69 and only three times in my life I had a good haircut and this was one of the best! Thank you!",
+   "reviewer": "Joyce Knox",
+   "date": "2023-08-08T23:56:17.304Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Brash+Hairdressers/@34.061631,-84.22472,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59f01d0303533:0xbf5dedea086a4df5!8m2!3d34.061631!4d-84.22472!16s%2Fg%2F1tfcznn1"
+  },
+  {
+   "first": "Divya",
+   "rating": 5,
+   "text": "I’ve been getting my haircuts from Kennadi since 2024, and I couldn’t imagine going to anyone else! She always gives me the best haircut, even when I have no idea what I want. My hair feels healthier than ever. Kennadi is so relatable and easy to talk to about anything, which makes appointments so enjoyable. Having a hairstylist you feel comfortable with makes the whole experience even better!",
+   "reviewer": "Divya Radhakrishnan",
+   "date": "2026-10-02T03:24:37.664Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Brash+Hairdressers/@34.061631,-84.22472,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59f01d0303533:0xbf5dedea086a4df5!8m2!3d34.061631!4d-84.22472!16s%2Fg%2F1tfcznn1"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Brash+Hairdressers/@34.061631,-84.22472,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59f01d0303533:0xbf5dedea086a4df5!8m2!3d34.061631!4d-84.22472!16s%2Fg%2F1tfcznn1",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://brashhairdressers.com/brash-services/"
+}

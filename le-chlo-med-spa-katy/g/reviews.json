@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Alex",
+   "rating": 5,
+   "text": "I had a great time with Bella. She treated me so well and gave me the best facial ever. She was so kind and gentle and made my skin feel so good.",
+   "reviewer": "Alex Bowman",
+   "date": "2026-04-27T04:04:56.038Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Le+Chlo%C3%A9+Med+Spa/@29.8035729,-95.7528687,17z/data=!3m1!4b1!4m6!3m5!1s0x864127b17361357d:0xb39f4fa606dcfc04!8m2!3d29.8035729!4d-95.7528687!16s%2Fg%2F11qgv6ychy"
+  },
+  {
+   "first": "Gillian",
+   "rating": 5,
+   "text": "I love getting my services done here. Bella always knows exactly what to do for my skin. I get so many compliments on my skin now!",
+   "reviewer": "Gillian Loney",
+   "date": "2026-04-27T00:44:00.245Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Le+Chlo%C3%A9+Med+Spa/@29.8035729,-95.7528687,17z/data=!3m1!4b1!4m6!3m5!1s0x864127b17361357d:0xb39f4fa606dcfc04!8m2!3d29.8035729!4d-95.7528687!16s%2Fg%2F11qgv6ychy"
+  },
+  {
+   "first": "Avery",
+   "rating": 5,
+   "text": "Bella did my laser hair removal and chemical peel. She was so sweet and knowledgeable. I appreciated all her recommendations and could tell she really loves her job! The whole spa is so beautiful and relaxing. I will be back soon!",
+   "reviewer": "Avery Whitworth",
+   "date": "2026-04-04T04:40:03.564Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Le+Chlo%C3%A9+Med+Spa/@29.8035729,-95.7528687,17z/data=!3m1!4b1!4m6!3m5!1s0x864127b17361357d:0xb39f4fa606dcfc04!8m2!3d29.8035729!4d-95.7528687!16s%2Fg%2F11qgv6ychy"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Le+Chlo%C3%A9+Med+Spa/@29.8035729,-95.7528687,17z/data=!3m1!4b1!4m6!3m5!1s0x864127b17361357d:0xb39f4fa606dcfc04!8m2!3d29.8035729!4d-95.7528687!16s%2Fg%2F11qgv6ychy",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.lechloemedspa.com/treatments and site nav"
+}

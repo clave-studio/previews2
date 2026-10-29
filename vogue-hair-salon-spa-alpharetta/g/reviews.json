@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Mary",
+   "rating": 5,
+   "text": "As someone who likes being blonde and low maintenance- Amber always does an excellent job. Love having a standing appointment with her at Vogue!",
+   "reviewer": "Mary Catherine Whitlock",
+   "date": "2026-09-18T21:50:04.001Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Vogue+Hair+Salon+%26+Spa/@34.1435713,-84.2486234,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59d9f3d57f1e5:0xef34512550825883!8m2!3d34.1435713!4d-84.2486234!16s%2Fg%2F1hm4jzrpv"
+  },
+  {
+   "first": "Cindy",
+   "rating": 5,
+   "text": "Yes, I’ve been a client of Katrina for many years. The salon has a warm friendly atmosphere. My haircuts and highlights are amazing. Plus- I get a lot of compliments on my hair.",
+   "reviewer": "Cindy King",
+   "date": "2026-05-04T15:20:07.073Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Vogue+Hair+Salon+%26+Spa/@34.1435713,-84.2486234,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59d9f3d57f1e5:0xef34512550825883!8m2!3d34.1435713!4d-84.2486234!16s%2Fg%2F1hm4jzrpv"
+  },
+  {
+   "first": "Keerthana",
+   "rating": 5,
+   "text": "Wonderful experience with Lela. She spent time understanding what exactly I want and found the perfect color for my hair.",
+   "reviewer": "Keerthana Saravanakumar",
+   "date": "2026-04-21T15:54:16.774Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Vogue+Hair+Salon+%26+Spa/@34.1435713,-84.2486234,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59d9f3d57f1e5:0xef34512550825883!8m2!3d34.1435713!4d-84.2486234!16s%2Fg%2F1hm4jzrpv"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Vogue+Hair+Salon+%26+Spa/@34.1435713,-84.2486234,17z/data=!3m1!4b1!4m6!3m5!1s0x88f59d9f3d57f1e5:0xef34512550825883!8m2!3d34.1435713!4d-84.2486234!16s%2Fg%2F1hm4jzrpv",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.hairsalonalpharettaga.com/ service pages: /hair-cuts-styles, /lightening-coloring, /treatments, /waxing, /team-1, /specials"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kathryn",
+   "rating": 5,
+   "text": "Always a great experience at Meraki Luxury Salon. Lori does a great job, I love that she always has ideas for how to cut and style my hair.",
+   "reviewer": "Kathryn",
+   "date": "2026-08-29T15:29:50.642Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Meraki+Luxury+Salon/@35.2002745,-80.8246734,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f4711443685:0x3992e4fa15cf0d38!8m2!3d35.2002745!4d-80.8246734!16s%2Fg%2F11j4mst58l"
+  },
+  {
+   "first": "Bobbie",
+   "rating": 5,
+   "text": "I’ve been going to Ashley Thompson for some time now and I love the cut and color every time. I’m moving out of state but will travel back to get my hair done, she’s that good!",
+   "reviewer": "Bobbie Gilbert",
+   "date": "2026-07-19T14:57:52.408Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Meraki+Luxury+Salon/@35.2002745,-80.8246734,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f4711443685:0x3992e4fa15cf0d38!8m2!3d35.2002745!4d-80.8246734!16s%2Fg%2F11j4mst58l"
+  },
+  {
+   "first": "Meaghan",
+   "rating": 5,
+   "text": "I had a fabulous blowout style with Maddelena! Exactly what I asked for...can't wait to come back when I am in the area again. The salon is so beautiful and welcoming.",
+   "reviewer": "Meaghan Roemer",
+   "date": "2026-06-25T20:26:27.784Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Meraki+Luxury+Salon/@35.2002745,-80.8246734,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f4711443685:0x3992e4fa15cf0d38!8m2!3d35.2002745!4d-80.8246734!16s%2Fg%2F11j4mst58l"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Meraki+Luxury+Salon/@35.2002745,-80.8246734,17z/data=!3m1!4b1!4m6!3m5!1s0x88569f4711443685:0x3992e4fa15cf0d38!8m2!3d35.2002745!4d-80.8246734!16s%2Fg%2F11j4mst58l",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.merakiluxurysalon.com/services"
+}
