@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Ronda",
+   "rating": 5,
+   "text": "Liz is absolutely wonderful! She took the time to truly listen to what I wanted, and her coloring skills are exceptional. I couldn't be happier with the results and would highly recommend her to anyone looking for a talented and attentive stylist.",
+   "reviewer": "Ronda Moll",
+   "date": "2026-10-13T20:14:50.294Z",
+   "lang": "en",
+   "file": "rev/24.json",
+   "source": "https://www.google.com/maps/place/Texas+Blonde+Society/@32.935106,-97.215019,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd5a20053f591:0x9fea22f6f86c2957!8m2!3d32.935106!4d-97.215019!16s%2Fg%2F11q9506qzt"
+  },
+  {
+   "first": "Elle",
+   "rating": 5,
+   "text": "I’ve been in Texas over 4 years and have been to so many stylists, but Caitlyn nailed it!! I finally found my hair person! She crushed the color and was a joy to chat with while getting my blonde on!",
+   "reviewer": "Elle Daniels",
+   "date": "2026-07-08T16:50:04.061Z",
+   "lang": "en",
+   "file": "rev/24.json",
+   "source": "https://www.google.com/maps/place/Texas+Blonde+Society/@32.935106,-97.215019,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd5a20053f591:0x9fea22f6f86c2957!8m2!3d32.935106!4d-97.215019!16s%2Fg%2F11q9506qzt"
+  },
+  {
+   "first": "Lindsay",
+   "rating": 5,
+   "text": "I’m so blessed to have found Lesly and appreciate the time and detail she spends on making me feel beautiful. My hair has never looked so good and I was so relaxed and pampered while at Texas Blonde Society. I’m so happy I did the consultation and leap of faith! Don’t wait - book now!",
+   "reviewer": "Lindsay Klotz",
+   "date": "2026-10-10T14:40:40.699Z",
+   "lang": "en",
+   "file": "rev/24.json",
+   "source": "https://www.google.com/maps/place/Texas+Blonde+Society/@32.935106,-97.215019,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd5a20053f591:0x9fea22f6f86c2957!8m2!3d32.935106!4d-97.215019!16s%2Fg%2F11q9506qzt"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Texas+Blonde+Society/@32.935106,-97.215019,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd5a20053f591:0x9fea22f6f86c2957!8m2!3d32.935106!4d-97.215019!16s%2Fg%2F11q9506qzt",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.texasblondesociety.com/ (home \"the services.\" section) and /about FAQ"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Julie",
+   "rating": 5,
+   "text": "My daughter and I had been looking for a new stylist, and we’re so glad we found Shelbi! She does an amazing job with both color and cuts. We’ve been very happy with her work and would highly recommend her!",
+   "reviewer": "Julie Price",
+   "date": "2026-09-29T01:24:02.399Z",
+   "lang": "en",
+   "file": "rev/25.json",
+   "source": "https://www.google.com/maps/place/Sofia+Elaine+Salon/@32.9877622,-97.1814478,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd544b1de878f:0x1b232a2770d8656b!8m2!3d32.9877622!4d-97.1814478!16s%2Fg%2F11g_ty_8v0"
+  },
+  {
+   "first": "Ashley",
+   "rating": 5,
+   "text": "Shelbi was great! Very sweet and professional. I was unsure what I wanted and she helped me decide and did a phenomenal job! I will definitely return and schedule Shelbi as my stylist.",
+   "reviewer": "Ashley Bell",
+   "date": "2026-09-11T21:02:56.624Z",
+   "lang": "en",
+   "file": "rev/25.json",
+   "source": "https://www.google.com/maps/place/Sofia+Elaine+Salon/@32.9877622,-97.1814478,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd544b1de878f:0x1b232a2770d8656b!8m2!3d32.9877622!4d-97.1814478!16s%2Fg%2F11g_ty_8v0"
+  },
+  {
+   "first": "Nicole",
+   "rating": 5,
+   "text": "Payton is so talented! I always love my color, and when she curls my hair, it looks amazing every time. She has such a great eye, and you can tell she really cares about her work. She’s also such a sweet, genuine person, which makes the whole experience even better. Highly recommend!",
+   "reviewer": "Nicole Ornelas",
+   "date": "2026-06-27T13:15:33.874Z",
+   "lang": "en",
+   "file": "rev/25.json",
+   "source": "https://www.google.com/maps/place/Sofia+Elaine+Salon/@32.9877622,-97.1814478,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd544b1de878f:0x1b232a2770d8656b!8m2!3d32.9877622!4d-97.1814478!16s%2Fg%2F11g_ty_8v0"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Sofia+Elaine+Salon/@32.9877622,-97.1814478,17z/data=!3m1!4b1!4m6!3m5!1s0x864dd544b1de878f:0x1b232a2770d8656b!8m2!3d32.9877622!4d-97.1814478!16s%2Fg%2F11g_ty_8v0",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; 0 of 60 newest Google reviews in Spanish",
+ "services_source": "https://www.sofiaelainesalon.com/services and /services-6 (Luxury Packages)"
+}
