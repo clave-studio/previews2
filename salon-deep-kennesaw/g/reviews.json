@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Anne",
+   "rating": 5,
+   "text": "Brenda colors my hair. This time she cut and colored it. I have been getting lots of compliments on it as well as people asking who did it. It really looks good. Getting compliments at my age is very rare. Thanks Brenda!",
+   "reviewer": "Anne Finch",
+   "date": "2026-02-15T16:15:07.913Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Salon+Deep-+a+C.+Nicholson+studio/@34.0144577,-84.5639038,17z/data=!3m1!4b1!4m6!3m5!1s0x88f514df9c99784d:0x801f3d91a843a2a9!8m2!3d34.0144577!4d-84.5639038!16s%2Fg%2F1tt1tjjv"
+  },
+  {
+   "first": "Kimberly",
+   "rating": 5,
+   "text": "I have been with Heidi for a long time now.\nGot a cut and color last Saturday and let me just say, it's my favorite color and cut!!! I \"played around\" with it this morning and I can even style it. It looks awesome, I love everything about it.\nKudos to Heidi for another amazing experience!!!",
+   "reviewer": "Kimberly Queen",
+   "date": "2025-09-06T16:30:47.308Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Salon+Deep-+a+C.+Nicholson+studio/@34.0144577,-84.5639038,17z/data=!3m1!4b1!4m6!3m5!1s0x88f514df9c99784d:0x801f3d91a843a2a9!8m2!3d34.0144577!4d-84.5639038!16s%2Fg%2F1tt1tjjv"
+  },
+  {
+   "first": "Molly",
+   "rating": 5,
+   "text": "I’ve been going to see Mr. Chris’s salon since I was old enough to get a haircut. It’s always been a 10/10 experience and is worth the 45 minutes to an hour drive to get there. My hair always looks and feels great! 100% definitely recommend.",
+   "reviewer": "Molly Walker",
+   "date": "2024-12-18T02:39:33.805Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Salon+Deep-+a+C.+Nicholson+studio/@34.0144577,-84.5639038,17z/data=!3m1!4b1!4m6!3m5!1s0x88f514df9c99784d:0x801f3d91a843a2a9!8m2!3d34.0144577!4d-84.5639038!16s%2Fg%2F1tt1tjjv"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Salon+Deep-+a+C.+Nicholson+studio/@34.0144577,-84.5639038,17z/data=!3m1!4b1!4m6!3m5!1s0x88f514df9c99784d:0x801f3d91a843a2a9!8m2!3d34.0144577!4d-84.5639038!16s%2Fg%2F1tt1tjjv",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 41 of 60 Maps reviews English (19 untagged), site English-only.",
+ "services_source": "https://www.salondeep.com/services"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Alexa",
+   "rating": 5,
+   "text": "I got my haircut done by Krista, she did an amazing job on my hair! Very talented, attentive, and really listens to what you want. My cut and style came out perfect, and I couldn’t be happier. Highly recommend her! ✨",
+   "reviewer": "Alexa Herrera",
+   "date": "2026-01-09T21:36:27.526Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Westend+Hair+Company/@31.7774585,-106.5020034,17z/data=!3m1!4b1!4m6!3m5!1s0x86e7584518a22763:0xe495b60eb5beb395!8m2!3d31.7774585!4d-106.5020034!16s%2Fg%2F1tz965sj"
+  },
+  {
+   "first": "Leslie",
+   "rating": 5,
+   "text": "Marcie is a great stylist. She is the only person I've trusted to do my hair since moving here. I had my previous stylist for 30 years and was afraid to change. I'm happier than I've ever been with my cut and color. I highly recommend this salon and Marcie.",
+   "reviewer": "Leslie Derrick",
+   "date": "2025-08-22T23:35:21.371Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Westend+Hair+Company/@31.7774585,-106.5020034,17z/data=!3m1!4b1!4m6!3m5!1s0x86e7584518a22763:0xe495b60eb5beb395!8m2!3d31.7774585!4d-106.5020034!16s%2Fg%2F1tz965sj"
+  },
+  {
+   "first": "Erin",
+   "rating": 5,
+   "text": "Thank you West End for making me feel like a valued customer, for your kind and gracious staff, and for the great hair services, always! You have been my only salon for 20+ years for a reason. Thank you, Gloria, Monica, and Ozzie!",
+   "reviewer": "Erin Delaney",
+   "date": "2025-09-10T13:30:40.700Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Westend+Hair+Company/@31.7774585,-106.5020034,17z/data=!3m1!4b1!4m6!3m5!1s0x86e7584518a22763:0xe495b60eb5beb395!8m2!3d31.7774585!4d-106.5020034!16s%2Fg%2F1tz965sj"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Westend+Hair+Company/@31.7774585,-106.5020034,17z/data=!3m1!4b1!4m6!3m5!1s0x86e7584518a22763:0xe495b60eb5beb395!8m2!3d31.7774585!4d-106.5020034!16s%2Fg%2F1tz965sj",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 48 of 60 newest Maps reviews tagged English, 12 untagged (no Spanish), site English-only. El Paso alone not used as evidence.",
+ "services_source": "https://www.westendhaircompany.com/hair-services-2 + spa services page"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Erik",
+   "rating": 5,
+   "text": "I love this place. It has really good vibes and a great aesthetic and is welcoming to my LGBTQIA+ friends. Katie always does an amazing job!",
+   "reviewer": "Erik Hurst",
+   "date": "2026-09-22T20:18:18.920Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Arcane+Hair+Parlour/@33.4553855,-112.069492,17z/data=!3m1!4b1!4m6!3m5!1s0x872b12182f28ab21:0x479364a20ced710d!8m2!3d33.4553855!4d-112.069492!16s%2Fg%2F11c1qj6m_l"
+  },
+  {
+   "first": "Robert",
+   "rating": 5,
+   "text": "I had an amazing experience. Everyone was friendly. Austin was so good and incredibly knowledgeable about his craft. He gave me great pointers and tips about styling my new hair. They got a customer for life.",
+   "reviewer": "Robert Strickling",
+   "date": "2026-03-01T20:14:02.280Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Arcane+Hair+Parlour/@33.4553855,-112.069492,17z/data=!3m1!4b1!4m6!3m5!1s0x872b12182f28ab21:0x479364a20ced710d!8m2!3d33.4553855!4d-112.069492!16s%2Fg%2F11c1qj6m_l"
+  },
+  {
+   "first": "Joshua",
+   "rating": 5,
+   "text": "The atmosphere of Arcane is a welcoming, authentic, community focused, comfortable vibe mixed with extreme hair knowledge and professionalism. If you’re looking for a place to listen to you, validate you, and assist you on your hair journey, there is nowhere better. The stylists all show care, and they carry awesome products",
+   "reviewer": "Joshua Sawin",
+   "date": "2026-07-24T17:30:34.382Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Arcane+Hair+Parlour/@33.4553855,-112.069492,17z/data=!3m1!4b1!4m6!3m5!1s0x872b12182f28ab21:0x479364a20ced710d!8m2!3d33.4553855!4d-112.069492!16s%2Fg%2F11c1qj6m_l"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Arcane+Hair+Parlour/@33.4553855,-112.069492,17z/data=!3m1!4b1!4m6!3m5!1s0x872b12182f28ab21:0x479364a20ced710d!8m2!3d33.4553855!4d-112.069492!16s%2Fg%2F11c1qj6m_l",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 54 of 60 Maps reviews English (6 untagged), site English-only.",
+ "services_source": "https://www.arcanehairparlour.com/copy-of-service-descriptions"
+}

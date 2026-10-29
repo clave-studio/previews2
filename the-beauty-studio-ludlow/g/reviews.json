@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Nicole",
+   "rating": 5,
+   "text": "Best massage and facial ever!! I've been to Laurel and Meaghan a few times now, and every visit has been great. I always leave feeling so relaxed and refreshed. Definitely recommend!",
+   "reviewer": "Nicole Balboni",
+   "date": "2026-06-26T20:24:42.437Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/The+Beauty+Studio/@42.160602,-72.4714924,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6c2efb8d20b5b:0xda3a5eb0f16e449a!8m2!3d42.160602!4d-72.4714924!16s%2Fg%2F11fx9cfhbf"
+  },
+  {
+   "first": "Maggie",
+   "rating": 5,
+   "text": "Marsia and Lindsay were a dream duo to work with!!!! They made my wedding morning feel calm and comfortable from start to finish! All of us were absolutely glowing after they finished! I am so thankful to both of them for their professionalism, attention to detail and calm presence! Highly recommend for any bride!",
+   "reviewer": "Maggie Ryan",
+   "date": "2025-12-02T00:08:43.028Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/The+Beauty+Studio/@42.160602,-72.4714924,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6c2efb8d20b5b:0xda3a5eb0f16e449a!8m2!3d42.160602!4d-72.4714924!16s%2Fg%2F11fx9cfhbf"
+  },
+  {
+   "first": "Kate",
+   "rating": 5,
+   "text": "I loved The Beauty Studio so much. I went in for a spray tan and Marisa worked with me and it came out amazing. She was so kind and helpful and the environment is so lively and welcoming. I recommend The Beauty Studio to anyone in need of their services!",
+   "reviewer": "kate mark",
+   "date": "2024-04-16T21:31:09.620Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/The+Beauty+Studio/@42.160602,-72.4714924,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6c2efb8d20b5b:0xda3a5eb0f16e449a!8m2!3d42.160602!4d-72.4714924!16s%2Fg%2F11fx9cfhbf"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Beauty+Studio/@42.160602,-72.4714924,17z/data=!3m1!4b1!4m6!3m5!1s0x89e6c2efb8d20b5b:0xda3a5eb0f16e449a!8m2!3d42.160602!4d-72.4714924!16s%2Fg%2F11fx9cfhbf",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 52 of 60 Maps reviews English (8 untagged), site English-only.",
+ "services_source": "https://www.thebeautystudioma.com/hairandmakeup, /spa, /copy-of-s-p-a (facials), /bridal"
+}

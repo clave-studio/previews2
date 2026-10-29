@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Deborah",
+   "rating": 5,
+   "text": "I got a root to tip color and a haircut, Jill my stylist was the best, it was the best color and cut I’ve ever had. I will be back. Thank you again, Jill. I absolutely love that they use Aveda products. They are the best.",
+   "reviewer": "Deborah Scala",
+   "date": "2025-07-24T20:31:54.282Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Tuscany+Salon+Spa/@28.907167,-81.9748265,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7c40cc9c5ad13:0xcc39e83ba15fab51!8m2!3d28.907167!4d-81.9748265!16s%2Fg%2F1tf3268w"
+  },
+  {
+   "first": "Lisa",
+   "rating": 5,
+   "text": "My mom gave me a gift certificate for a facial and dermaplaning. It was amazing and really brought out the youthful skin under the top layer.\nI definitely recommend this spa!",
+   "reviewer": "lisa Nickerson",
+   "date": "2024-01-09T02:29:01.873Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Tuscany+Salon+Spa/@28.907167,-81.9748265,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7c40cc9c5ad13:0xcc39e83ba15fab51!8m2!3d28.907167!4d-81.9748265!16s%2Fg%2F1tf3268w"
+  },
+  {
+   "first": "Karla",
+   "rating": 5,
+   "text": "I had a 1/2 day spa that was a wonderful experience and will definitely be back.\nBeautiful and clean with lovely friendly people",
+   "reviewer": "Karla Lyons",
+   "date": "2024-02-03T00:37:46.561Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Tuscany+Salon+Spa/@28.907167,-81.9748265,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7c40cc9c5ad13:0xcc39e83ba15fab51!8m2!3d28.907167!4d-81.9748265!16s%2Fg%2F1tf3268w"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Tuscany+Salon+Spa/@28.907167,-81.9748265,17z/data=!3m1!4b1!4m6!3m5!1s0x88e7c40cc9c5ad13:0xcc39e83ba15fab51!8m2!3d28.907167!4d-81.9748265!16s%2Fg%2F1tf3268w",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 50 of 60 Maps reviews English (10 untagged), site English-only.",
+ "services_source": "https://www.tuscanysalonspa.com/salon + /spa-services"
+}

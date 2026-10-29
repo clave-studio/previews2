@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Heather",
+   "rating": 5,
+   "text": "Matilda is the most amazing stylist and an even more amazing human! I got the most gorgeous copper color with some highlights and a fantastic haircut! She even faded my undercut for me! Do yourself a favor and get in her chair!! Much love!",
+   "reviewer": "Heather Hatch",
+   "date": "2026-10-27T19:39:06.466Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/TEEZ+Hair+Studio/@33.0742471,-97.0865691,17z/data=!3m1!4b1!4m6!3m5!1s0x864c33f55b013da9:0xc59ea5b7527277d6!8m2!3d33.0742471!4d-97.0865691!16s%2Fg%2F11fpks2d0r"
+  },
+  {
+   "first": "Pamela",
+   "rating": 5,
+   "text": "Amy does amazing work! She is so kind and easy to talk to. I got partial foil, cut, and blow out and I’m in love! I definitely will be returning regularly!",
+   "reviewer": "Pamela Olson",
+   "date": "2026-08-03T22:51:09.946Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/TEEZ+Hair+Studio/@33.0742471,-97.0865691,17z/data=!3m1!4b1!4m6!3m5!1s0x864c33f55b013da9:0xc59ea5b7527277d6!8m2!3d33.0742471!4d-97.0865691!16s%2Fg%2F11fpks2d0r"
+  },
+  {
+   "first": "Maryann",
+   "rating": 5,
+   "text": "I love the way Caitlin cuts/shapes my hair. When I ask her questions about my hair, she always explains the best way or products to use. I appreciate her advice and being a very informative hair stylist.",
+   "reviewer": "Maryann Henry",
+   "date": "2026-04-02T20:44:42.364Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/TEEZ+Hair+Studio/@33.0742471,-97.0865691,17z/data=!3m1!4b1!4m6!3m5!1s0x864c33f55b013da9:0xc59ea5b7527277d6!8m2!3d33.0742471!4d-97.0865691!16s%2Fg%2F11fpks2d0r"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/TEEZ+Hair+Studio/@33.0742471,-97.0865691,17z/data=!3m1!4b1!4m6!3m5!1s0x864c33f55b013da9:0xc59ea5b7527277d6!8m2!3d33.0742471!4d-97.0865691!16s%2Fg%2F11fpks2d0r",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 54 of 60 Maps reviews English (6 untagged), site English-only.",
+ "services_source": "https://www.teezhairstudio.com/services (+ homepage)"
+}
