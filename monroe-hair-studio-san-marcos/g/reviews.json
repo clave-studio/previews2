@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Tonya",
+   "rating": 5,
+   "text": "Alexa did a great job with my highlight. Very professional, pleasant and kind. Would highly recommend her services at Monroe Hair Studio!",
+   "reviewer": "Tonya Huston",
+   "date": "2026-08-16T13:00:33.419Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Monroe/@29.8832555,-97.9410293,17z/data=!3m1!4b1!4m6!3m5!1s0x865ca8664671919b:0x697c4da54ca57eae!8m2!3d29.8832555!4d-97.9410293!16s%2Fg%2F1tfzbl_b"
+  },
+  {
+   "first": "Chauncey",
+   "rating": 5,
+   "text": "My daughter saw Jules and she was amazing! Jules was patient and listened to what vision my daughter had and Jules delivered an awesome cut!",
+   "reviewer": "Chauncey Walker",
+   "date": "2026-07-30T19:44:46.774Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Monroe/@29.8832555,-97.9410293,17z/data=!3m1!4b1!4m6!3m5!1s0x865ca8664671919b:0x697c4da54ca57eae!8m2!3d29.8832555!4d-97.9410293!16s%2Fg%2F1tfzbl_b"
+  },
+  {
+   "first": "Alexis",
+   "rating": 5,
+   "text": "Danielle was super friendly and skilled at her craft! She was honest with me and gave helpful advice while still hearing my requests! Absolutely love my hair :)",
+   "reviewer": "Alexis Howard",
+   "date": "2026-07-21T15:58:27.584Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Monroe/@29.8832555,-97.9410293,17z/data=!3m1!4b1!4m6!3m5!1s0x865ca8664671919b:0x697c4da54ca57eae!8m2!3d29.8832555!4d-97.9410293!16s%2Fg%2F1tfzbl_b"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Monroe/@29.8832555,-97.9410293,17z/data=!3m1!4b1!4m6!3m5!1s0x865ca8664671919b:0x697c4da54ca57eae!8m2!3d29.8832555!4d-97.9410293!16s%2Fg%2F1tfzbl_b",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 50 of 60 Maps reviews English (10 untagged, no Spanish), site English-only.",
+ "services_source": "https://hairstudiosanmarcos.com/hair-services/"
+}

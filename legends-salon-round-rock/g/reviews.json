@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Stephanie",
+   "rating": 5,
+   "text": "Jean has been coloring and cutting my hair for 16 years! She has always done an excellent job! Beautiful salon and the nicest people, would never go anywhere else!",
+   "reviewer": "Stephanie Pack",
+   "date": "2023-06-18T19:34:03.241Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Legends+Salon/@30.525835,-97.6375732,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d05b11d4aa37:0x7f3e74894df0ae3b!8m2!3d30.525835!4d-97.6375732!16s%2Fg%2F1tq6dwsr"
+  },
+  {
+   "first": "Maureen",
+   "rating": 5,
+   "text": "Stephanie is amazing!! So friendly and down to earth, listens to what I want and offers very helpful suggestions! I finally found an amazing hair dresser!!",
+   "reviewer": "Maureen Mahoney",
+   "date": "2023-02-07T20:20:12.521Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Legends+Salon/@30.525835,-97.6375732,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d05b11d4aa37:0x7f3e74894df0ae3b!8m2!3d30.525835!4d-97.6375732!16s%2Fg%2F1tq6dwsr"
+  },
+  {
+   "first": "Monica",
+   "rating": 5,
+   "text": "You know you found a GREAT hair salon with Lauren! She is amazing. When you get a wash, style and consultation in less than one hour, this stylist knows her trade!! I am so happy I found her and have been very pleased each time.",
+   "reviewer": "Monica Wacker",
+   "date": "2023-01-20T19:09:31.212Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Legends+Salon/@30.525835,-97.6375732,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d05b11d4aa37:0x7f3e74894df0ae3b!8m2!3d30.525835!4d-97.6375732!16s%2Fg%2F1tq6dwsr"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Legends+Salon/@30.525835,-97.6375732,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d05b11d4aa37:0x7f3e74894df0ae3b!8m2!3d30.525835!4d-97.6375732!16s%2Fg%2F1tq6dwsr",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 40 of 60 Maps reviews English (20 untagged, no Spanish), site English-only.",
+ "services_source": "https://legendssalonroundrock.com/ (homepage service menu)"
+}

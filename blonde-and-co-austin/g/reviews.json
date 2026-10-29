@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Julie",
+   "rating": 5,
+   "text": "Such a great experience here! I’ve been twice and each time the stylists are kind and welcoming. Anna has done my hair both times and both times I left very happy. I also like that the salon isn’t so big with so many stylists and sounds! Highly recommend!",
+   "reviewer": "julie rhoads",
+   "date": "2026-08-02T19:34:26.710Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Blonde+%2B+Co+Salon/@30.4528825,-97.8263211,17z/data=!3m1!4b1!4m6!3m5!1s0x865b33b07f9fb973:0x20a84f5114524b72!8m2!3d30.4528825!4d-97.8263211!16s%2Fg%2F11t9w3yh_d"
+  },
+  {
+   "first": "Debbie",
+   "rating": 5,
+   "text": "I absolutely love my hair! The blonde highlights turned out beautiful and look natural, bright, and perfectly blended. I’m so happy with the results and would definitely recommend them. Five stars!",
+   "reviewer": "Debbie Lala",
+   "date": "2026-07-30T18:07:17.189Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Blonde+%2B+Co+Salon/@30.4528825,-97.8263211,17z/data=!3m1!4b1!4m6!3m5!1s0x865b33b07f9fb973:0x20a84f5114524b72!8m2!3d30.4528825!4d-97.8263211!16s%2Fg%2F11t9w3yh_d"
+  },
+  {
+   "first": "Darlie",
+   "rating": 5,
+   "text": "I had Alyssa move up my extensions for me and she did wonderful! It was much quicker than I expected too. Overall great experience! Would recommend for hair extensions as she knows her craft for sure. It also helps because she has fine hair like I do so she understands my hair pretty well.",
+   "reviewer": "Darlie Johnson",
+   "date": "2026-09-11T01:28:53.173Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Blonde+%2B+Co+Salon/@30.4528825,-97.8263211,17z/data=!3m1!4b1!4m6!3m5!1s0x865b33b07f9fb973:0x20a84f5114524b72!8m2!3d30.4528825!4d-97.8263211!16s%2Fg%2F11t9w3yh_d"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Blonde+%2B+Co+Salon/@30.4528825,-97.8263211,17z/data=!3m1!4b1!4m6!3m5!1s0x865b33b07f9fb973:0x20a84f5114524b72!8m2!3d30.4528825!4d-97.8263211!16s%2Fg%2F11t9w3yh_d",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 59 of 60 Maps reviews English (1 untagged), site English-only.",
+ "services_source": "https://www.blondeandcoatx.com/services"
+}

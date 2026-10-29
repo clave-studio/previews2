@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Hannah",
+   "rating": 5,
+   "text": "Sadie is absolutely amazing! My hair looks so healthy and smooth. The salon is so cute and everyone is very nice!",
+   "reviewer": "Hannah Wilson",
+   "date": "2026-09-04T18:23:00.670Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Swahn+Studio/@30.6603142,-97.6907843,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d7e4e670e9c5:0xbda887864771fccb!8m2!3d30.6603142!4d-97.6907843!16s%2Fg%2F11v0lg3h9d"
+  },
+  {
+   "first": "Kenzie",
+   "rating": 5,
+   "text": "Sadie Stone was AMAZING!! The salon is beautiful and has such a cozy, welcoming environment! Everyone here was so sweet and Sadie made me feel beautiful leaving the salon!",
+   "reviewer": "Kenzie Delaway",
+   "date": "2026-08-25T18:36:41.260Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Swahn+Studio/@30.6603142,-97.6907843,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d7e4e670e9c5:0xbda887864771fccb!8m2!3d30.6603142!4d-97.6907843!16s%2Fg%2F11v0lg3h9d"
+  },
+  {
+   "first": "Jennifer",
+   "rating": 5,
+   "text": "Jenn was amazing and the salon is beautiful! I showed a pic and got exactly what I wanted. You can tell she and the rest of her staff are experienced and knowledgeable. High quality products were used and there was great attention to detail at every step. Highly recommend!",
+   "reviewer": "Jennifer Lee",
+   "date": "2026-04-15T21:50:06.020Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Swahn+Studio/@30.6603142,-97.6907843,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d7e4e670e9c5:0xbda887864771fccb!8m2!3d30.6603142!4d-97.6907843!16s%2Fg%2F11v0lg3h9d"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Swahn+Studio/@30.6603142,-97.6907843,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d7e4e670e9c5:0xbda887864771fccb!8m2!3d30.6603142!4d-97.6907843!16s%2Fg%2F11v0lg3h9d",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 57 of 60 Maps reviews English (3 untagged), site English-only.",
+ "services_source": "https://www.swahnstudio.com/ + /about"
+}

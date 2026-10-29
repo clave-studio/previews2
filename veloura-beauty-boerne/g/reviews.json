@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Rachel",
+   "rating": 5,
+   "text": "Ginger and the rest of the team are so welcoming and sweet. I’ve been getting lash extensions and they are such great quality with very fair prices.",
+   "reviewer": "Rachel Nelson",
+   "date": "2026-10-17T19:04:13.622Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/Veloura+Beauty/@29.7903509,-98.7183028,17z/data=!3m1!4b1!4m6!3m5!1s0x865c77000435a967:0x7b9d885c0f86fe10!8m2!3d29.7903509!4d-98.7183028!16s%2Fg%2F11mt6v56l_"
+  },
+  {
+   "first": "Kimberlee",
+   "rating": 5,
+   "text": "I had a great experience with Ginger at Veloura! I hadn’t gotten my brows done in a very long time, and she talked me through recommended services, care, and recommendations for maintenance. I was really happy with how my brows came out and I can’t wait to come back 🤗",
+   "reviewer": "Kimberlee Sole",
+   "date": "2026-09-16T13:48:09.603Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/Veloura+Beauty/@29.7903509,-98.7183028,17z/data=!3m1!4b1!4m6!3m5!1s0x865c77000435a967:0x7b9d885c0f86fe10!8m2!3d29.7903509!4d-98.7183028!16s%2Fg%2F11mt6v56l_"
+  },
+  {
+   "first": "Katie",
+   "rating": 5,
+   "text": "This was my first time to have Ginger do my lash fill and she was amazing! She is personable, efficient, and just a great human!",
+   "reviewer": "Katie Miller",
+   "date": "2026-08-16T01:50:33.412Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/Veloura+Beauty/@29.7903509,-98.7183028,17z/data=!3m1!4b1!4m6!3m5!1s0x865c77000435a967:0x7b9d885c0f86fe10!8m2!3d29.7903509!4d-98.7183028!16s%2Fg%2F11mt6v56l_"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Veloura+Beauty/@29.7903509,-98.7183028,17z/data=!3m1!4b1!4m6!3m5!1s0x865c77000435a967:0x7b9d885c0f86fe10!8m2!3d29.7903509!4d-98.7183028!16s%2Fg%2F11mt6v56l_",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 48 of 51 Maps reviews English (3 untagged), site English-only.",
+ "services_source": "https://www.velourabeautyboerne.com/ (homepage service menu)"
+}

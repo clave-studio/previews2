@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Ryann",
+   "rating": 5,
+   "text": "I had an awesome experience today! Brianna did an awesome job listening to what I wanted and provided great service. I really am looking forward to my next appointment with her and the salon!",
+   "reviewer": "Ryann Nolan",
+   "date": "2026-10-07T00:44:41.005Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Gypsy+Rose+Salon/@30.5063622,-97.6801162,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d1eca0e13ae3:0x72871113bc74b26d!8m2!3d30.5063622!4d-97.6801162!16s%2Fg%2F11dzdkpf87"
+  },
+  {
+   "first": "Ruth",
+   "rating": 5,
+   "text": "I was incredibly happy with my experience here. Everyone was kind and Briana gave me a cut I LOVE.",
+   "reviewer": "Ruth Francis",
+   "date": "2026-09-10T22:24:54.571Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Gypsy+Rose+Salon/@30.5063622,-97.6801162,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d1eca0e13ae3:0x72871113bc74b26d!8m2!3d30.5063622!4d-97.6801162!16s%2Fg%2F11dzdkpf87"
+  },
+  {
+   "first": "Ruba",
+   "rating": 5,
+   "text": "Sam did a great job with my hair! She listened to what I wanted and didn’t cut off more than I asked! She also gave a wonderful head massage. Haircut came out beautiful 😊",
+   "reviewer": "Ruba Khan",
+   "date": "2026-08-13T00:34:24.794Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Gypsy+Rose+Salon/@30.5063622,-97.6801162,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d1eca0e13ae3:0x72871113bc74b26d!8m2!3d30.5063622!4d-97.6801162!16s%2Fg%2F11dzdkpf87"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Gypsy+Rose+Salon/@30.5063622,-97.6801162,17z/data=!3m1!4b1!4m6!3m5!1s0x8644d1eca0e13ae3:0x72871113bc74b26d!8m2!3d30.5063622!4d-97.6801162!16s%2Fg%2F11dzdkpf87",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 53 of 60 Maps reviews English (7 untagged), site English-only.",
+ "services_source": "https://www.gypsyrosesalon.net/hair-services + /services-1"
+}

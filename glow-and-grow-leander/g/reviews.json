@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kennedi",
+   "rating": 5,
+   "text": "I had my first appointment here yesterday with Star. She was so sweet and did an amazing job. I’m so glad I booked here and I will definitely be coming back!",
+   "reviewer": "Kennedi Soldo",
+   "date": "2026-10-21T21:28:10.355Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Glow+%26+Grow+Salon+and+Boutique/@30.565585,-97.8177711,17z/data=!3m1!4b1!4m6!3m5!1s0x865b2dc28f7285af:0x188bb8b704b81b55!8m2!3d30.565585!4d-97.8177711!16s%2Fg%2F11rxwgfn3q"
+  },
+  {
+   "first": "Izzy",
+   "rating": 5,
+   "text": "Star was AMAZING! She was so sweet and so helpful. I love my hair and will definitely be making this my go to salon and stylist!",
+   "reviewer": "Izzy",
+   "date": "2026-09-05T17:24:59.215Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Glow+%26+Grow+Salon+and+Boutique/@30.565585,-97.8177711,17z/data=!3m1!4b1!4m6!3m5!1s0x865b2dc28f7285af:0x188bb8b704b81b55!8m2!3d30.565585!4d-97.8177711!16s%2Fg%2F11rxwgfn3q"
+  },
+  {
+   "first": "Desiree",
+   "rating": 5,
+   "text": "I am very pleased with how Saritha did my hair! She truly brought her A-game and executed exactly what I wanted. She listened to my vision and delivered beautifully. I absolutely love my hair and highly recommend her!",
+   "reviewer": "Desiree Knapp",
+   "date": "2026-07-18T20:33:23.001Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Glow+%26+Grow+Salon+and+Boutique/@30.565585,-97.8177711,17z/data=!3m1!4b1!4m6!3m5!1s0x865b2dc28f7285af:0x188bb8b704b81b55!8m2!3d30.565585!4d-97.8177711!16s%2Fg%2F11rxwgfn3q"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Glow+%26+Grow+Salon+and+Boutique/@30.565585,-97.8177711,17z/data=!3m1!4b1!4m6!3m5!1s0x865b2dc28f7285af:0x188bb8b704b81b55!8m2!3d30.565585!4d-97.8177711!16s%2Fg%2F11rxwgfn3q",
+ "toggle": false,
+ "toggle_evidence": "No evidence: 60 of 60 newest Maps reviews English, site English-only.",
+ "services_source": "https://glowandgrowtx.com/haircareservices/ + /medspa-services/"
+}
