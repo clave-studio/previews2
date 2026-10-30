@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Paul",
+   "rating": 5,
+   "text": "Excellent school! Master Roper and Miss Hilda work with all the students to help them be the best they can be.",
+   "reviewer": "Paul Chonko",
+   "date": "2023-10-16T02:20:26.584Z",
+   "lang": "en",
+   "file": "rev/ksw.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJf8UjKVZNR4YRZIv-mwiJQIw"
+  },
+  {
+   "first": "Julie",
+   "rating": 5,
+   "text": "Not only are the instructors excellent, but the staff makes you feel like you are family. This form of Martial Arts is sophisticated, challenging and habit forming. Definitely worth joining.",
+   "reviewer": "julie holleman",
+   "date": "2015-11-17T14:06:00.101Z",
+   "lang": "en",
+   "file": "rev/ksw.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJf8UjKVZNR4YRZIv-mwiJQIw"
+  },
+  {
+   "first": "Michael",
+   "rating": 5,
+   "text": "My family has been taking Kuk Sool for 4 years now and truly is an amazing martial art and even better studio! Suh Suhk Roper and Mrs. Hilda are the best too!",
+   "reviewer": "Michael Moore",
+   "date": "2024-09-19T02:43:13.793Z",
+   "lang": "en",
+   "file": "rev/ksw.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJf8UjKVZNR4YRZIv-mwiJQIw"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJf8UjKVZNR4YRZIv-mwiJQIw",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://kuksool-kingwood.com/"
+}
