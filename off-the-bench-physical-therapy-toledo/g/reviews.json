@@ -1,0 +1,28 @@
+{
+ "reviews": [
+  {
+   "first": "Joseph",
+   "rating": 5,
+   "text": "Great experience! They helped me get my ankle back to feeling good and back to running. Super knowledgeable, supportive, and would definitely recommend!",
+   "reviewer": "Joseph Berry",
+   "date": "2026-10-19T22:18:23.827Z",
+   "lang": "en",
+   "file": "rev/otb.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJKW5VpAV5PIgRAjy7IsBfcn8"
+  },
+  {
+   "first": "Dan",
+   "rating": 5,
+   "text": "I had surgery to repair my torn labrum and bicep tendinitis last spring. After my initial therapy through another facility, I was not recovering as anticipated. I then had a shoulder manipulation and decided to see Matt for my next round of therapy. What a difference! From day 1, Matt put together a program that was different from my initial therapy and really got to know me not only as a patient but a person. The program was challenging and pushed me to my limits without pushing me over the edge. I highly recommend Matt for any therapy needs you may need.",
+   "reviewer": "Dan Perry",
+   "date": "2026-10-24T12:13:40.140Z",
+   "lang": "en",
+   "file": "rev/otb.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJKW5VpAV5PIgRAjy7IsBfcn8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJKW5VpAV5PIgRAjy7IsBfcn8",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://site-o9a8c8hxl.godaddysites.com/"
+}

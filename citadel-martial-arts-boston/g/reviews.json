@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Shaun",
+   "rating": 5,
+   "text": "This is the best gym in the area. If you are thinking of joining or passing through, do not hesitate. Eric and the team are great teachers and have fostered a great community for all levels. Come get in shape, make some friends, and learn how to defend yourself.",
+   "reviewer": "Shaun McGrath",
+   "date": "2024-11-12T01:42:14.726Z",
+   "lang": "en",
+   "file": "rev/cit.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJQ_ukTfhx44kRq45aC_eTWTE"
+  },
+  {
+   "first": "Russ",
+   "rating": 5,
+   "text": "Dropped in for a BJJ class from out of town and was welcomed into the group immediately. Steven is a great instructor and I would highly recommend. A very convenient location in downtown Boston and a great atmosphere if you're looking for a gritty, hard-working gym environment.",
+   "reviewer": "Russ Jensen",
+   "date": "2024-06-04T23:13:24.018Z",
+   "lang": "en",
+   "file": "rev/cit.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJQ_ukTfhx44kRq45aC_eTWTE"
+  },
+  {
+   "first": "Nick",
+   "rating": 5,
+   "text": "Stellar spot. BJJ classes are excellent and the community is great and very welcoming.",
+   "reviewer": "Nick Fessenden",
+   "date": "2025-02-14T01:28:32.527Z",
+   "lang": "en",
+   "file": "rev/cit.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJQ_ukTfhx44kRq45aC_eTWTE"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJQ_ukTfhx44kRq45aC_eTWTE",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://citadelmartialarts.godaddysites.com/"
+}

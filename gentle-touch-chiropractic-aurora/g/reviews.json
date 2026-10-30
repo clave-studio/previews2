@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Rebecca",
+   "rating": 5,
+   "text": "Dr. Stephanie is an amazing chiropractor! Her approach is gentle and effective. She is kind, compassionate and knowledgeable. Highly recommend!",
+   "reviewer": "Rebecca Roegiers",
+   "date": "2024-02-19T21:18:05.803Z",
+   "lang": "en",
+   "file": "rev/gtc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ05IScvYZMYgRIcbvV0d90so"
+  },
+  {
+   "first": "Rick",
+   "rating": 5,
+   "text": "She is a master. Kind and gentle, she is able to find your problem and correct it.",
+   "reviewer": "Rick Moss",
+   "date": "2024-07-31T23:33:34.255Z",
+   "lang": "en",
+   "file": "rev/gtc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ05IScvYZMYgRIcbvV0d90so"
+  },
+  {
+   "first": "Allison",
+   "rating": 5,
+   "text": "Dr Stephanie is an amazing chiropractor who truly cares for you and personalizes a plan around your needs. She actively listens and makes you feel right at home!\nShe has helped me prenatal and postpartum. She also was so gentle with our Baby when he had his visits and she was amazing with him!",
+   "reviewer": "Allison Lewandowski",
+   "date": "2024-05-16T13:37:24.146Z",
+   "lang": "en",
+   "file": "rev/gtc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ05IScvYZMYgRIcbvV0d90so"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJ05IScvYZMYgRIcbvV0d90so",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://drstephanieleindec.wixsite.com/website"
+}
