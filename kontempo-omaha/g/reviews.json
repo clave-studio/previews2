@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Tony",
+   "rating": 5,
+   "text": "Kirby is a master. Exactly what I needed, great cut, and the whole experience was seamless. Already booked my next appointment!",
+   "reviewer": "Tony Di Meglio",
+   "date": "2026-04-20T17:09:07.533Z",
+   "lang": "en",
+   "file": "rev/28.json",
+   "source": "https://www.google.com/maps/place/Kontempo./@41.2474896,-96.1135323,17z/data=!3m1!4b1!4m6!3m5!1s0x8793f265a03190b1:0xc5ac0f989e768eee!8m2!3d41.2474896!4d-96.1135323!16s%2Fg%2F1hhhx869p"
+  },
+  {
+   "first": "Jennifer",
+   "rating": 5,
+   "text": "Sarah Schnabel is a great hair stylist! She always does an amazing job with my cut and color. I highly recommend her!",
+   "reviewer": "Jennifer Hall",
+   "date": "2026-04-23T19:49:19.414Z",
+   "lang": "en",
+   "file": "rev/28.json",
+   "source": "https://www.google.com/maps/place/Kontempo./@41.2474896,-96.1135323,17z/data=!3m1!4b1!4m6!3m5!1s0x8793f265a03190b1:0xc5ac0f989e768eee!8m2!3d41.2474896!4d-96.1135323!16s%2Fg%2F1hhhx869p"
+  },
+  {
+   "first": "Emma",
+   "rating": 5,
+   "text": "Michelle has been doing my extensions for three years now and they look amazing every. single. time. She blends them flawlessly and gives me a super blended beautiful blonde. I always look forward to being in her chair!! Highly recommended.",
+   "reviewer": "Emma Hatfield",
+   "date": "2025-06-30T17:44:32.713Z",
+   "lang": "en",
+   "file": "rev/28.json",
+   "source": "https://www.google.com/maps/place/Kontempo./@41.2474896,-96.1135323,17z/data=!3m1!4b1!4m6!3m5!1s0x8793f265a03190b1:0xc5ac0f989e768eee!8m2!3d41.2474896!4d-96.1135323!16s%2Fg%2F1hhhx869p"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Kontempo./@41.2474896,-96.1135323,17z/data=!3m1!4b1!4m6!3m5!1s0x8793f265a03190b1:0xc5ac0f989e768eee!8m2!3d41.2474896!4d-96.1135323!16s%2Fg%2F1hhhx869p",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

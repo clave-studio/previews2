@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Chelsea",
+   "rating": 5,
+   "text": "Victoria is the BEST! I have been going to her for my lash extensions for a while now and as long as she’s there, I will never go anywhere else. 🙏🏼💕",
+   "reviewer": "Chelsea M",
+   "date": "2026-06-28T20:37:52.623Z",
+   "lang": "en",
+   "file": "rev/6.json",
+   "source": "https://www.google.com/maps/place/Blink+Lash+Boutique/@47.6933619,-117.4237479,17z/data=!3m1!4b1!4m6!3m5!1s0x549e190b08b9a5bd:0x713df620e396cccf!8m2!3d47.6933619!4d-117.4237479!16s%2Fg%2F11kpqcnnzh"
+  },
+  {
+   "first": "Isabella",
+   "rating": 5,
+   "text": "I've been seeing Janelle for a while now for lash extensions and could not be more happy each time I get them done by her. She does an amazing job all while making sure my natural eyelashes are staying healthy as well. The atmosphere of blink is very cute and cozy. All of the other techs working there have been nothing but welcoming and kind. Couldn't recommend blink more!",
+   "reviewer": "Isabella Anderson",
+   "date": "2026-02-16T06:59:58.511Z",
+   "lang": "en",
+   "file": "rev/6.json",
+   "source": "https://www.google.com/maps/place/Blink+Lash+Boutique/@47.6933619,-117.4237479,17z/data=!3m1!4b1!4m6!3m5!1s0x549e190b08b9a5bd:0x713df620e396cccf!8m2!3d47.6933619!4d-117.4237479!16s%2Fg%2F11kpqcnnzh"
+  },
+  {
+   "first": "Megan",
+   "rating": 5,
+   "text": "Warm, relaxing salon! Jen is wonderful and does a great job! I had both an eyelash lift and tint and an eyebrow tint and I’m in love with both.",
+   "reviewer": "Megan Mahaffie",
+   "date": "2026-06-17T20:08:48.146Z",
+   "lang": "en",
+   "file": "rev/6.json",
+   "source": "https://www.google.com/maps/place/Blink+Lash+Boutique/@47.6933619,-117.4237479,17z/data=!3m1!4b1!4m6!3m5!1s0x549e190b08b9a5bd:0x713df620e396cccf!8m2!3d47.6933619!4d-117.4237479!16s%2Fg%2F11kpqcnnzh"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Blink+Lash+Boutique/@47.6933619,-117.4237479,17z/data=!3m1!4b1!4m6!3m5!1s0x549e190b08b9a5bd:0x713df620e396cccf!8m2!3d47.6933619!4d-117.4237479!16s%2Fg%2F11kpqcnnzh",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

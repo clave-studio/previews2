@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Marysa",
+   "rating": 5,
+   "text": "Got my curly hair cut by Lacy. She did a great job! Gave me some good advice on keeping my hair hydrated 🐠💧 thanks!",
+   "reviewer": "Marysa A",
+   "date": "2026-08-18T04:29:36.570Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Salon+Del+Mar/@35.6742061,-105.9616108,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507adb883095:0x55a59beec78d2f20!8m2!3d35.6742061!4d-105.9616108!16s%2Fg%2F1tfzmszk"
+  },
+  {
+   "first": "Pam",
+   "rating": 5,
+   "text": "Salon Del Mar is FABULOUS! I could not be happier with Mack, who does my color, and Lacy, who cuts my hair. They are both pure magic!",
+   "reviewer": "Pam Hardester",
+   "date": "2026-06-28T00:39:38.290Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Salon+Del+Mar/@35.6742061,-105.9616108,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507adb883095:0x55a59beec78d2f20!8m2!3d35.6742061!4d-105.9616108!16s%2Fg%2F1tfzmszk"
+  },
+  {
+   "first": "Kirsten",
+   "rating": 5,
+   "text": "So happy I found Jovana! She really listened, payed attention, and asked a lot of questions to make sure I got the look I wanted. Thank you, Jovana and Salaon del Mar!",
+   "reviewer": "Kirsten Miller",
+   "date": "2025-02-08T20:46:46.035Z",
+   "lang": "en",
+   "file": "rev/16.json",
+   "source": "https://www.google.com/maps/place/Salon+Del+Mar/@35.6742061,-105.9616108,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507adb883095:0x55a59beec78d2f20!8m2!3d35.6742061!4d-105.9616108!16s%2Fg%2F1tfzmszk"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Salon+Del+Mar/@35.6742061,-105.9616108,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507adb883095:0x55a59beec78d2f20!8m2!3d35.6742061!4d-105.9616108!16s%2Fg%2F1tfzmszk",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

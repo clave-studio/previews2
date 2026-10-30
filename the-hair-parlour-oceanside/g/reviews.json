@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Sasha",
+   "rating": 5,
+   "text": "Rebecca is a hair sculptor!!! She is amazing with Deva cuts and all styles. She will perfectly shape it to your desires, face shape and personality!!!",
+   "reviewer": "Sasha Zeilig",
+   "date": "2026-09-24T03:55:15.329Z",
+   "lang": "en",
+   "file": "rev/21.json",
+   "source": "https://www.google.com/maps/place/The+Hair+Parlour/@33.1946666,-117.3787924,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e3a0fde7b39:0xc66ae7cb42c879ec!8m2!3d33.1946666!4d-117.3787924!16s%2Fg%2F1hm4f02_p"
+  },
+  {
+   "first": "Katie",
+   "rating": 5,
+   "text": "Always amazing seeing Ashley. Her attention to detail and experience with curly hair has more than improved the quality, look and feel of my curly hair. I highly recommend Ashley and the hair parlour.",
+   "reviewer": "Katie Cervantes",
+   "date": "2026-07-22T21:56:48.744Z",
+   "lang": "en",
+   "file": "rev/21.json",
+   "source": "https://www.google.com/maps/place/The+Hair+Parlour/@33.1946666,-117.3787924,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e3a0fde7b39:0xc66ae7cb42c879ec!8m2!3d33.1946666!4d-117.3787924!16s%2Fg%2F1hm4f02_p"
+  },
+  {
+   "first": "Corysa",
+   "rating": 5,
+   "text": "Lauren is a straight up color genius - she’s like a voodoo, potion brewing hair witch. She’s also exceptionally considerate, kind and funny! Everyone I interacted with in the salon was so nice. I can’t wait to come back again!",
+   "reviewer": "Corysa Kitzmann",
+   "date": "2026-07-19T00:06:00.408Z",
+   "lang": "en",
+   "file": "rev/21.json",
+   "source": "https://www.google.com/maps/place/The+Hair+Parlour/@33.1946666,-117.3787924,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e3a0fde7b39:0xc66ae7cb42c879ec!8m2!3d33.1946666!4d-117.3787924!16s%2Fg%2F1hm4f02_p"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Hair+Parlour/@33.1946666,-117.3787924,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e3a0fde7b39:0xc66ae7cb42c879ec!8m2!3d33.1946666!4d-117.3787924!16s%2Fg%2F1hm4f02_p",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jarin",
+   "rating": 5,
+   "text": "The massages and treatment here are always top notch! Wife and I both said after finishing today that was hands down the best massage we’ve ever had.",
+   "reviewer": "Jarin McGovern",
+   "date": "2026-07-31T17:45:34.700Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Sveta's+Skin+%26+Body+Therapy/@37.7221506,-97.2420916,17z/data=!3m1!4b1!4m6!3m5!1s0x87bafd18455894b7:0xa1a0fc53f775c81e!8m2!3d37.7221506!4d-97.2420916!16s%2Fg%2F1w15zz5x"
+  },
+  {
+   "first": "Stephanie",
+   "rating": 5,
+   "text": "Svetas Skin and Body Therapy was wonderful! My esthetician, Brynlan did an amazing job at shaping my eyebrows. The dermaplane facial, made my skin so smooth, which makes for perfect makeup application. Highly recommend Svetas!",
+   "reviewer": "Stephanie Hull",
+   "date": "2025-02-18T23:41:23.003Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Sveta's+Skin+%26+Body+Therapy/@37.7221506,-97.2420916,17z/data=!3m1!4b1!4m6!3m5!1s0x87bafd18455894b7:0xa1a0fc53f775c81e!8m2!3d37.7221506!4d-97.2420916!16s%2Fg%2F1w15zz5x"
+  },
+  {
+   "first": "Jodie",
+   "rating": 5,
+   "text": "I had the best facial ever. Tricia was very thorough, had a great touch and wasn’t over talkative.",
+   "reviewer": "Jodie Leeser",
+   "date": "2024-03-21T19:37:54.043Z",
+   "lang": "en",
+   "file": "rev/20.json",
+   "source": "https://www.google.com/maps/place/Sveta's+Skin+%26+Body+Therapy/@37.7221506,-97.2420916,17z/data=!3m1!4b1!4m6!3m5!1s0x87bafd18455894b7:0xa1a0fc53f775c81e!8m2!3d37.7221506!4d-97.2420916!16s%2Fg%2F1w15zz5x"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Sveta's+Skin+%26+Body+Therapy/@37.7221506,-97.2420916,17z/data=!3m1!4b1!4m6!3m5!1s0x87bafd18455894b7:0xa1a0fc53f775c81e!8m2!3d37.7221506!4d-97.2420916!16s%2Fg%2F1w15zz5x",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

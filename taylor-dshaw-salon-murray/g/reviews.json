@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Holly",
+   "rating": 5,
+   "text": "Jen Taylor is the best hairstylist there ever was! She was so positive, fun, and kind hearted! I would also like to add how fun Abby was! My skin felt like a babies after my treatment! Taylor d Shaw is heaven on earth!!!",
+   "reviewer": "Holly Kunz",
+   "date": "2025-07-06T01:59:43.164Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Taylor+D'Shaw+Salon/@40.6330824,-111.9003543,17z/data=!3m1!4b1!4m6!3m5!1s0x875289a1bac7c3b9:0x8b74442e5aed82e4!8m2!3d40.6330824!4d-111.9003543!16s%2Fg%2F1tgfdvrp"
+  },
+  {
+   "first": "Melissa",
+   "rating": 5,
+   "text": "I go here for September, she's a fabulous stylist and gets my hair to behave how I want it to. The salon itself is great. Staff is helpful. It's clean and well styled.",
+   "reviewer": "Melissa Pistorius",
+   "date": "2026-04-20T17:46:14.028Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Taylor+D'Shaw+Salon/@40.6330824,-111.9003543,17z/data=!3m1!4b1!4m6!3m5!1s0x875289a1bac7c3b9:0x8b74442e5aed82e4!8m2!3d40.6330824!4d-111.9003543!16s%2Fg%2F1tgfdvrp"
+  },
+  {
+   "first": "Jessica",
+   "rating": 5,
+   "text": "I've been coming here for over ten years and I've never been let down. The vibe is always immaculate and I leave feeling refreshed.",
+   "reviewer": "Jessica Lords",
+   "date": "2024-08-29T17:15:34.348Z",
+   "lang": "en",
+   "file": "rev/15.json",
+   "source": "https://www.google.com/maps/place/Taylor+D'Shaw+Salon/@40.6330824,-111.9003543,17z/data=!3m1!4b1!4m6!3m5!1s0x875289a1bac7c3b9:0x8b74442e5aed82e4!8m2!3d40.6330824!4d-111.9003543!16s%2Fg%2F1tgfdvrp"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Taylor+D'Shaw+Salon/@40.6330824,-111.9003543,17z/data=!3m1!4b1!4m6!3m5!1s0x875289a1bac7c3b9:0x8b74442e5aed82e4!8m2!3d40.6330824!4d-111.9003543!16s%2Fg%2F1tgfdvrp",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

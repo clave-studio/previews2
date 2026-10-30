@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kelsey",
+   "rating": 5,
+   "text": "The people who own this spa are amazing. I highly suggest the head spa. Definitely the best one in north Tucson in my opinion. Sienna did a great job. Will be back for sure",
+   "reviewer": "Kelsey Poag",
+   "date": "2026-10-07T05:15:26.316Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Vivu+Lash+%26+Skin/@32.3357275,-111.032302,17z/data=!3m1!4b1!4m6!3m5!1s0x86d674d56c8768ff:0x314299e212d4eea9!8m2!3d32.3357275!4d-111.032302!16s%2Fg%2F11gh03q60r"
+  },
+  {
+   "first": "Linh",
+   "rating": 5,
+   "text": "Highly recommend ViVu Lash and Skin. I have been coming to Vi for over 5 years and have always received consistent high quality artistry care for my lashes. She is very detailed and meticulous. Friendly staff and high quality services.",
+   "reviewer": "Linh B",
+   "date": "2026-08-22T16:08:44.049Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Vivu+Lash+%26+Skin/@32.3357275,-111.032302,17z/data=!3m1!4b1!4m6!3m5!1s0x86d674d56c8768ff:0x314299e212d4eea9!8m2!3d32.3357275!4d-111.032302!16s%2Fg%2F11gh03q60r"
+  },
+  {
+   "first": "Alexa",
+   "rating": 5,
+   "text": "Had my first headspa experience, and it was amazing! They were so kind and thorough, and explained all the steps, my hair has never felt cleaner!",
+   "reviewer": "Alexa Cann",
+   "date": "2026-10-21T21:38:25.771Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Vivu+Lash+%26+Skin/@32.3357275,-111.032302,17z/data=!3m1!4b1!4m6!3m5!1s0x86d674d56c8768ff:0x314299e212d4eea9!8m2!3d32.3357275!4d-111.032302!16s%2Fg%2F11gh03q60r"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Vivu+Lash+%26+Skin/@32.3357275,-111.032302,17z/data=!3m1!4b1!4m6!3m5!1s0x86d674d56c8768ff:0x314299e212d4eea9!8m2!3d32.3357275!4d-111.032302!16s%2Fg%2F11gh03q60r",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

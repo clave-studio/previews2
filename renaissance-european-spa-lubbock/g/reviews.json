@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Carol",
+   "rating": 5,
+   "text": "I have never had anything but a wonderful experience each time I visit the spa! The massage was fantastic and the atmosphere is so calming and relaxing. I love this place!",
+   "reviewer": "Carol Yowell",
+   "date": "2026-10-29T21:24:42.856Z",
+   "lang": "en",
+   "file": "rev/19.json",
+   "source": "https://www.google.com/maps/place/Renaissance+European+Spa/@33.5484407,-101.9077427,17z/data=!3m1!4b1!4m6!3m5!1s0x86fe6d80f4b027cd:0xfac61d1495b71c12!8m2!3d33.5484407!4d-101.9077427!16s%2Fg%2F1w0p620q"
+  },
+  {
+   "first": "Mary",
+   "rating": 5,
+   "text": "Lovely center. Staff was very warm and accommodating. Gloria was great with deep tissue massage. Erica was wonderful with the facial. Will definitely go again!",
+   "reviewer": "Mary McBride",
+   "date": "2026-09-28T19:41:00.824Z",
+   "lang": "en",
+   "file": "rev/19.json",
+   "source": "https://www.google.com/maps/place/Renaissance+European+Spa/@33.5484407,-101.9077427,17z/data=!3m1!4b1!4m6!3m5!1s0x86fe6d80f4b027cd:0xfac61d1495b71c12!8m2!3d33.5484407!4d-101.9077427!16s%2Fg%2F1w0p620q"
+  },
+  {
+   "first": "Deborah",
+   "rating": 5,
+   "text": "Had a facial with Erica. She did an amazing job. I highly recommend her. The spa is the best kept secret in Lubbock. So, calm and relaxing! Loved the whole experience! I used a special they were running!",
+   "reviewer": "Deborah Hamilton Honeycutt",
+   "date": "2026-09-14T18:25:15.181Z",
+   "lang": "en",
+   "file": "rev/19.json",
+   "source": "https://www.google.com/maps/place/Renaissance+European+Spa/@33.5484407,-101.9077427,17z/data=!3m1!4b1!4m6!3m5!1s0x86fe6d80f4b027cd:0xfac61d1495b71c12!8m2!3d33.5484407!4d-101.9077427!16s%2Fg%2F1w0p620q"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Renaissance+European+Spa/@33.5484407,-101.9077427,17z/data=!3m1!4b1!4m6!3m5!1s0x86fe6d80f4b027cd:0xfac61d1495b71c12!8m2!3d33.5484407!4d-101.9077427!16s%2Fg%2F1w0p620q",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}
