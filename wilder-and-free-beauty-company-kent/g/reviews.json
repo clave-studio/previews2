@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Rik",
+   "rating": 5,
+   "text": "Christine is the absolute best. She’s so incredibly talented & super sweet!!! I always leave obsessed with my hair ✨",
+   "reviewer": "Rik Lynn",
+   "date": "2026-10-06T23:15:18.625Z",
+   "lang": "en",
+   "file": "rev/31.json",
+   "source": "https://www.google.com/maps/place/Wilder+%2B+Free+Beauty+Company/@47.3855784,-122.2468532,17z/data=!3m1!4b1!4m6!3m5!1s0x54905bfb13fd634f:0x139118be7e51a525!8m2!3d47.3855784!4d-122.2468532!16s%2Fg%2F11cmsm62j8"
+  },
+  {
+   "first": "Peyton",
+   "rating": 5,
+   "text": "Kira is the absolute best!! My hair is flawless every time, and it has never been healthier!",
+   "reviewer": "Peyton Lamont",
+   "date": "2026-08-07T03:34:41.965Z",
+   "lang": "en",
+   "file": "rev/31.json",
+   "source": "https://www.google.com/maps/place/Wilder+%2B+Free+Beauty+Company/@47.3855784,-122.2468532,17z/data=!3m1!4b1!4m6!3m5!1s0x54905bfb13fd634f:0x139118be7e51a525!8m2!3d47.3855784!4d-122.2468532!16s%2Fg%2F11cmsm62j8"
+  },
+  {
+   "first": "Laurie",
+   "rating": 5,
+   "text": "I’ve been seeing Mandy for quite a few years. She has never steered me wrong with any cuts or colors. I always leave their looking amazing!",
+   "reviewer": "Laurie Schnase",
+   "date": "2026-07-28T02:54:41.980Z",
+   "lang": "en",
+   "file": "rev/31.json",
+   "source": "https://www.google.com/maps/place/Wilder+%2B+Free+Beauty+Company/@47.3855784,-122.2468532,17z/data=!3m1!4b1!4m6!3m5!1s0x54905bfb13fd634f:0x139118be7e51a525!8m2!3d47.3855784!4d-122.2468532!16s%2Fg%2F11cmsm62j8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Wilder+%2B+Free+Beauty+Company/@47.3855784,-122.2468532,17z/data=!3m1!4b1!4m6!3m5!1s0x54905bfb13fd634f:0x139118be7e51a525!8m2!3d47.3855784!4d-122.2468532!16s%2Fg%2F11cmsm62j8",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

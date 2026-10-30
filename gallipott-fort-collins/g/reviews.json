@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Stephanie",
+   "rating": 5,
+   "text": "Bella is amazing. I have been with her for a couple of years now and highly recommend her to friends. My color and haircuts are always perfect. I love the space at Gallipot, especially the area in the back with all the windows.",
+   "reviewer": "Stephanie Giard",
+   "date": "2026-08-31T01:46:28.878Z",
+   "lang": "en",
+   "file": "rev/30.json",
+   "source": "https://www.google.com/maps/place/Gallipott/@40.5661315,-105.0786132,17z/data=!3m1!4b1!4m6!3m5!1s0x87694b0011d26141:0xac0be2446e24098e!8m2!3d40.5661315!4d-105.0786132!16s%2Fg%2F12ml2yn_t"
+  },
+  {
+   "first": "Madelyn",
+   "rating": 5,
+   "text": "I look forward to my haircuts with Bella! She does a fabulous job and is truly a gem of a human. She’s simply one of the very best!",
+   "reviewer": "Madelyn Gaharan",
+   "date": "2026-06-05T21:57:11.311Z",
+   "lang": "en",
+   "file": "rev/30.json",
+   "source": "https://www.google.com/maps/place/Gallipott/@40.5661315,-105.0786132,17z/data=!3m1!4b1!4m6!3m5!1s0x87694b0011d26141:0xac0be2446e24098e!8m2!3d40.5661315!4d-105.0786132!16s%2Fg%2F12ml2yn_t"
+  },
+  {
+   "first": "Carter",
+   "rating": 5,
+   "text": "Victoria was so attentive and detailed, I got my best haircut in years.",
+   "reviewer": "Carter Galyardt",
+   "date": "2026-03-05T17:04:17.008Z",
+   "lang": "en",
+   "file": "rev/30.json",
+   "source": "https://www.google.com/maps/place/Gallipott/@40.5661315,-105.0786132,17z/data=!3m1!4b1!4m6!3m5!1s0x87694b0011d26141:0xac0be2446e24098e!8m2!3d40.5661315!4d-105.0786132!16s%2Fg%2F12ml2yn_t"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Gallipott/@40.5661315,-105.0786132,17z/data=!3m1!4b1!4m6!3m5!1s0x87694b0011d26141:0xac0be2446e24098e!8m2!3d40.5661315!4d-105.0786132!16s%2Fg%2F12ml2yn_t",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

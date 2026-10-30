@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Wren",
+   "rating": 5,
+   "text": "Alyssa gave me one of the best haircuts I have ever had! 10/10 recommend, for sure!",
+   "reviewer": "Wren Harlow",
+   "date": "2026-05-09T05:28:15.828Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/The+Linq+Salon/@32.2585807,-110.944248,17z/data=!3m1!4b1!4m6!3m5!1s0xa0a4e4a9142c831b:0x167958c9117e15bc!8m2!3d32.2585807!4d-110.944248!16s%2Fg%2F11vywkv010"
+  },
+  {
+   "first": "Arden",
+   "rating": 5,
+   "text": "This was my first time getting highlights ever and Anissa did SUCH A GOOD JOB. She took such good care of me, I will definitely be coming back!",
+   "reviewer": "Arden Hannig",
+   "date": "2026-02-28T02:24:02.947Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/The+Linq+Salon/@32.2585807,-110.944248,17z/data=!3m1!4b1!4m6!3m5!1s0xa0a4e4a9142c831b:0x167958c9117e15bc!8m2!3d32.2585807!4d-110.944248!16s%2Fg%2F11vywkv010"
+  },
+  {
+   "first": "Arielle",
+   "rating": 5,
+   "text": "Amazing experience! Grace did my balayage and I am super happy with it. Friendly service and excellent recommendations.",
+   "reviewer": "Arielle DeSoucey",
+   "date": "2026-02-21T22:48:04.215Z",
+   "lang": "en",
+   "file": "rev/17.json",
+   "source": "https://www.google.com/maps/place/The+Linq+Salon/@32.2585807,-110.944248,17z/data=!3m1!4b1!4m6!3m5!1s0xa0a4e4a9142c831b:0x167958c9117e15bc!8m2!3d32.2585807!4d-110.944248!16s%2Fg%2F11vywkv010"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Linq+Salon/@32.2585807,-110.944248,17z/data=!3m1!4b1!4m6!3m5!1s0xa0a4e4a9142c831b:0x167958c9117e15bc!8m2!3d32.2585807!4d-110.944248!16s%2Fg%2F11vywkv010",
+ "toggle": true,
+ "toggle_evidence": "Batch 15 brief: Linq site has Spanish content; EN/ES toggle requested",
+ "services_source": ""
+}

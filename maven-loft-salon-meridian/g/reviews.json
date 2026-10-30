@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Alyssa",
+   "rating": 5,
+   "text": "Christie is a GEM! So happy to have found her! Fixed my hair color, getting me to where I want to be! Listened and was all around amazing!",
+   "reviewer": "Alyssa Townsend",
+   "date": "2026-10-23T19:43:12.065Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/Maven+Loft+Salon/@43.6406671,-116.3795896,17z/data=!3m1!5s0x54ae548af3b91bf1:0x9e262436d112d104!4m10!1m2!2m1!1sMaven+Loft+Salon+Meridian+ID!3m6!1s0x54ae551fd03af68d:0xd1c2fc6e59758855!8m2!3d43.6406671!4d-116.374826!15sChxNYXZlbiBMb2Z0IFNhbG9uIE1lcmlkaWFuIElEWh4iHG1hdmVuIGxvZnQgc2Fsb24gbWVyaWRpYW4gaWSSAQpoYWlyX3NhbG9umgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1V2IwOUVaR3hoVjNSNVRXdHZNRlpYT1c1bFJFSnVZM3BhYzAxdFl4QULgAQD6AQQIABBB!16s%2Fg%2F11h_5np10j"
+  },
+  {
+   "first": "Julie",
+   "rating": 5,
+   "text": "I was so happy with the way my hair turned out! Ella did an amazing job and I will definitely go back!",
+   "reviewer": "Julie Lloyd",
+   "date": "2026-09-17T23:16:25.394Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/Maven+Loft+Salon/@43.6406671,-116.3795896,17z/data=!3m1!5s0x54ae548af3b91bf1:0x9e262436d112d104!4m10!1m2!2m1!1sMaven+Loft+Salon+Meridian+ID!3m6!1s0x54ae551fd03af68d:0xd1c2fc6e59758855!8m2!3d43.6406671!4d-116.374826!15sChxNYXZlbiBMb2Z0IFNhbG9uIE1lcmlkaWFuIElEWh4iHG1hdmVuIGxvZnQgc2Fsb24gbWVyaWRpYW4gaWSSAQpoYWlyX3NhbG9umgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1V2IwOUVaR3hoVjNSNVRXdHZNRlpYT1c1bFJFSnVZM3BhYzAxdFl4QULgAQD6AQQIABBB!16s%2Fg%2F11h_5np10j"
+  },
+  {
+   "first": "Kaylee",
+   "rating": 5,
+   "text": "Sierra gave me the best blonde I've ever had. 100% recommend!",
+   "reviewer": "Kaylee Dermer",
+   "date": "2026-09-22T23:34:35.939Z",
+   "lang": "en",
+   "file": "rev/14.json",
+   "source": "https://www.google.com/maps/place/Maven+Loft+Salon/@43.6406671,-116.3795896,17z/data=!3m1!5s0x54ae548af3b91bf1:0x9e262436d112d104!4m10!1m2!2m1!1sMaven+Loft+Salon+Meridian+ID!3m6!1s0x54ae551fd03af68d:0xd1c2fc6e59758855!8m2!3d43.6406671!4d-116.374826!15sChxNYXZlbiBMb2Z0IFNhbG9uIE1lcmlkaWFuIElEWh4iHG1hdmVuIGxvZnQgc2Fsb24gbWVyaWRpYW4gaWSSAQpoYWlyX3NhbG9umgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1V2IwOUVaR3hoVjNSNVRXdHZNRlpYT1c1bFJFSnVZM3BhYzAxdFl4QULgAQD6AQQIABBB!16s%2Fg%2F11h_5np10j"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Maven+Loft+Salon/@43.6406671,-116.3795896,17z/data=!3m1!5s0x54ae548af3b91bf1:0x9e262436d112d104!4m10!1m2!2m1!1sMaven+Loft+Salon+Meridian+ID!3m6!1s0x54ae551fd03af68d:0xd1c2fc6e59758855!8m2!3d43.6406671!4d-116.374826!15sChxNYXZlbiBMb2Z0IFNhbG9uIE1lcmlkaWFuIElEWh4iHG1hdmVuIGxvZnQgc2Fsb24gbWVyaWRpYW4gaWSSAQpoYWlyX3NhbG9umgFEQ2k5RFFVbFJRVU52WkVOb2RIbGpSamx2VDI1V2IwOUVaR3hoVjNSNVRXdHZNRlpYT1c1bFJFSnVZM3BhYzAxdFl4QULgAQD6AQQIABBB!16s%2Fg%2F11h_5np10j",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

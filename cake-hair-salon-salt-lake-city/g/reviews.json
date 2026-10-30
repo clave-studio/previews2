@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Holly",
+   "rating": 5,
+   "text": "Randy Topham is the BEST stylist. I’ve never gotten a hair cut that I haven’t loved. He does everything, wedding hair, cut, color, and it’s perfect every time. Don’t go somewhere else, go to him. He’s fantastic",
+   "reviewer": "Holly Crow",
+   "date": "2026-10-14T04:30:14.747Z",
+   "lang": "en",
+   "file": "rev/29.json",
+   "source": "https://www.google.com/maps/place/Cake+Hair+Salon+%E2%9C%82/@40.7470637,-111.8885194,17z/data=!3m1!4b1!4m6!3m5!1s0x8752f5146b8a590f:0xdd76470b8b25ec93!8m2!3d40.7470637!4d-111.8885194!16s%2Fg%2F1tdw8jyn"
+  },
+  {
+   "first": "Stevie",
+   "rating": 5,
+   "text": "Came in for an impulsive last minute cut - Nikki was available and KILLED IT! Im obsessed and it was fun watching her geek out and get excited while cutting it too 🥰",
+   "reviewer": "Stevie Shock",
+   "date": "2025-11-13T21:34:43.433Z",
+   "lang": "en",
+   "file": "rev/29.json",
+   "source": "https://www.google.com/maps/place/Cake+Hair+Salon+%E2%9C%82/@40.7470637,-111.8885194,17z/data=!3m1!4b1!4m6!3m5!1s0x8752f5146b8a590f:0xdd76470b8b25ec93!8m2!3d40.7470637!4d-111.8885194!16s%2Fg%2F1tdw8jyn"
+  },
+  {
+   "first": "Christina",
+   "rating": 5,
+   "text": "Wow. I’ve been searching long and hard for a great stylist to clean up my blonde highlights, and Jonesy totally took my breath away. Amazing technique, so much time and effort, and great conversation. Already booked with them again!",
+   "reviewer": "Christina Ausley",
+   "date": "2024-04-24T13:35:17.541Z",
+   "lang": "en",
+   "file": "rev/29.json",
+   "source": "https://www.google.com/maps/place/Cake+Hair+Salon+%E2%9C%82/@40.7470637,-111.8885194,17z/data=!3m1!4b1!4m6!3m5!1s0x8752f5146b8a590f:0xdd76470b8b25ec93!8m2!3d40.7470637!4d-111.8885194!16s%2Fg%2F1tdw8jyn"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Cake+Hair+Salon+%E2%9C%82/@40.7470637,-111.8885194,17z/data=!3m1!4b1!4m6!3m5!1s0x8752f5146b8a590f:0xdd76470b8b25ec93!8m2!3d40.7470637!4d-111.8885194!16s%2Fg%2F1tdw8jyn",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}
