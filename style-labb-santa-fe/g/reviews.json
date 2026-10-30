@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jennifer",
+   "rating": 5,
+   "text": "Antoinette was warm and welcoming and did an amazing job with my cut and color! The salon was clean and comfortable as well.",
+   "reviewer": "Jennifer F",
+   "date": "2026-10-22T17:58:34.566Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Style+Labb/@35.6880497,-105.9441697,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507e06a2f949:0xc7c0b184eef0f7ea!8m2!3d35.6880497!4d-105.9441697!16s%2Fg%2F11c4bpq5c7"
+  },
+  {
+   "first": "Lisa",
+   "rating": 5,
+   "text": "I just moved to Santa Fe and was absolutely delighted by my experience at Style Labb! The cutest salon ever and such good vibes. Shadie cut and colored my hair. She asked the right questions and nailed the cut and the color. I highly recommend this lovely little salon!",
+   "reviewer": "lisa carlton",
+   "date": "2026-10-22T19:50:48.870Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Style+Labb/@35.6880497,-105.9441697,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507e06a2f949:0xc7c0b184eef0f7ea!8m2!3d35.6880497!4d-105.9441697!16s%2Fg%2F11c4bpq5c7"
+  },
+  {
+   "first": "Janice",
+   "rating": 5,
+   "text": "After much searching for a new stylist, Antoinette really came through. She's thoughtful, honest, makes sure she understands exactly what you are looking for in a cut and color and I trust her completely as I navigate trying to stay 'current' as I age. HIGHLY recommend.",
+   "reviewer": "Janice Greene",
+   "date": "2026-08-10T15:28:01.996Z",
+   "lang": "en",
+   "file": "rev/13.json",
+   "source": "https://www.google.com/maps/place/Style+Labb/@35.6880497,-105.9441697,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507e06a2f949:0xc7c0b184eef0f7ea!8m2!3d35.6880497!4d-105.9441697!16s%2Fg%2F11c4bpq5c7"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Style+Labb/@35.6880497,-105.9441697,17z/data=!3m1!4b1!4m6!3m5!1s0x8718507e06a2f949:0xc7c0b184eef0f7ea!8m2!3d35.6880497!4d-105.9441697!16s%2Fg%2F11c4bpq5c7",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.stylelabb.com/stylists"
+}

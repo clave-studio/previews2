@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Tara",
+   "rating": 5,
+   "text": "Tabitha worked wonders on my hair! She’s did a great job with my highlights and my hair cut looks amazing! My hair also looks so much healthier now. I’ll definitely be back!",
+   "reviewer": "Tara Walker",
+   "date": "2026-10-15T02:26:11.023Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Copperfalls+Aveda+Spa+and+Salon/@39.3728509,-104.8583654,17z/data=!3m1!4b1!4m6!3m5!1s0x876c983d227a8d8d:0xf2a0973ee4a44572!8m2!3d39.3728509!4d-104.8583654!16s%2Fg%2F1tfh_26c"
+  },
+  {
+   "first": "Wendy",
+   "rating": 5,
+   "text": "Natalia gave me a cut that I love, love, love. She and I talked through what I wanted and how to best achieve that with my particular hair texture. She has skills and attention to detail.",
+   "reviewer": "Wendy Anderson",
+   "date": "2026-07-10T16:15:39.250Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Copperfalls+Aveda+Spa+and+Salon/@39.3728509,-104.8583654,17z/data=!3m1!4b1!4m6!3m5!1s0x876c983d227a8d8d:0xf2a0973ee4a44572!8m2!3d39.3728509!4d-104.8583654!16s%2Fg%2F1tfh_26c"
+  },
+  {
+   "first": "Heather",
+   "rating": 5,
+   "text": "Got the Copper Falls Facial and this will be my go to service! The massage takes the service over the top! Lily was amazing as always!!! ⭐️⭐️⭐️⭐️⭐️",
+   "reviewer": "Heather Whitbeck",
+   "date": "2026-07-20T13:15:34.232Z",
+   "lang": "en",
+   "file": "rev/12.json",
+   "source": "https://www.google.com/maps/place/Copperfalls+Aveda+Spa+and+Salon/@39.3728509,-104.8583654,17z/data=!3m1!4b1!4m6!3m5!1s0x876c983d227a8d8d:0xf2a0973ee4a44572!8m2!3d39.3728509!4d-104.8583654!16s%2Fg%2F1tfh_26c"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Copperfalls+Aveda+Spa+and+Salon/@39.3728509,-104.8583654,17z/data=!3m1!4b1!4m6!3m5!1s0x876c983d227a8d8d:0xf2a0973ee4a44572!8m2!3d39.3728509!4d-104.8583654!16s%2Fg%2F1tfh_26c",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://copperfalls.com/services/"
+}

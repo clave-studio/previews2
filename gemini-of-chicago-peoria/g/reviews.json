@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Bri",
+   "rating": 5,
+   "text": "I’ve been going to Lisa for years and there’s no one else I would trust with my hair. She can confidently cut curly/wavy hair and does beautiful color. The salon is clean, and the staff is very friendly. This is a much needed high end salon in the upper west valley.",
+   "reviewer": "Bri Holloway",
+   "date": "2026-10-07T17:36:21.771Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Gemini+Of+Chicago+Hair+Salon/@33.7101728,-112.2729157,17z/data=!3m1!4b1!4m6!3m5!1s0x872b5da5e08818d1:0xe012d1a5aea0ab44!8m2!3d33.7101728!4d-112.2729157!16s%2Fg%2F1tdxwh7c"
+  },
+  {
+   "first": "Tabita",
+   "rating": 5,
+   "text": "I absolutely love this salon and all the ladies here. The owners are so sweet and always make you feel right at home. My hairstylist, Esther, is truly one of a kind, my hair guru, friend, and therapist all in one. With her, it’s never just a hair appointment; it’s a few hours of pure perfection.",
+   "reviewer": "Tabita Stanciu",
+   "date": "2025-08-14T14:37:31.903Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Gemini+Of+Chicago+Hair+Salon/@33.7101728,-112.2729157,17z/data=!3m1!4b1!4m6!3m5!1s0x872b5da5e08818d1:0xe012d1a5aea0ab44!8m2!3d33.7101728!4d-112.2729157!16s%2Fg%2F1tdxwh7c"
+  },
+  {
+   "first": "Lexie",
+   "rating": 5,
+   "text": "Alyx always done an amazing job with my hair, it comes out perfect every time. Everyone is very nice, and feels very welcoming when you walk in. My hair has grown so much since i started coming here.",
+   "reviewer": "Lexie Bedolla",
+   "date": "2025-02-21T23:26:02.315Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Gemini+Of+Chicago+Hair+Salon/@33.7101728,-112.2729157,17z/data=!3m1!4b1!4m6!3m5!1s0x872b5da5e08818d1:0xe012d1a5aea0ab44!8m2!3d33.7101728!4d-112.2729157!16s%2Fg%2F1tdxwh7c"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Gemini+Of+Chicago+Hair+Salon/@33.7101728,-112.2729157,17z/data=!3m1!4b1!4m6!3m5!1s0x872b5da5e08818d1:0xe012d1a5aea0ab44!8m2!3d33.7101728!4d-112.2729157!16s%2Fg%2F1tdxwh7c",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.geminiofchicago.com/services"
+}
