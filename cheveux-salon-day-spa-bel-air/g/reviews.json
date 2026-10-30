@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Keri Jo",
+   "rating": 5,
+   "text": "I absolutely love my hair! ❤️ Bambi is amazing with my extensions, and the color is always perfect. Everyone at the salon is so friendly, welcoming, and professional. I always leave feeling beautiful! ✨I can't recommend this salon enough!",
+   "reviewer": "Keri Jo Allen",
+   "date": "2026-10-07T15:15:36.416Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Cheveux+Salon+%26+Day+Spa/@39.5406059,-76.3575223,17z/data=!3m1!4b1!4m6!3m5!1s0x89c7dd8746349a51:0xf8439588e3c9f8b0!8m2!3d39.5406059!4d-76.3575223!16s%2Fg%2F1tnctw79"
+  },
+  {
+   "first": "Kathryn",
+   "rating": 5,
+   "text": "Great solan! Love the friendly atmosphere and Linda did a spectacular job with my hair cut and gives great advice so I can look my best!",
+   "reviewer": "Kathryn Vradenburgh",
+   "date": "2026-10-01T01:07:59.175Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Cheveux+Salon+%26+Day+Spa/@39.5406059,-76.3575223,17z/data=!3m1!4b1!4m6!3m5!1s0x89c7dd8746349a51:0xf8439588e3c9f8b0!8m2!3d39.5406059!4d-76.3575223!16s%2Fg%2F1tnctw79"
+  },
+  {
+   "first": "Cynthia",
+   "rating": 5,
+   "text": "Briana took her time and answered all my questions about the lowlights I wanted to put in my white hair. The results were beautiful!",
+   "reviewer": "Cynthia Blankenship",
+   "date": "2026-05-21T21:08:48.721Z",
+   "lang": "en",
+   "file": "rev/11.json",
+   "source": "https://www.google.com/maps/place/Cheveux+Salon+%26+Day+Spa/@39.5406059,-76.3575223,17z/data=!3m1!4b1!4m6!3m5!1s0x89c7dd8746349a51:0xf8439588e3c9f8b0!8m2!3d39.5406059!4d-76.3575223!16s%2Fg%2F1tnctw79"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Cheveux+Salon+%26+Day+Spa/@39.5406059,-76.3575223,17z/data=!3m1!4b1!4m6!3m5!1s0x89c7dd8746349a51:0xf8439588e3c9f8b0!8m2!3d39.5406059!4d-76.3575223!16s%2Fg%2F1tnctw79",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.cheveuxsalonanddayspa.com/services"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Allyson",
+   "rating": 5,
+   "text": "Alexis was amazing! She listened to what I wanted and did exactly that! Her attention to detail is incredible. My balayage, tone, and haircut was perfect. I cannot wait to go back for my next appointment! 10/10 would recommend!",
+   "reviewer": "Allyson Betyeman",
+   "date": "2026-02-02T03:20:26.507Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Wild+Roots+Hair+Salon/@40.5978111,-74.3529624,17z/data=!3m1!4b1!4m6!3m5!1s0x89c3b6b12b8bdc4f:0xf3e9db0ac762a6a1!8m2!3d40.5978111!4d-74.3529624!16s%2Fg%2F1vntkv1y"
+  },
+  {
+   "first": "Lauren",
+   "rating": 5,
+   "text": "Beautiful salon with impeccable customer service and highly skilled personnel! See Alexis for all your color and styling needs!!",
+   "reviewer": "Lauren Sorezza",
+   "date": "2026-10-03T11:13:10.425Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Wild+Roots+Hair+Salon/@40.5978111,-74.3529624,17z/data=!3m1!4b1!4m6!3m5!1s0x89c3b6b12b8bdc4f:0xf3e9db0ac762a6a1!8m2!3d40.5978111!4d-74.3529624!16s%2Fg%2F1vntkv1y"
+  },
+  {
+   "first": "Donna",
+   "rating": 5,
+   "text": "I decided to try a salon more\nlocal to home and am SO glad I did. Megan did a superb job! New color, great highlights and cut. My hair looks so much healthier; I LOVE IT! and booked my next appt already:)",
+   "reviewer": "Donna Jamison",
+   "date": "2026-10-22T01:57:41.064Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Wild+Roots+Hair+Salon/@40.5978111,-74.3529624,17z/data=!3m1!4b1!4m6!3m5!1s0x89c3b6b12b8bdc4f:0xf3e9db0ac762a6a1!8m2!3d40.5978111!4d-74.3529624!16s%2Fg%2F1vntkv1y"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Wild+Roots+Hair+Salon/@40.5978111,-74.3529624,17z/data=!3m1!4b1!4m6!3m5!1s0x89c3b6b12b8bdc4f:0xf3e9db0ac762a6a1!8m2!3d40.5978111!4d-74.3529624!16s%2Fg%2F1vntkv1y",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.wrhairsalon.com/"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Yesenia",
+   "rating": 5,
+   "text": "Ive never had my hair professionally done but this was a wonderful first time experience, I'm ELATED with how my highlights turned out, the location and building is beautiful",
+   "reviewer": "Yesenia",
+   "date": "2026-08-22T22:28:37.950Z",
+   "lang": "en",
+   "file": "rev/6.json",
+   "source": "https://www.google.com/maps/place/Peak+of+Perfection/@32.24678,-110.852861,17z/data=!3m1!4b1!4m6!3m5!1s0x86d66eff1714e775:0x68f8e5c20f583b95!8m2!3d32.24678!4d-110.852861!16s%2Fg%2F1tlqqfd8"
+  },
+  {
+   "first": "Erin",
+   "rating": 5,
+   "text": "The environment is relaxing and customer service is top notch. Murat does an amazing job and I highly recommend.",
+   "reviewer": "Erin Jaurigue",
+   "date": "2024-12-06T22:39:42.323Z",
+   "lang": "en",
+   "file": "rev/6.json",
+   "source": "https://www.google.com/maps/place/Peak+of+Perfection/@32.24678,-110.852861,17z/data=!3m1!4b1!4m6!3m5!1s0x86d66eff1714e775:0x68f8e5c20f583b95!8m2!3d32.24678!4d-110.852861!16s%2Fg%2F1tlqqfd8"
+  },
+  {
+   "first": "Kathy",
+   "rating": 5,
+   "text": "Murat is FABULOUS! He is an artist! The absolute best haircuts I’ve ever gotten. Highly Recommend!!!",
+   "reviewer": "Kathy Harris",
+   "date": "2024-09-05T17:50:42.601Z",
+   "lang": "en",
+   "file": "rev/6.json",
+   "source": "https://www.google.com/maps/place/Peak+of+Perfection/@32.24678,-110.852861,17z/data=!3m1!4b1!4m6!3m5!1s0x86d66eff1714e775:0x68f8e5c20f583b95!8m2!3d32.24678!4d-110.852861!16s%2Fg%2F1tlqqfd8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Peak+of+Perfection/@32.24678,-110.852861,17z/data=!3m1!4b1!4m6!3m5!1s0x86d66eff1714e775:0x68f8e5c20f583b95!8m2!3d32.24678!4d-110.852861!16s%2Fg%2F1tlqqfd8",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://peakofperfectionsalon.com/"
+}

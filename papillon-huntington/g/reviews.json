@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Shaina",
+   "rating": 5,
+   "text": "Rebecca is a master at her craft. She nailed the EXACT look I wanted to achieve both color and cut wise and gave me the blow out of my dreams. I’m so happy I found her!!",
+   "reviewer": "Shaina Grzeczka",
+   "date": "2025-08-28T15:17:32.022Z",
+   "lang": "en",
+   "file": "rev/8.json",
+   "source": "https://www.google.com/maps/place/Papillon+Beauty+Salon/@40.8701166,-73.4251426,17z/data=!3m1!4b1!4m6!3m5!1s0x89e82878c3e62a55:0x68251dd75f105428!8m2!3d40.8701166!4d-73.4251426!16s%2Fg%2F1v1vf6vq"
+  },
+  {
+   "first": "Theresa",
+   "rating": 5,
+   "text": "Barbara is an excellent haircutter. She is professional, pleasant, she advises and cuts to how you want it. Thanks Barbara for being you!",
+   "reviewer": "Theresa G.",
+   "date": "2025-07-26T21:01:57.844Z",
+   "lang": "en",
+   "file": "rev/8.json",
+   "source": "https://www.google.com/maps/place/Papillon+Beauty+Salon/@40.8701166,-73.4251426,17z/data=!3m1!4b1!4m6!3m5!1s0x89e82878c3e62a55:0x68251dd75f105428!8m2!3d40.8701166!4d-73.4251426!16s%2Fg%2F1v1vf6vq"
+  },
+  {
+   "first": "Katherine",
+   "rating": 5,
+   "text": "Carlos is THE best! My blonde looks gorgeous. He did exactly what I asked for!",
+   "reviewer": "Katherine Cirelli",
+   "date": "2025-01-31T22:51:38.684Z",
+   "lang": "en",
+   "file": "rev/8.json",
+   "source": "https://www.google.com/maps/place/Papillon+Beauty+Salon/@40.8701166,-73.4251426,17z/data=!3m1!4b1!4m6!3m5!1s0x89e82878c3e62a55:0x68251dd75f105428!8m2!3d40.8701166!4d-73.4251426!16s%2Fg%2F1v1vf6vq"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Papillon+Beauty+Salon/@40.8701166,-73.4251426,17z/data=!3m1!4b1!4m6!3m5!1s0x89e82878c3e62a55:0x68251dd75f105428!8m2!3d40.8701166!4d-73.4251426!16s%2Fg%2F1v1vf6vq",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://papillonsalon.net/"
+}
