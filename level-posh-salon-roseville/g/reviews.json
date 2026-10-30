@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Mila",
+   "rating": 5,
+   "text": "I had an amazing experience at\nLevel Posh Salon!\nNadia is an incredible stylist. She really listened to what I wanted and made my hair look absolutely stunning. The salon atmosphere is elegant, relaxing and welcoming. I highly recommend Nadia as your trusted advisor for all your hair care needs!",
+   "reviewer": "Mila G",
+   "date": "2025-10-21T07:32:40.079Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Level+Posh/@38.7457448,-121.2574857,17z/data=!3m1!4b1!4m6!3m5!1s0x809b1fe52d6c90e7:0x52b64783f59303e2!8m2!3d38.7457448!4d-121.2574857!16s%2Fg%2F11h2p4y6ds"
+  },
+  {
+   "first": "Sofia",
+   "rating": 5,
+   "text": "I always go to Sharon for my hair. She does an amazing job with coloring services and the blend! I highly recommend Sharon to anyone looking for top notch service and results with fair prices! She is skilled and knowledgeable and takes the time to understand what you want.",
+   "reviewer": "Sofia Kutenets",
+   "date": "2024-08-29T17:00:37.359Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Level+Posh/@38.7457448,-121.2574857,17z/data=!3m1!4b1!4m6!3m5!1s0x809b1fe52d6c90e7:0x52b64783f59303e2!8m2!3d38.7457448!4d-121.2574857!16s%2Fg%2F11h2p4y6ds"
+  },
+  {
+   "first": "Anne",
+   "rating": 5,
+   "text": "The best experience! Best place for color that lasts and true artistry in styling. Tanya is creative and listens - so easy to work with. I love the Eufora products she uses in this salon. Wish I could give more stars!",
+   "reviewer": "anne eowan",
+   "date": "2024-04-15T21:58:11.120Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Level+Posh/@38.7457448,-121.2574857,17z/data=!3m1!4b1!4m6!3m5!1s0x809b1fe52d6c90e7:0x52b64783f59303e2!8m2!3d38.7457448!4d-121.2574857!16s%2Fg%2F11h2p4y6ds"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Level+Posh/@38.7457448,-121.2574857,17z/data=!3m1!4b1!4m6!3m5!1s0x809b1fe52d6c90e7:0x52b64783f59303e2!8m2!3d38.7457448!4d-121.2574857!16s%2Fg%2F11h2p4y6ds",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Wendy",
+   "rating": 5,
+   "text": "We have been looking for a Gilbert hair stylist and found Abby and Savannah! They are incredible at blonding, haircuts and extension. Highly recommend you book with them, you will love the results.",
+   "reviewer": "wendy lunt",
+   "date": "2026-09-02T15:38:31.192Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Awsum+Salon/@33.231895,-111.721162,17z/data=!3m1!4b1!4m6!3m5!1s0x872a53220d5b2413:0x7af306a54897d061!8m2!3d33.231895!4d-111.721162!16s%2Fg%2F11dyp2045j"
+  },
+  {
+   "first": "Brooke",
+   "rating": 5,
+   "text": "Savana is AMAZZZZINGGGG! I’ve been going to her for over 6 years and always get nothing but the best service from her and her staff🩷 There is a coffee bar there with little snacks for clients too. It's just the cutest setup and makes you feel so welcomed. Highly Recommend!✨",
+   "reviewer": "Brooke B",
+   "date": "2025-05-30T19:37:41.014Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Awsum+Salon/@33.231895,-111.721162,17z/data=!3m1!4b1!4m6!3m5!1s0x872a53220d5b2413:0x7af306a54897d061!8m2!3d33.231895!4d-111.721162!16s%2Fg%2F11dyp2045j"
+  },
+  {
+   "first": "Daniella",
+   "rating": 5,
+   "text": "Ansley does amazing cuts! I always get compliments on my hair thanks to her. I feel so comfortable around her and she listens to me and give the best input.",
+   "reviewer": "Daniella Funk",
+   "date": "2025-12-06T18:37:17.488Z",
+   "lang": "en",
+   "file": "rev/9.json",
+   "source": "https://www.google.com/maps/place/Awsum+Salon/@33.231895,-111.721162,17z/data=!3m1!4b1!4m6!3m5!1s0x872a53220d5b2413:0x7af306a54897d061!8m2!3d33.231895!4d-111.721162!16s%2Fg%2F11dyp2045j"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Awsum+Salon/@33.231895,-111.721162,17z/data=!3m1!4b1!4m6!3m5!1s0x872a53220d5b2413:0x7af306a54897d061!8m2!3d33.231895!4d-111.721162!16s%2Fg%2F11dyp2045j",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Deborah",
+   "rating": 5,
+   "text": "The owner, Liisa, has been my hair stylist for 30 years. I’ve NEVER been disappointed. Everyone at the salon is friendly and helpful.",
+   "reviewer": "Deborah Elvers",
+   "date": "2024-12-06T01:07:51.783Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Echelon+Salon/@38.6849585,-121.1779962,17z/data=!3m1!4b1!4m6!3m5!1s0x809ae15119dc0125:0x3e4008b4b579ac06!8m2!3d38.6849585!4d-121.1779962!16s%2Fg%2F1tffk0km"
+  },
+  {
+   "first": "Caitlyn",
+   "rating": 5,
+   "text": "Stephanie is my absolute favorite! She always does an amazing job and she's so sweet. I highly recommend her.",
+   "reviewer": "Caitlyn Tweedy",
+   "date": "2024-04-13T19:25:19.030Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Echelon+Salon/@38.6849585,-121.1779962,17z/data=!3m1!4b1!4m6!3m5!1s0x809ae15119dc0125:0x3e4008b4b579ac06!8m2!3d38.6849585!4d-121.1779962!16s%2Fg%2F1tffk0km"
+  },
+  {
+   "first": "Jasmine",
+   "rating": 5,
+   "text": "Hai was Great! He got me in last minute and did an amazing job.He cut and added blonde to my hair.Thank you Hai 😊",
+   "reviewer": "Jasmine Bravo",
+   "date": "2023-05-23T18:26:56.075Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Echelon+Salon/@38.6849585,-121.1779962,17z/data=!3m1!4b1!4m6!3m5!1s0x809ae15119dc0125:0x3e4008b4b579ac06!8m2!3d38.6849585!4d-121.1779962!16s%2Fg%2F1tffk0km"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Echelon+Salon/@38.6849585,-121.1779962,17z/data=!3m1!4b1!4m6!3m5!1s0x809ae15119dc0125:0x3e4008b4b579ac06!8m2!3d38.6849585!4d-121.1779962!16s%2Fg%2F1tffk0km",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

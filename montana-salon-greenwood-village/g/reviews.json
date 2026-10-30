@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Emily",
+   "rating": 5,
+   "text": "I love Svetlana and Brani! They always make me feel my best and I love my hair every time.",
+   "reviewer": "Emily Wolgin",
+   "date": "2026-09-03T14:45:14.689Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Montana+Salon/@39.6226824,-104.8970903,17z/data=!3m1!4b1!4m6!3m5!1s0x876c86ff14373a11:0xc4c3ce7b13be94f7!8m2!3d39.6226824!4d-104.8970903!16s%2Fg%2F1ts_72t1"
+  },
+  {
+   "first": "Kate",
+   "rating": 5,
+   "text": "Avery & Eric are awesome!! Today was my first time coming to this salon & I got a balayage & cut/blowout. They both exceeded my expectations. I’m not usually one to leave reviews but I had such a great experience I felt I needed to share. Highly recommend!",
+   "reviewer": "Kate Hager",
+   "date": "2026-03-19T23:22:12.661Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Montana+Salon/@39.6226824,-104.8970903,17z/data=!3m1!4b1!4m6!3m5!1s0x876c86ff14373a11:0xc4c3ce7b13be94f7!8m2!3d39.6226824!4d-104.8970903!16s%2Fg%2F1ts_72t1"
+  },
+  {
+   "first": "Elise",
+   "rating": 5,
+   "text": "I love the team at Montana Salon! Macy always does an incredible job with my color and helps me achieve my hair goals with each season ❤️ & thank you to Patrick for the fantastic cut & blowout today!",
+   "reviewer": "Elise Moix",
+   "date": "2026-06-18T00:10:33.659Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Montana+Salon/@39.6226824,-104.8970903,17z/data=!3m1!4b1!4m6!3m5!1s0x876c86ff14373a11:0xc4c3ce7b13be94f7!8m2!3d39.6226824!4d-104.8970903!16s%2Fg%2F1ts_72t1"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Montana+Salon/@39.6226824,-104.8970903,17z/data=!3m1!4b1!4m6!3m5!1s0x876c86ff14373a11:0xc4c3ce7b13be94f7!8m2!3d39.6226824!4d-104.8970903!16s%2Fg%2F1ts_72t1",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.montanasalon.com/hairservices"
+}

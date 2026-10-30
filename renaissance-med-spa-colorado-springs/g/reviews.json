@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Bhavna",
+   "rating": 5,
+   "text": "Excellent Med Spa. Have had laser treatment and facials here. Very professional facility. Dr Parul is very attentive to client’s needs. Recommend the med spa best in the city.",
+   "reviewer": "Bhavna Bali",
+   "date": "2026-10-19T18:49:04.047Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Renaissance+Med+Spa+%7C+Skin+Care+Clinic+%7C+Colorado+Springs+%7C+Botox+%7C+Wrinkle+Treatment+%7C+Microneedling+%7C+Face+Treatment/@38.9028979,-104.7704078,17z/data=!3m1!4b1!4m6!3m5!1s0x87134fe3ff1e9f53:0x837b60cdf98ef8fc!8m2!3d38.9028979!4d-104.7704078!16s%2Fg%2F11vkpn7_f8"
+  },
+  {
+   "first": "Ari",
+   "rating": 5,
+   "text": "Kacie was excellent at my Xeomin appointment today, quick but very thorough with recommendations and aftercare. Staff was very friendly and kind, Renaissance will be my go to for treatments.",
+   "reviewer": "Ari Dela",
+   "date": "2026-06-23T19:03:08.850Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Renaissance+Med+Spa+%7C+Skin+Care+Clinic+%7C+Colorado+Springs+%7C+Botox+%7C+Wrinkle+Treatment+%7C+Microneedling+%7C+Face+Treatment/@38.9028979,-104.7704078,17z/data=!3m1!4b1!4m6!3m5!1s0x87134fe3ff1e9f53:0x837b60cdf98ef8fc!8m2!3d38.9028979!4d-104.7704078!16s%2Fg%2F11vkpn7_f8"
+  },
+  {
+   "first": "Kinsley",
+   "rating": 5,
+   "text": "The staff and providers were incredible! They’re professional and friendly. Dr Parul was very knowledgeable and advised me on treatments she thought I would and would not do well with based on my facial anatomy.",
+   "reviewer": "Kinsley Rants",
+   "date": "2026-06-25T15:29:59.356Z",
+   "lang": "en",
+   "file": "rev/18.json",
+   "source": "https://www.google.com/maps/place/Renaissance+Med+Spa+%7C+Skin+Care+Clinic+%7C+Colorado+Springs+%7C+Botox+%7C+Wrinkle+Treatment+%7C+Microneedling+%7C+Face+Treatment/@38.9028979,-104.7704078,17z/data=!3m1!4b1!4m6!3m5!1s0x87134fe3ff1e9f53:0x837b60cdf98ef8fc!8m2!3d38.9028979!4d-104.7704078!16s%2Fg%2F11vkpn7_f8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Renaissance+Med+Spa+%7C+Skin+Care+Clinic+%7C+Colorado+Springs+%7C+Botox+%7C+Wrinkle+Treatment+%7C+Microneedling+%7C+Face+Treatment/@38.9028979,-104.7704078,17z/data=!3m1!4b1!4m6!3m5!1s0x87134fe3ff1e9f53:0x837b60cdf98ef8fc!8m2!3d38.9028979!4d-104.7704078!16s%2Fg%2F11vkpn7_f8",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.renaissancemedspacos.com/"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Karla",
+   "rating": 5,
+   "text": "Yesi did a fabulous job on my grey blending!!\nShe is very talented and knowledgeable about hair!!",
+   "reviewer": "Karla wooten",
+   "date": "2026-09-11T00:24:17.376Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Posh+Hair+and+Spa/@33.635837,-112.2269425,17z/data=!3m1!4b1!4m6!3m5!1s0x872b68301d3e0393:0xda0787374e285a32!8m2!3d33.635837!4d-112.2269425!16s%2Fg%2F1q66symff"
+  },
+  {
+   "first": "Eva",
+   "rating": 5,
+   "text": "My “Posh” person is Karen. She is wonderful. She listens to what you want, she knows how to cut hair, how to mix color, and is very pleasant to work with. I highly recommend her to anyone looking for a stylist/color person to make you beautiful!",
+   "reviewer": "Eva Dickerson",
+   "date": "2026-08-22T14:44:09.308Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Posh+Hair+and+Spa/@33.635837,-112.2269425,17z/data=!3m1!4b1!4m6!3m5!1s0x872b68301d3e0393:0xda0787374e285a32!8m2!3d33.635837!4d-112.2269425!16s%2Fg%2F1q66symff"
+  },
+  {
+   "first": "Laura",
+   "rating": 5,
+   "text": "Mia was absolutely amazing. Such a pure soul and so incredibly talented on all of her work!",
+   "reviewer": "Laura Estopare",
+   "date": "2026-09-03T21:57:31.318Z",
+   "lang": "en",
+   "file": "rev/10.json",
+   "source": "https://www.google.com/maps/place/Posh+Hair+and+Spa/@33.635837,-112.2269425,17z/data=!3m1!4b1!4m6!3m5!1s0x872b68301d3e0393:0xda0787374e285a32!8m2!3d33.635837!4d-112.2269425!16s%2Fg%2F1q66symff"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Posh+Hair+and+Spa/@33.635837,-112.2269425,17z/data=!3m1!4b1!4m6!3m5!1s0x872b68301d3e0393:0xda0787374e285a32!8m2!3d33.635837!4d-112.2269425!16s%2Fg%2F1q66symff",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}
