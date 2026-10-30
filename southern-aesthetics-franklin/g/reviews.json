@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Gina",
+   "rating": 5,
+   "text": "Alayna was fantastic! She's knowledgeable, personable, and her work is top-notch. She made me feel comfortable throughout the process, and I'm in love with the natural results. Highly recommend!",
+   "reviewer": "Gina Grimm",
+   "date": "2024-05-02T20:52:17.506Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Southern+Aesthetics+at+Dion's+South+Franklin/@35.9243895,-86.8711763,17z/data=!3m1!4b1!4m6!3m5!1s0x88647f29205c8089:0x297c0c62afbfd727!8m2!3d35.9243895!4d-86.8711763!16s%2Fg%2F11p3hgp_2l"
+  },
+  {
+   "first": "Karen",
+   "rating": 5,
+   "text": "Jen, Alayna and the staff take such good care of me! So grateful for their attention and expertise, I always have great results! I highly recommend Southern Aesthetics.",
+   "reviewer": "Karen Hattan",
+   "date": "2024-05-03T18:08:16.315Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Southern+Aesthetics+at+Dion's+South+Franklin/@35.9243895,-86.8711763,17z/data=!3m1!4b1!4m6!3m5!1s0x88647f29205c8089:0x297c0c62afbfd727!8m2!3d35.9243895!4d-86.8711763!16s%2Fg%2F11p3hgp_2l"
+  },
+  {
+   "first": "Jordan",
+   "rating": 5,
+   "text": "I have been coming here and getting services with Jess for almost two years. I absolutely love the experience and the results I get!! The space is welcoming and always pristine, I would highly recommend the entire experience!",
+   "reviewer": "Jordan Shumate",
+   "date": "2021-09-23T15:28:27.770Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/Southern+Aesthetics+at+Dion's+South+Franklin/@35.9243895,-86.8711763,17z/data=!3m1!4b1!4m6!3m5!1s0x88647f29205c8089:0x297c0c62afbfd727!8m2!3d35.9243895!4d-86.8711763!16s%2Fg%2F11p3hgp_2l"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Southern+Aesthetics+at+Dion's+South+Franklin/@35.9243895,-86.8711763,17z/data=!3m1!4b1!4m6!3m5!1s0x88647f29205c8089:0x297c0c62afbfd727!8m2!3d35.9243895!4d-86.8711763!16s%2Fg%2F11p3hgp_2l",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; at most 1 Spanish review in 60 newest Google reviews",
+ "services_source": "https://www.southernaesthetics.com/ Services menu"
+}

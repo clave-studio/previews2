@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Stephanie",
+   "rating": 5,
+   "text": "I LOVE this salon and especially my stylist Jenerika!! All of the stylists are highly trained in a variety of salon services. From cuts to color, to Brazilian blowouts and extensions, Jenerika will have you looking like a million bucks!!",
+   "reviewer": "Stephanie Siddall",
+   "date": "2025-08-04T15:41:26.556Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Planet+Sol+Salon/@27.7285556,-97.3707056,17z/data=!3m1!4b1!4m6!3m5!1s0x86685f5fd02ba0f7:0x13c23f932fc0f55f!8m2!3d27.7285556!4d-97.3707056!16s%2Fg%2F1td4d_3x"
+  },
+  {
+   "first": "Alyssa",
+   "rating": 5,
+   "text": "Great experience! Loved the atmosphere, Jenerika made me feel so comfortable and welcomed. The results were exactly what I wanted. Totally worth the hour drive.",
+   "reviewer": "Alyssa Garza",
+   "date": "2025-07-22T22:41:37.967Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Planet+Sol+Salon/@27.7285556,-97.3707056,17z/data=!3m1!4b1!4m6!3m5!1s0x86685f5fd02ba0f7:0x13c23f932fc0f55f!8m2!3d27.7285556!4d-97.3707056!16s%2Fg%2F1td4d_3x"
+  },
+  {
+   "first": "Christine",
+   "rating": 5,
+   "text": "Love working with Joanna to help my hair visions come to life. She is very devoted to making sure you get a result you love!",
+   "reviewer": "Christine Heath",
+   "date": "2025-08-16T17:51:26.066Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Planet+Sol+Salon/@27.7285556,-97.3707056,17z/data=!3m1!4b1!4m6!3m5!1s0x86685f5fd02ba0f7:0x13c23f932fc0f55f!8m2!3d27.7285556!4d-97.3707056!16s%2Fg%2F1td4d_3x"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Planet+Sol+Salon/@27.7285556,-97.3707056,17z/data=!3m1!4b1!4m6!3m5!1s0x86685f5fd02ba0f7:0x13c23f932fc0f55f!8m2!3d27.7285556!4d-97.3707056!16s%2Fg%2F1td4d_3x",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; at most 1 Spanish review in 60 newest Google reviews",
+ "services_source": "https://planetsolsalon.com/services/"
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Venessa",
+   "rating": 5,
+   "text": "This place is amazing. Full of professional and caring stylist. You leave feeling so beautiful and full of confidence.",
+   "reviewer": "Venessa Luna",
+   "date": "2026-09-26T15:25:26.576Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Mecca+Beauty/@29.4711316,-98.4971101,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5fed6a7c2243:0x5d26afdef6749175!8m2!3d29.4711316!4d-98.4971101!16s%2Fg%2F1thghg1h"
+  },
+  {
+   "first": "Lori",
+   "rating": 5,
+   "text": "Great Experience! Cindy did an amazing job explaining everything to me and took the time to learn more about my hair and what I wanted. The front desk staff were so sweet and attentive.",
+   "reviewer": "Lori Longoria",
+   "date": "2023-04-14T22:42:02.921Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Mecca+Beauty/@29.4711316,-98.4971101,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5fed6a7c2243:0x5d26afdef6749175!8m2!3d29.4711316!4d-98.4971101!16s%2Fg%2F1thghg1h"
+  },
+  {
+   "first": "Cristina",
+   "rating": 5,
+   "text": "Great service and beautifully decorated. Irma is the best eyelash stylist I have ever been to. Highly recommend her if you want a spectacular job on your eyelash extensions.",
+   "reviewer": "Cristina Tovar",
+   "date": "2022-08-08T15:37:10.453Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Mecca+Beauty/@29.4711316,-98.4971101,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5fed6a7c2243:0x5d26afdef6749175!8m2!3d29.4711316!4d-98.4971101!16s%2Fg%2F1thghg1h"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Mecca+Beauty/@29.4711316,-98.4971101,17z/data=!3m1!4b1!4m6!3m5!1s0x865c5fed6a7c2243:0x5d26afdef6749175!8m2!3d29.4711316!4d-98.4971101!16s%2Fg%2F1thghg1h",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; at most 1 Spanish review in 60 newest Google reviews",
+ "services_source": "https://meccabeautysatx.com/services"
+}

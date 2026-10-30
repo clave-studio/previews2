@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Shannon",
+   "rating": 5,
+   "text": "Celina was so great! She's very knowledgeable about color and made my vision for my hair come true! (She's also a sweetheart and fun to talk to!)",
+   "reviewer": "Shannon Winkelman",
+   "date": "2026-10-10T00:01:52.988Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Alt+Salon/@35.1230002,-106.5504696,17z/data=!3m1!4b1!4m6!3m5!1s0x87189ff389b0da67:0x9abcb015464ec010!8m2!3d35.1230002!4d-106.5504696!16s%2Fg%2F11b7kd038b"
+  },
+  {
+   "first": "Chelsea",
+   "rating": 5,
+   "text": "Was checking out a new salon and so happy I found Aria at Alt. She listened to my goals and we worked together to create a fresh look that I was really happy with!",
+   "reviewer": "Chelsea McGivney",
+   "date": "2026-05-13T17:18:09.409Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Alt+Salon/@35.1230002,-106.5504696,17z/data=!3m1!4b1!4m6!3m5!1s0x87189ff389b0da67:0x9abcb015464ec010!8m2!3d35.1230002!4d-106.5504696!16s%2Fg%2F11b7kd038b"
+  },
+  {
+   "first": "Caroline",
+   "rating": 5,
+   "text": "I had a wonderful experience at Alt Salon, the wash bowls are super comfortable and the staff are friendly. My hairdresser Karilyn, was super nice, and did a wonderful job on getting me to my dream hair.",
+   "reviewer": "Caroline Abeyta",
+   "date": "2025-04-08T18:38:34.127Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Alt+Salon/@35.1230002,-106.5504696,17z/data=!3m1!4b1!4m6!3m5!1s0x87189ff389b0da67:0x9abcb015464ec010!8m2!3d35.1230002!4d-106.5504696!16s%2Fg%2F11b7kd038b"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Alt+Salon/@35.1230002,-106.5504696,17z/data=!3m1!4b1!4m6!3m5!1s0x87189ff389b0da67:0x9abcb015464ec010!8m2!3d35.1230002!4d-106.5504696!16s%2Fg%2F11b7kd038b",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; at most 1 Spanish review in 60 newest Google reviews",
+ "services_source": "https://altsalon.com/ service pages (Hair, Nails, Lashes & Makeup)"
+}

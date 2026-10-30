@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Dale",
+   "rating": 5,
+   "text": "Excellent salon. Great ambience. Lots of special attention. Hair styled perfectly. It can be a full day adventure there. So peaceful and calm.",
+   "reviewer": "Dale Kurtz",
+   "date": "2026-07-04T23:06:28.872Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Design+Concepts+Salon+Boutique+Spa/@27.7271556,-97.3768386,17z/data=!3m1!4b1!4m6!3m5!1s0x8668f5e93bf67f95:0x3dc1a13b39b5e09c!8m2!3d27.7271556!4d-97.3768386!16s%2Fg%2F1ths9ssw"
+  },
+  {
+   "first": "Dana",
+   "rating": 5,
+   "text": "Love the personal attention and the haircut! Design Concepts is a step above the best. I always feel very comfortable and welcome there.",
+   "reviewer": "Dana Persels",
+   "date": "2026-05-27T20:33:57.350Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Design+Concepts+Salon+Boutique+Spa/@27.7271556,-97.3768386,17z/data=!3m1!4b1!4m6!3m5!1s0x8668f5e93bf67f95:0x3dc1a13b39b5e09c!8m2!3d27.7271556!4d-97.3768386!16s%2Fg%2F1ths9ssw"
+  },
+  {
+   "first": "Vicki",
+   "rating": 5,
+   "text": "An amazing salon. Friendliest techs and stylists. And the results are hard to beat. Brazilian blowout and color… best hair ever!",
+   "reviewer": "Vicki Jamison",
+   "date": "2026-03-21T16:04:25.513Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Design+Concepts+Salon+Boutique+Spa/@27.7271556,-97.3768386,17z/data=!3m1!4b1!4m6!3m5!1s0x8668f5e93bf67f95:0x3dc1a13b39b5e09c!8m2!3d27.7271556!4d-97.3768386!16s%2Fg%2F1ths9ssw"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Design+Concepts+Salon+Boutique+Spa/@27.7271556,-97.3768386,17z/data=!3m1!4b1!4m6!3m5!1s0x8668f5e93bf67f95:0x3dc1a13b39b5e09c!8m2!3d27.7271556!4d-97.3768386!16s%2Fg%2F1ths9ssw",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; at most 1 Spanish review in 60 newest Google reviews",
+ "services_source": "https://designconcepts.me/ service pages (Hair, Hair Extensions, Spa Services)"
+}
