@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Ewa",
+   "rating": 5,
+   "text": "Got a pixie haircut by Som. She cut my hair as I expected. She was professional, precise and paid attention to the way my hair falls and shapes my face. I will definitely use her service again. It was a pleasure! :)",
+   "reviewer": "Ewa Rogula",
+   "date": "2025-12-06T21:20:14.703Z",
+   "lang": "en",
+   "file": "rev/32.json",
+   "source": "https://www.google.com/maps/place/Silhouette+Hair+Salon+and+Spa/@47.6041762,-122.1327061,17z/data=!3m1!4b1!4m6!3m5!1s0x54906c3323c08d49:0x1e201590702af1c0!8m2!3d47.6041762!4d-122.1327061!16s%2Fg%2F11bw2294xn"
+  },
+  {
+   "first": "Therese",
+   "rating": 5,
+   "text": "Had my first cut and style today. Suri was delightful. Loved her personalized service and the precision cut. Excited to come back!",
+   "reviewer": "Therese Blalock",
+   "date": "2025-10-18T19:12:26.415Z",
+   "lang": "en",
+   "file": "rev/32.json",
+   "source": "https://www.google.com/maps/place/Silhouette+Hair+Salon+and+Spa/@47.6041762,-122.1327061,17z/data=!3m1!4b1!4m6!3m5!1s0x54906c3323c08d49:0x1e201590702af1c0!8m2!3d47.6041762!4d-122.1327061!16s%2Fg%2F11bw2294xn"
+  },
+  {
+   "first": "Arielle",
+   "rating": 5,
+   "text": "Got a great haircut, but an outstanding color correction from Som. Very happy with my hair now, thank you!",
+   "reviewer": "Arielle Davis",
+   "date": "2023-09-23T22:09:45.228Z",
+   "lang": "en",
+   "file": "rev/32.json",
+   "source": "https://www.google.com/maps/place/Silhouette+Hair+Salon+and+Spa/@47.6041762,-122.1327061,17z/data=!3m1!4b1!4m6!3m5!1s0x54906c3323c08d49:0x1e201590702af1c0!8m2!3d47.6041762!4d-122.1327061!16s%2Fg%2F11bw2294xn"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Silhouette+Hair+Salon+and+Spa/@47.6041762,-122.1327061,17z/data=!3m1!4b1!4m6!3m5!1s0x54906c3323c08d49:0x1e201590702af1c0!8m2!3d47.6041762!4d-122.1327061!16s%2Fg%2F11bw2294xn",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

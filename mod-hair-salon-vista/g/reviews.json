@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Gaby",
+   "rating": 5,
+   "text": "Casey was amazing! Very happy with my shaggy haircut, love the razor technique!",
+   "reviewer": "gaby hancock",
+   "date": "2026-09-27T16:34:18.302Z",
+   "lang": "en",
+   "file": "rev/34.json",
+   "source": "https://www.google.com/maps/place/MOD+Hair+Salon/@33.1947791,-117.2367645,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc71f35906279f:0x190deccc17a7dc68!8m2!3d33.1947791!4d-117.2367645!16s%2Fg%2F11b8v9kf94"
+  },
+  {
+   "first": "Shannon",
+   "rating": 5,
+   "text": "Kayleigh is awesome. I have been fighting my cut years, and she knew exactly how to reshape and where to texture to bring out the curl I never knew I had, but wanted. I love it.",
+   "reviewer": "Shannon Jeffries",
+   "date": "2026-09-26T19:41:11.982Z",
+   "lang": "en",
+   "file": "rev/34.json",
+   "source": "https://www.google.com/maps/place/MOD+Hair+Salon/@33.1947791,-117.2367645,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc71f35906279f:0x190deccc17a7dc68!8m2!3d33.1947791!4d-117.2367645!16s%2Fg%2F11b8v9kf94"
+  },
+  {
+   "first": "Melody",
+   "rating": 5,
+   "text": "Vanessa is a pure gem. She really cares deeply about her clients. It was my first appointment and she took the time to really listen to my needs. My blonde came out perfect & extensions look fantastic! I found my new favorite spot :)",
+   "reviewer": "Melody Green",
+   "date": "2026-05-02T05:13:26.387Z",
+   "lang": "en",
+   "file": "rev/34.json",
+   "source": "https://www.google.com/maps/place/MOD+Hair+Salon/@33.1947791,-117.2367645,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc71f35906279f:0x190deccc17a7dc68!8m2!3d33.1947791!4d-117.2367645!16s%2Fg%2F11b8v9kf94"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/MOD+Hair+Salon/@33.1947791,-117.2367645,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc71f35906279f:0x190deccc17a7dc68!8m2!3d33.1947791!4d-117.2367645!16s%2Fg%2F11b8v9kf94",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

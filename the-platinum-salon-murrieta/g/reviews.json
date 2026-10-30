@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Nancyrose",
+   "rating": 5,
+   "text": "Love this salon, Kambria is an extension genius! If I could, I'd come in daily, but feel lucky to walk out with gorgeous hair monthly! Highly recommend!",
+   "reviewer": "Nancyrose Hernandez",
+   "date": "2024-04-09T17:10:07.342Z",
+   "lang": "en",
+   "file": "rev/36.json",
+   "source": "https://www.google.com/maps/place/The+Platinum+Salon/@33.5509516,-117.2117196,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc82312aa0d7c1:0x3f62ff5c7a419f2d!8m2!3d33.5509516!4d-117.2117196!16s%2Fg%2F1tfhgq5t"
+  },
+  {
+   "first": "Pamela",
+   "rating": 5,
+   "text": "I have short hair and Nicole has always kept my cut fresh and current. She is a great asset to the salon and always finds time to fit me in her schedule. Highly recomend!",
+   "reviewer": "PAMELA ANDRADE",
+   "date": "2024-04-05T18:45:09.231Z",
+   "lang": "en",
+   "file": "rev/36.json",
+   "source": "https://www.google.com/maps/place/The+Platinum+Salon/@33.5509516,-117.2117196,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc82312aa0d7c1:0x3f62ff5c7a419f2d!8m2!3d33.5509516!4d-117.2117196!16s%2Fg%2F1tfhgq5t"
+  },
+  {
+   "first": "Ashley",
+   "rating": 5,
+   "text": "After a terrible haircut that I thought would be unfixable, I was referred to Nicole who accepted the big challenge of trying to fix my hair. She did such an amazing job and I can't recommend her enough!! She is very skilled at what she does!",
+   "reviewer": "Ashley Nowak",
+   "date": "2020-02-17T15:26:31.805Z",
+   "lang": "en",
+   "file": "rev/36.json",
+   "source": "https://www.google.com/maps/place/The+Platinum+Salon/@33.5509516,-117.2117196,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc82312aa0d7c1:0x3f62ff5c7a419f2d!8m2!3d33.5509516!4d-117.2117196!16s%2Fg%2F1tfhgq5t"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Platinum+Salon/@33.5509516,-117.2117196,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc82312aa0d7c1:0x3f62ff5c7a419f2d!8m2!3d33.5509516!4d-117.2117196!16s%2Fg%2F1tfhgq5t",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

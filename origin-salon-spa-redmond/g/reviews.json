@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Citlalli",
+   "rating": 5,
+   "text": "Alyssa did me SO RIGHT. My hair was looking so rough, and she was able to work a miracle. She took the time to understand what I’m looking for, and she delivered 💅🏼.",
+   "reviewer": "Citlalli",
+   "date": "2026-10-25T16:14:40.941Z",
+   "lang": "en",
+   "file": "rev/33.json",
+   "source": "https://www.google.com/maps/place/Origin+Salon+Spa/@47.673673,-122.1194642,17z/data=!3m1!4b1!4m6!3m5!1s0x549072b3143b9b7d:0xd8a98799207f7a3f!8m2!3d47.673673!4d-122.1194642!16s%2Fg%2F11gf996zgx"
+  },
+  {
+   "first": "Nicole",
+   "rating": 5,
+   "text": "Ana was amazing! She took my lashes from pointing straight down to looking beautiful with a lash lift and tint. It was like taking a nap and waking up more glamorous. Such a great experience, and one I've been recommending to my friends",
+   "reviewer": "Nicole Fasso",
+   "date": "2026-08-03T23:45:32.871Z",
+   "lang": "en",
+   "file": "rev/33.json",
+   "source": "https://www.google.com/maps/place/Origin+Salon+Spa/@47.673673,-122.1194642,17z/data=!3m1!4b1!4m6!3m5!1s0x549072b3143b9b7d:0xd8a98799207f7a3f!8m2!3d47.673673!4d-122.1194642!16s%2Fg%2F11gf996zgx"
+  },
+  {
+   "first": "Madison",
+   "rating": 5,
+   "text": "Great experience getting a curly haircut from Sewla. She’s very nice and knowledgeable about cutting curly hair, and listened to my preferences and my hair routine. The girl who shampoo’d my hair gave me an awesome scalp massage, too.",
+   "reviewer": "Madison Pearl",
+   "date": "2026-04-24T18:30:13.629Z",
+   "lang": "en",
+   "file": "rev/33.json",
+   "source": "https://www.google.com/maps/place/Origin+Salon+Spa/@47.673673,-122.1194642,17z/data=!3m1!4b1!4m6!3m5!1s0x549072b3143b9b7d:0xd8a98799207f7a3f!8m2!3d47.673673!4d-122.1194642!16s%2Fg%2F11gf996zgx"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Origin+Salon+Spa/@47.673673,-122.1194642,17z/data=!3m1!4b1!4m6!3m5!1s0x549072b3143b9b7d:0xd8a98799207f7a3f!8m2!3d47.673673!4d-122.1194642!16s%2Fg%2F11gf996zgx",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

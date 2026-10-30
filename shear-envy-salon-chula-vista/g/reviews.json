@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Ashley",
+   "rating": 5,
+   "text": "I love seeing Adriana! She always understands exactly what I want and does my hair perfectly. I wanted to go lighter with my balayage and it turned out beautiful. I’m so glad I found someone here in California that I can truly trust with my hair. ❤️",
+   "reviewer": "Ashley Smashley",
+   "date": "2026-10-05T11:05:02.556Z",
+   "lang": "en",
+   "file": "rev/35.json",
+   "source": "https://www.google.com/maps/place/Shear+Envy+Salon+%26+Spa/@32.6424674,-117.080635,17z/data=!3m1!4b1!4m6!3m5!1s0x80d94dfd9bb09737:0xd9b082b0eca5a272!8m2!3d32.6424674!4d-117.080635!16s%2Fg%2F1yglpf18k"
+  },
+  {
+   "first": "Rachel",
+   "rating": 5,
+   "text": "Glenda was fantastic! It took her a moment to look at the photo of the haircut I wanted and replicated it perfectly 👌 Plus the bonus hair care suggestions. I would be coming back :)",
+   "reviewer": "Rachel Goh",
+   "date": "2026-06-18T19:45:02.666Z",
+   "lang": "en",
+   "file": "rev/35.json",
+   "source": "https://www.google.com/maps/place/Shear+Envy+Salon+%26+Spa/@32.6424674,-117.080635,17z/data=!3m1!4b1!4m6!3m5!1s0x80d94dfd9bb09737:0xd9b082b0eca5a272!8m2!3d32.6424674!4d-117.080635!16s%2Fg%2F1yglpf18k"
+  },
+  {
+   "first": "Denali",
+   "rating": 5,
+   "text": "Adriana gave me the most beautiful layeres haircut today for my very long hair, which was proceeded by a wonderful scalp massage/ hair wash! She's really kind and gentle too - long hair is not fun to brush!",
+   "reviewer": "Denali",
+   "date": "2026-01-16T22:47:32.935Z",
+   "lang": "en",
+   "file": "rev/35.json",
+   "source": "https://www.google.com/maps/place/Shear+Envy+Salon+%26+Spa/@32.6424674,-117.080635,17z/data=!3m1!4b1!4m6!3m5!1s0x80d94dfd9bb09737:0xd9b082b0eca5a272!8m2!3d32.6424674!4d-117.080635!16s%2Fg%2F1yglpf18k"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Shear+Envy+Salon+%26+Spa/@32.6424674,-117.080635,17z/data=!3m1!4b1!4m6!3m5!1s0x80d94dfd9bb09737:0xd9b082b0eca5a272!8m2!3d32.6424674!4d-117.080635!16s%2Fg%2F1yglpf18k",
+ "toggle": true,
+ "toggle_evidence": "Batch 15 brief: bilingual (EN/ES toggle requested)",
+ "services_source": ""
+}
