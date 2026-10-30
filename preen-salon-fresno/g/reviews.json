@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Niamh",
+   "rating": 5,
+   "text": "Preen is a beautiful salon with a great environment & wonderful staff.\nNatasha my stylist & the best. Always the best haircut. I won’t let anyone else cut my hair.",
+   "reviewer": "Niamh Hargis",
+   "date": "2025-03-24T16:11:45.061Z",
+   "lang": "en",
+   "file": "rev/37.json",
+   "source": "https://www.google.com/maps/place/Preen+Salon/@36.8452805,-119.8057397,17z/data=!3m1!4b1!4m6!3m5!1s0x80946816a4d1d18f:0x5f8f89220010a864!8m2!3d36.8452805!4d-119.8057397!16s%2Fg%2F1vl5h0ff"
+  },
+  {
+   "first": "Gregory",
+   "rating": 5,
+   "text": "Always have a wonderful experience here at Preen Salon. Robert always does an amazing job on my hair and I would recommend the salon to anyone looking. 😁",
+   "reviewer": "Gregory Blackwell",
+   "date": "2021-07-07T17:47:27.754Z",
+   "lang": "en",
+   "file": "rev/37.json",
+   "source": "https://www.google.com/maps/place/Preen+Salon/@36.8452805,-119.8057397,17z/data=!3m1!4b1!4m6!3m5!1s0x80946816a4d1d18f:0x5f8f89220010a864!8m2!3d36.8452805!4d-119.8057397!16s%2Fg%2F1vl5h0ff"
+  },
+  {
+   "first": "Jenny",
+   "rating": 5,
+   "text": "Love preen. From my favorite stylist to my eyebrow gal to the entire staff...they're all great! And the gift ware. You can always find something you neeed;)",
+   "reviewer": "Jenny Woods",
+   "date": "2022-03-04T22:52:15.564Z",
+   "lang": "en",
+   "file": "rev/37.json",
+   "source": "https://www.google.com/maps/place/Preen+Salon/@36.8452805,-119.8057397,17z/data=!3m1!4b1!4m6!3m5!1s0x80946816a4d1d18f:0x5f8f89220010a864!8m2!3d36.8452805!4d-119.8057397!16s%2Fg%2F1vl5h0ff"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Preen+Salon/@36.8452805,-119.8057397,17z/data=!3m1!4b1!4m6!3m5!1s0x80946816a4d1d18f:0x5f8f89220010a864!8m2!3d36.8452805!4d-119.8057397!16s%2Fg%2F1vl5h0ff",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Suzi",
+   "rating": 5,
+   "text": "Stylist/owner Bethany is amazing with curly hair! She knows how to cut and layer perfectly… And the highlights are spot on. The salon is filled with beautiful plants and sunlight making the experience in itself delightful. I get so many compliments on my hair… All because of Lotus Den!",
+   "reviewer": "Suzi B",
+   "date": "2026-09-08T21:57:35.489Z",
+   "lang": "en",
+   "file": "rev/38.json",
+   "source": "https://www.google.com/maps/place/Lotus+Den+Hair+Studio/@33.1755727,-117.3628312,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e028857ccd7:0x6fdd082eb336326b!8m2!3d33.1755727!4d-117.3628312!16s%2Fg%2F1tkc2dg3"
+  },
+  {
+   "first": "Nicole",
+   "rating": 5,
+   "text": "Olga was amazing! I came in to get my hair color corrected from a hair disaster that occurred at another salon and her in depth knowledge of hair made me feel very safe in her chair. She really knows her stuff. Highly recommend!",
+   "reviewer": "Nicole Mendrala",
+   "date": "2026-09-24T04:36:08.150Z",
+   "lang": "en",
+   "file": "rev/38.json",
+   "source": "https://www.google.com/maps/place/Lotus+Den+Hair+Studio/@33.1755727,-117.3628312,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e028857ccd7:0x6fdd082eb336326b!8m2!3d33.1755727!4d-117.3628312!16s%2Fg%2F1tkc2dg3"
+  },
+  {
+   "first": "Soniyah",
+   "rating": 5,
+   "text": "Alyssa did a fantastic job as usual! She really knows how to cut layers for fine hair while keeping the integrity of volume. Hair feels and looks so much healthier after the toner treatment as well! Can’t wait to be back again!",
+   "reviewer": "Soniyah Pillai",
+   "date": "2026-08-27T03:24:31.128Z",
+   "lang": "en",
+   "file": "rev/38.json",
+   "source": "https://www.google.com/maps/place/Lotus+Den+Hair+Studio/@33.1755727,-117.3628312,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e028857ccd7:0x6fdd082eb336326b!8m2!3d33.1755727!4d-117.3628312!16s%2Fg%2F1tkc2dg3"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Lotus+Den+Hair+Studio/@33.1755727,-117.3628312,17z/data=!3m1!4b1!4m6!3m5!1s0x80dc6e028857ccd7:0x6fdd082eb336326b!8m2!3d33.1755727!4d-117.3628312!16s%2Fg%2F1tkc2dg3",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

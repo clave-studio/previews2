@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jacqueline",
+   "rating": 5,
+   "text": "I treated myself to a facial here today and had such a wonderful experience! From the moment I walked in, the staff was incredibly warm and inviting. The salon has a cozy atmosphere and a really cute boutique that adds to the charm. Most importantly, the facial was affordable and absolutely worth it—I’m already glowing! I’ve already rebooked for next month. Highly recommend!",
+   "reviewer": "Jacqueline Murrah",
+   "date": "2026-02-05T05:43:42.816Z",
+   "lang": "en",
+   "file": "rev/39.json",
+   "source": "https://www.google.com/maps/place/Monticello+Salon+%26+Spa/@34.6900791,-118.1644263,17z/data=!3m1!4b1!4m6!3m5!1s0x80c25b260fb1e665:0x3834add816151691!8m2!3d34.6900791!4d-118.1644263!16s%2Fg%2F1tlw9b3z"
+  },
+  {
+   "first": "Elena",
+   "rating": 5,
+   "text": "My husband and I both went to get haircuts. He got Lisa she was gentle took her time gave him a great haircut. He has medium curly/straight hair and his curls look great afterwards. I had Carmen and omg when she washed my hair it was the best scalp massage ever. Gave me the most beautiful layers and styled my hair amazingly.",
+   "reviewer": "Elena Hauber",
+   "date": "2024-07-25T20:38:46.170Z",
+   "lang": "en",
+   "file": "rev/39.json",
+   "source": "https://www.google.com/maps/place/Monticello+Salon+%26+Spa/@34.6900791,-118.1644263,17z/data=!3m1!4b1!4m6!3m5!1s0x80c25b260fb1e665:0x3834add816151691!8m2!3d34.6900791!4d-118.1644263!16s%2Fg%2F1tlw9b3z"
+  },
+  {
+   "first": "Daniel",
+   "rating": 5,
+   "text": "The experience with Nancy was amazing. Got a perm and a cut and it looks great! Will be coming back soon to get it retouch.",
+   "reviewer": "Daniel Guzman",
+   "date": "2023-05-08T22:25:04.452Z",
+   "lang": "en",
+   "file": "rev/39.json",
+   "source": "https://www.google.com/maps/place/Monticello+Salon+%26+Spa/@34.6900791,-118.1644263,17z/data=!3m1!4b1!4m6!3m5!1s0x80c25b260fb1e665:0x3834add816151691!8m2!3d34.6900791!4d-118.1644263!16s%2Fg%2F1tlw9b3z"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Monticello+Salon+%26+Spa/@34.6900791,-118.1644263,17z/data=!3m1!4b1!4m6!3m5!1s0x80c25b260fb1e665:0x3834add816151691!8m2!3d34.6900791!4d-118.1644263!16s%2Fg%2F1tlw9b3z",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}

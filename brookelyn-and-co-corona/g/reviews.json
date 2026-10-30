@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jasmine",
+   "rating": 5,
+   "text": "Alicia is the absolute best! She has been my stylist for years now and she never disappoints. She is incredibly professional, makes you feel completely comfortable, & the whole process is just relaxing. She has the touch! ✨ She also has so much knowledge. I 100% recommend Alicia!",
+   "reviewer": "Jasmine Lopez",
+   "date": "2025-11-25T04:23:24.923Z",
+   "lang": "en",
+   "file": "rev/40.json",
+   "source": "https://www.google.com/maps/place/Brookelyn+and+Company+Color+Specialty+Salon/@33.8937261,-117.5657132,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcc83b0c191e31:0xd1d363f15b49131f!8m2!3d33.8937261!4d-117.5657132!16s%2Fg%2F1vs5x06b"
+  },
+  {
+   "first": "Stacy",
+   "rating": 5,
+   "text": "I finally got a haircut that I LOVE! So glad I found this place! Thank you, Mikey!",
+   "reviewer": "Stacy Olney",
+   "date": "2024-02-03T04:31:29.576Z",
+   "lang": "en",
+   "file": "rev/40.json",
+   "source": "https://www.google.com/maps/place/Brookelyn+and+Company+Color+Specialty+Salon/@33.8937261,-117.5657132,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcc83b0c191e31:0xd1d363f15b49131f!8m2!3d33.8937261!4d-117.5657132!16s%2Fg%2F1vs5x06b"
+  },
+  {
+   "first": "Saira",
+   "rating": 5,
+   "text": "Please give them a try!! I was lucky to have found Angela. If you have dark hair and go lighter, then book now!!! I'm so happy with my new hair!!!",
+   "reviewer": "Saira Khan",
+   "date": "2021-11-19T03:45:14.540Z",
+   "lang": "en",
+   "file": "rev/40.json",
+   "source": "https://www.google.com/maps/place/Brookelyn+and+Company+Color+Specialty+Salon/@33.8937261,-117.5657132,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcc83b0c191e31:0xd1d363f15b49131f!8m2!3d33.8937261!4d-117.5657132!16s%2Fg%2F1vs5x06b"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Brookelyn+and+Company+Color+Specialty+Salon/@33.8937261,-117.5657132,17z/data=!3m1!4b1!4m6!3m5!1s0x80dcc83b0c191e31:0xd1d363f15b49131f!8m2!3d33.8937261!4d-117.5657132!16s%2Fg%2F1vs5x06b",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": ""
+}
