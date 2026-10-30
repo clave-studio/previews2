@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kristin",
+   "rating": 5,
+   "text": "The staff at the front desk was friendly and helpful. I love the shampoo room! It’s so relaxing. Jenna is amazing! I always know I’m in good hands with her and she always does an amazing job with my hair (which is fine and straight) as well as my daughter’s hair (which is super curly). Thank you for a wonderful experience!",
+   "reviewer": "Kristin Dodson",
+   "date": "2026-07-24T00:01:19.527Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Anasa+Hair+Studio/@33.506869,-117.1467,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7fb4522b3613:0x6bae6ed6185f2104!8m2!3d33.506869!4d-117.1467!16s%2Fg%2F1thp88mf"
+  },
+  {
+   "first": "Cynthia",
+   "rating": 5,
+   "text": "I’m really happy with my haircut by Jimena at Anasa. It’s exactly what I wanted and she took the time to make sure it was just right. From the hair wash and relaxing scalp massage to the final blowdry. The whole experience was great.",
+   "reviewer": "Cynthia J",
+   "date": "2026-03-16T05:34:05.688Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Anasa+Hair+Studio/@33.506869,-117.1467,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7fb4522b3613:0x6bae6ed6185f2104!8m2!3d33.506869!4d-117.1467!16s%2Fg%2F1thp88mf"
+  },
+  {
+   "first": "Alice",
+   "rating": 5,
+   "text": "I’ve tried several salons over the years, but Anasa is the only salon in Temecula that cuts my hair exactly the way I like it—every single time. Falicia is incredible! She really listens, pays attention to detail, and always gets it just right. The atmosphere is warm and welcoming, and I always leave feeling refreshed and confident. If you’re picky about your hair like I am, Falicia and this salon will not disappoint!",
+   "reviewer": "Alice Bou",
+   "date": "2025-06-07T13:03:56.027Z",
+   "lang": "en",
+   "file": "rev/2.json",
+   "source": "https://www.google.com/maps/place/Anasa+Hair+Studio/@33.506869,-117.1467,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7fb4522b3613:0x6bae6ed6185f2104!8m2!3d33.506869!4d-117.1467!16s%2Fg%2F1thp88mf"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Anasa+Hair+Studio/@33.506869,-117.1467,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7fb4522b3613:0x6bae6ed6185f2104!8m2!3d33.506869!4d-117.1467!16s%2Fg%2F1thp88mf",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://anasahair.com/hair/"
+}

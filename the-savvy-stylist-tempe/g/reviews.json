@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Brynn",
+   "rating": 5,
+   "text": "I've seen Alex twice now for very technical cuts and she's nailed both of them! I've gotten so many compliments on my hair that I think I should carry her business cards with me! She's really nice and is very meticulous. I've had a hard time finding someone who is consistent and understands my wavy hair, and I'm so excited to have found Alex - HIGHLY recommend!",
+   "reviewer": "Brynn Schwartz",
+   "date": "2026-10-25T18:03:13.172Z",
+   "lang": "en",
+   "file": "rev/8.json",
+   "source": "https://www.google.com/maps/place/The+Savvy+Stylist/@33.3485636,-111.9266208,17z/data=!3m1!4b1!4m6!3m5!1s0x872b06f2cd9946cf:0xee78bf54a23ad9e9!8m2!3d33.3485636!4d-111.9266208!16s%2Fg%2F11bx4c2lp2"
+  },
+  {
+   "first": "Lexie",
+   "rating": 5,
+   "text": "I love Kayci, She has been doing my hair for years and is the best! She’s so talented and always delivers with the best service. I definitely recommend coming here for a bright atmosphere, great conversations, and receiving the best quality and service!!",
+   "reviewer": "lexie barr",
+   "date": "2025-03-21T22:28:55.049Z",
+   "lang": "en",
+   "file": "rev/8.json",
+   "source": "https://www.google.com/maps/place/The+Savvy+Stylist/@33.3485636,-111.9266208,17z/data=!3m1!4b1!4m6!3m5!1s0x872b06f2cd9946cf:0xee78bf54a23ad9e9!8m2!3d33.3485636!4d-111.9266208!16s%2Fg%2F11bx4c2lp2"
+  },
+  {
+   "first": "Jenni",
+   "rating": 5,
+   "text": "Love this Salon! Heather the owner is amazing and does a great job on my hair...for several years now! SAVVY sister for Life",
+   "reviewer": "Jenni",
+   "date": "2024-12-11T00:39:39.832Z",
+   "lang": "en",
+   "file": "rev/8.json",
+   "source": "https://www.google.com/maps/place/The+Savvy+Stylist/@33.3485636,-111.9266208,17z/data=!3m1!4b1!4m6!3m5!1s0x872b06f2cd9946cf:0xee78bf54a23ad9e9!8m2!3d33.3485636!4d-111.9266208!16s%2Fg%2F11bx4c2lp2"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/The+Savvy+Stylist/@33.3485636,-111.9266208,17z/data=!3m1!4b1!4m6!3m5!1s0x872b06f2cd9946cf:0xee78bf54a23ad9e9!8m2!3d33.3485636!4d-111.9266208!16s%2Fg%2F11bx4c2lp2",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.thesavvystylist.net/services"
+}

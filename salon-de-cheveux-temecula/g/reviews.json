@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Emily",
+   "rating": 5,
+   "text": "I got my hair done with Keith and he did an amazing job brightening my blonde hair. He was very attentive to the color I wanted and ensured I was comfortable the whole time. I would defiantly recommend!",
+   "reviewer": "Emily Olsen",
+   "date": "2024-11-08T23:41:44.528Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Salon+De+Cheveux/@33.4814432,-117.0900958,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7f5fb3f4d767:0x299693f8cdcd091d!8m2!3d33.4814432!4d-117.0900958!16s%2Fg%2F1hc30tn4z"
+  },
+  {
+   "first": "Rebecca",
+   "rating": 5,
+   "text": "Laura is hands down the best! She took her time to really find out what I wanted and my blonde hair has never looked so good!",
+   "reviewer": "Rebecca Tidwell",
+   "date": "2020-10-11T16:57:16.345Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Salon+De+Cheveux/@33.4814432,-117.0900958,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7f5fb3f4d767:0x299693f8cdcd091d!8m2!3d33.4814432!4d-117.0900958!16s%2Fg%2F1hc30tn4z"
+  },
+  {
+   "first": "Delaney",
+   "rating": 5,
+   "text": "Recently came in for a haircut and had a great experience! Thanks Faith!!",
+   "reviewer": "Delaney Lippe",
+   "date": "2024-12-01T20:42:01.503Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Salon+De+Cheveux/@33.4814432,-117.0900958,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7f5fb3f4d767:0x299693f8cdcd091d!8m2!3d33.4814432!4d-117.0900958!16s%2Fg%2F1hc30tn4z"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Salon+De+Cheveux/@33.4814432,-117.0900958,17z/data=!3m1!4b1!4m6!3m5!1s0x80db7f5fb3f4d767:0x299693f8cdcd091d!8m2!3d33.4814432!4d-117.0900958!16s%2Fg%2F1hc30tn4z",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.salondecheveux.net/services/"
+}
