@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Allison",
+   "rating": 5,
+   "text": "Cassie Jo is amazing! I loved my experience at HairCraft - the vibes are immaculate and everyone feels like they are friends. Very safe space and great services and conversations.",
+   "reviewer": "Allison Nicole Acuff",
+   "date": "2026-01-31T14:04:49.989Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/HairCraft+Studios/@35.7707265,-78.8069616,17z/data=!3m1!4b1!4m6!3m5!1s0x89acf33372d74b49:0x856f364e49aa3424!8m2!3d35.7707265!4d-78.8069616!16s%2Fg%2F11gfnhzntd"
+  },
+  {
+   "first": "Nicole",
+   "rating": 5,
+   "text": "Everyone here is so friendly and great at what they do! I usually see Carleigh for cutting services and Cassie for color and highly recommend anyone at the studio!",
+   "reviewer": "nicole justine",
+   "date": "2025-07-15T22:54:29.271Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/HairCraft+Studios/@35.7707265,-78.8069616,17z/data=!3m1!4b1!4m6!3m5!1s0x89acf33372d74b49:0x856f364e49aa3424!8m2!3d35.7707265!4d-78.8069616!16s%2Fg%2F11gfnhzntd"
+  },
+  {
+   "first": "Katie",
+   "rating": 5,
+   "text": "You can’t go wrong no matter who you see here! Such an amazing group of talented people. Eliza really has something special here ❤️",
+   "reviewer": "Katie Beadle",
+   "date": "2025-05-17T17:52:43.462Z",
+   "lang": "en",
+   "file": "rev/5.json",
+   "source": "https://www.google.com/maps/place/HairCraft+Studios/@35.7707265,-78.8069616,17z/data=!3m1!4b1!4m6!3m5!1s0x89acf33372d74b49:0x856f364e49aa3424!8m2!3d35.7707265!4d-78.8069616!16s%2Fg%2F11gfnhzntd"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/HairCraft+Studios/@35.7707265,-78.8069616,17z/data=!3m1!4b1!4m6!3m5!1s0x89acf33372d74b49:0x856f364e49aa3424!8m2!3d35.7707265!4d-78.8069616!16s%2Fg%2F11gfnhzntd",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.haircraftstudios.com/themenu"
+}

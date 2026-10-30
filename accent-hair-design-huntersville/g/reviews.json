@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kathy",
+   "rating": 5,
+   "text": "Lydia is fantastic! I am very pleased with my color and hair style! Lydia and her staff made me feel so comfortable. I look forward to my next visit to Accent Hair Design.",
+   "reviewer": "Kathy Y",
+   "date": "2022-01-29T17:46:40.292Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Accent+Hair+Design/@35.4293327,-80.8427734,17z/data=!3m1!4b1!4m6!3m5!1s0x8856a84e2485d46b:0xc17c7df303d9aac9!8m2!3d35.4293327!4d-80.8427734!16s%2Fg%2F1thp8pv4"
+  },
+  {
+   "first": "Sonya",
+   "rating": 5,
+   "text": "Kerry is a great stylist! She corrected and improved my highlights lowlights combo that a different salon had done a poor job on. Kerry takes the time to listen and then delivers amazing hair!",
+   "reviewer": "Sonya Hmeljak",
+   "date": "2021-11-08T13:16:07.968Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Accent+Hair+Design/@35.4293327,-80.8427734,17z/data=!3m1!4b1!4m6!3m5!1s0x8856a84e2485d46b:0xc17c7df303d9aac9!8m2!3d35.4293327!4d-80.8427734!16s%2Fg%2F1thp8pv4"
+  },
+  {
+   "first": "Mary Lou",
+   "rating": 5,
+   "text": "Excellent Customer Service! One of the nicest haircuts I have had in a long time! Thank you Kerry!",
+   "reviewer": "Mary Lou Traettino",
+   "date": "2020-11-06T20:05:27.021Z",
+   "lang": "en",
+   "file": "rev/3.json",
+   "source": "https://www.google.com/maps/place/Accent+Hair+Design/@35.4293327,-80.8427734,17z/data=!3m1!4b1!4m6!3m5!1s0x8856a84e2485d46b:0xc17c7df303d9aac9!8m2!3d35.4293327!4d-80.8427734!16s%2Fg%2F1thp8pv4"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Accent+Hair+Design/@35.4293327,-80.8427734,17z/data=!3m1!4b1!4m6!3m5!1s0x8856a84e2485d46b:0xc17c7df303d9aac9!8m2!3d35.4293327!4d-80.8427734!16s%2Fg%2F1thp8pv4",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://www.accenthairdesign.net/services + /spa"
+}

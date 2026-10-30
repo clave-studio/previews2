@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Lisa",
+   "rating": 5,
+   "text": "This place is a little gem. Everyone was very welcoming and my treatment with Ximena was wonderful. Highly recommend!",
+   "reviewer": "Lisa McGee",
+   "date": "2026-05-07T00:13:54.372Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Splendid+Skin/@35.9452053,-86.8079062,17z/data=!3m1!4b1!4m6!3m5!1s0x886479978424fb59:0xebcfa763de110f56!8m2!3d35.9452053!4d-86.8079062!16s%2Fg%2F11g21g61gh"
+  },
+  {
+   "first": "Katherine",
+   "rating": 5,
+   "text": "Splendid Skin Franklin was everything you’d hope for. Very relaxing environment. Dakota was amazing - great technique, very natural results. Will def be back",
+   "reviewer": "katherine Hollister",
+   "date": "2026-01-23T18:52:43.356Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Splendid+Skin/@35.9452053,-86.8079062,17z/data=!3m1!4b1!4m6!3m5!1s0x886479978424fb59:0xebcfa763de110f56!8m2!3d35.9452053!4d-86.8079062!16s%2Fg%2F11g21g61gh"
+  },
+  {
+   "first": "Diane",
+   "rating": 5,
+   "text": "Always the best service! Can't recommend this med spa enough. Best in Franklin. Staff is incredibly knowledgeable and always takes care of me.",
+   "reviewer": "Diane Strube",
+   "date": "2026-04-30T22:41:50.028Z",
+   "lang": "en",
+   "file": "rev/1.json",
+   "source": "https://www.google.com/maps/place/Splendid+Skin/@35.9452053,-86.8079062,17z/data=!3m1!4b1!4m6!3m5!1s0x886479978424fb59:0xebcfa763de110f56!8m2!3d35.9452053!4d-86.8079062!16s%2Fg%2F11g21g61gh"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Splendid+Skin/@35.9452053,-86.8079062,17z/data=!3m1!4b1!4m6!3m5!1s0x886479978424fb59:0xebcfa763de110f56!8m2!3d35.9452053!4d-86.8079062!16s%2Fg%2F11g21g61gh",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://splendidskin.com/ service pages"
+}

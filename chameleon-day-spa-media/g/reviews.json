@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Amy",
+   "rating": 5,
+   "text": "I saw Lea today for lowlights, highlights and a hair cut. She gave me exactly what I was hoping for. She’s super down to earth and easy to talk to. The salon is beautiful and the cost was very reasonable. Will definitely be back!",
+   "reviewer": "Amy Touhill",
+   "date": "2025-10-24T17:14:02.262Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Chameleon+Day+Spa/@39.9277726,-75.3840331,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6e99f63772675:0xc8db60df3bde19af!8m2!3d39.9277726!4d-75.3840331!16s%2Fg%2F1td3968b"
+  },
+  {
+   "first": "Karen",
+   "rating": 5,
+   "text": "Everyone who works at Chameleon is talented, helpful, and kind! I've enjoyed every visit over the last twenty years and appreciate the caring and exceptional customer service I always receive. Thank you!",
+   "reviewer": "Karen Thorp",
+   "date": "2024-09-29T18:13:54.179Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Chameleon+Day+Spa/@39.9277726,-75.3840331,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6e99f63772675:0xc8db60df3bde19af!8m2!3d39.9277726!4d-75.3840331!16s%2Fg%2F1td3968b"
+  },
+  {
+   "first": "Gina",
+   "rating": 5,
+   "text": "Always a pleasure going to Chameleon Salon! I have been going to Lisa for years and never had a bad style, cut or color! She is consistent with new style trends, treatments and always greets you with a smile! The staff and other stylists are friendly and always make you feel welcome! Highly recommend Chameleon! Ginab",
+   "reviewer": "Gina Bostic",
+   "date": "2019-08-01T13:24:34.476Z",
+   "lang": "en",
+   "file": "rev/7.json",
+   "source": "https://www.google.com/maps/place/Chameleon+Day+Spa/@39.9277726,-75.3840331,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6e99f63772675:0xc8db60df3bde19af!8m2!3d39.9277726!4d-75.3840331!16s%2Fg%2F1td3968b"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Chameleon+Day+Spa/@39.9277726,-75.3840331,17z/data=!3m1!4b1!4m6!3m5!1s0x89c6e99f63772675:0xc8db60df3bde19af!8m2!3d39.9277726!4d-75.3840331!16s%2Fg%2F1td3968b",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://chameleondayspa.com/services/"
+}

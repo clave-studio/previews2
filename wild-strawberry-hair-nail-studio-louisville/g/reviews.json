@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Bryan",
+   "rating": 5,
+   "text": "I just left there with the best haircut & style I’ve ever had in my entire life. Highly recommend! Lakin is the best!",
+   "reviewer": "Bryan Royalty",
+   "date": "2026-04-15T19:59:19.710Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Wild+Strawberry+Hair+%26+Nail+Studio/@38.2528185,-85.6620956,17z/data=!3m1!4b1!4m6!3m5!1s0x886974c68c000bf7:0x5b3ef9414b716a9f!8m2!3d38.2528185!4d-85.6620956!16s%2Fg%2F1tcyy4x6"
+  },
+  {
+   "first": "Evanne",
+   "rating": 5,
+   "text": "Fantastic studio, Alexis is so sweet and talented. I get platinum highlights and she does an amazing job! Could not recommend enough.",
+   "reviewer": "Evanne Roszell",
+   "date": "2025-08-04T14:42:09.081Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Wild+Strawberry+Hair+%26+Nail+Studio/@38.2528185,-85.6620956,17z/data=!3m1!4b1!4m6!3m5!1s0x886974c68c000bf7:0x5b3ef9414b716a9f!8m2!3d38.2528185!4d-85.6620956!16s%2Fg%2F1tcyy4x6"
+  },
+  {
+   "first": "Jackee",
+   "rating": 5,
+   "text": "Amazing staff! They all do a fabulous cut color and More! 100% recommended! Love everyone there very talented team",
+   "reviewer": "Jackee Matheny",
+   "date": "2022-12-02T21:46:18.390Z",
+   "lang": "en",
+   "file": "rev/4.json",
+   "source": "https://www.google.com/maps/place/Wild+Strawberry+Hair+%26+Nail+Studio/@38.2528185,-85.6620956,17z/data=!3m1!4b1!4m6!3m5!1s0x886974c68c000bf7:0x5b3ef9414b716a9f!8m2!3d38.2528185!4d-85.6620956!16s%2Fg%2F1tcyy4x6"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/Wild+Strawberry+Hair+%26+Nail+Studio/@38.2528185,-85.6620956,17z/data=!3m1!4b1!4m6!3m5!1s0x886974c68c000bf7:0x5b3ef9414b716a9f!8m2!3d38.2528185!4d-85.6620956!16s%2Fg%2F1tcyy4x6",
+ "toggle": false,
+ "toggle_evidence": "No evidence: site English-only; no Spanish reviews among newest Google reviews",
+ "services_source": "https://wildstrawberrystudio.com/menu/"
+}
