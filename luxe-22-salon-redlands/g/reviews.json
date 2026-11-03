@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jennifer",
+   "rating": 5,
+   "text": "I loved my experience here! Stephanie did an amazing job on my hair and made me feel really comfortable the whole time. She’s very talented and pays attention to the details. I’m so happy with how my hair turned out and would definitely recommend her to anyone looking to get their hair done!",
+   "reviewer": "Jennifer Maldonado",
+   "date": "2026-03-25T18:11:54.229Z",
+   "lang": "en",
+   "file": "rev/lx.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1Yjp5jyr3IAR7yBmS2yQJW0"
+  },
+  {
+   "first": "Silvia",
+   "rating": 5,
+   "text": "Absolutely loved it! The salon looks and feels luxurious! And my hair stylist ,Sandra, was so sweet and she left my hair looking & feeling amazing! Definitely will be going back <3",
+   "reviewer": "Silvia Tarazon",
+   "date": "2026-03-30T18:30:00.992Z",
+   "lang": "en",
+   "file": "rev/lx.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1Yjp5jyr3IAR7yBmS2yQJW0"
+  },
+  {
+   "first": "Ciara",
+   "rating": 5,
+   "text": "Absolutely love LUXE 22!! I have been a client of Linda for 4 years now and she is the sweetest most genuine human! All staff are welcoming and its an overall amazing experience when you go. I always count down the days to my next appointment 🤍 highly recommended!",
+   "reviewer": "Ciara Delgado",
+   "date": "2026-03-27T04:08:34.316Z",
+   "lang": "en",
+   "file": "rev/lx.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ1Yjp5jyr3IAR7yBmS2yQJW0"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJ1Yjp5jyr3IAR7yBmS2yQJW0",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.luxe22salon.com/services"
+}

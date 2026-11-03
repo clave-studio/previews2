@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kimberly",
+   "rating": 5,
+   "text": "Christine is amazing! I’ve trusted her with my hair for 10+ years. She listens & offers suggestions, and she’s always up for my random requests for pops of color. 😊",
+   "reviewer": "kimberly hagan",
+   "date": "2025-08-11T16:32:46.960Z",
+   "lang": "en",
+   "file": "rev/ob.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJK5XlMl8YnlQRSum_-ynRkHg"
+  },
+  {
+   "first": "Holly",
+   "rating": 5,
+   "text": "Shelby is the sweetest! She listened to my hair concerns and gave me honest feedback and the best haircut I've ever had! I'm so glad I found her.",
+   "reviewer": "Holly G. Darkly",
+   "date": "2022-11-08T18:58:56.203Z",
+   "lang": "en",
+   "file": "rev/ob.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJK5XlMl8YnlQRSum_-ynRkHg"
+  },
+  {
+   "first": "Allyson",
+   "rating": 5,
+   "text": "Everyone is so nice. Nikki Turpin does my hair and Everytime it is beautiful. There is always coffee, tea, and cold water ready for you and all staff help you if needed.",
+   "reviewer": "Allyson Merrifield",
+   "date": "2019-11-01T23:01:25.494Z",
+   "lang": "en",
+   "file": "rev/ob.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJK5XlMl8YnlQRSum_-ynRkHg"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJK5XlMl8YnlQRSum_-ynRkHg",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.onbroadwaysalonspa.com/team.html"
+}

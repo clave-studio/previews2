@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Milena",
+   "rating": 5,
+   "text": "I went in for a wash and blowout and wowowow my hair came out so beautiful and so shiny!!! Courtney did my hair and she was amazing start to finish!! Definitely recommend choosing her as your stylist :)) the salon itself was beautiful and everyone was extremely welcoming. Great experience thank youu!! Recommend 1000%",
+   "reviewer": "Milena Da Fonseca",
+   "date": "2024-08-24T21:47:28.188Z",
+   "lang": "en",
+   "file": "rev/un.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJwXbzZaISkIAREdrKdS2u_Oc"
+  },
+  {
+   "first": "Erika",
+   "rating": 5,
+   "text": "Lalli was amazing!!! She was able to help me with my curly hair and gave me the best suggestions for curly hair upkeep! They diffused my hair and made it the best curly version I’ve ever seen it! Will definitely be back!",
+   "reviewer": "Erika Batista",
+   "date": "2026-03-29T20:33:58.933Z",
+   "lang": "en",
+   "file": "rev/un.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJwXbzZaISkIAREdrKdS2u_Oc"
+  },
+  {
+   "first": "Maria",
+   "rating": 5,
+   "text": "I love this salon! The owner is super sweet, and the front desk staff is always welcoming and friendly. The atmosphere is warm and inviting, and the stylists are skilled and professional. I always leave feeling great about my hair. Highly recommend!",
+   "reviewer": "Maria",
+   "date": "2025-02-14T19:28:37.265Z",
+   "lang": "en",
+   "file": "rev/un.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJwXbzZaISkIAREdrKdS2u_Oc"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJwXbzZaISkIAREdrKdS2u_Oc",
+ "toggle": true,
+ "toggle_evidence": "Lead site: founder bio opens \"Hola\" (from Mexico); Pro Classes say \"Spanish Available\"",
+ "services_source": "https://www.uniqosalon.com/services"
+}

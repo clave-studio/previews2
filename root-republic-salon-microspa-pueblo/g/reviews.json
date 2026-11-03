@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Shelby",
+   "rating": 5,
+   "text": "Kailee did such an amazing job on my cut and highlights! She is so sweet and was very timely with my appointment. She will definitely be my cosmetologist from here on out!",
+   "reviewer": "Shelby Sharp",
+   "date": "2025-08-09T03:53:48.485Z",
+   "lang": "en",
+   "file": "rev/rr.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJJVpSryajE4cRPHaQEKiG5aY"
+  },
+  {
+   "first": "Lyndsey",
+   "rating": 5,
+   "text": "Gabby Rosolini was fantastic! She was so friendly and made me feel welcome and comfortable. She really listened and understood what I wanted as well and I’m super happy with the cut she gave me. I will definitely be a returning customer!",
+   "reviewer": "Lyndsey Dussart",
+   "date": "2026-01-01T00:25:18.306Z",
+   "lang": "en",
+   "file": "rev/rr.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJJVpSryajE4cRPHaQEKiG5aY"
+  },
+  {
+   "first": "Tammi",
+   "rating": 5,
+   "text": "Robbie is AMAZING. We are so fortunate to have this accomplished stylist in Pueblo. This is the best cut and color Ive ever had. And the experience in the salon was fantastic. The atmosphere is fresh, modern, and completely relaxing.\nGive your hair what it deserves….Robbie!",
+   "reviewer": "Tammi Patterson",
+   "date": "2021-06-15T18:19:04.743Z",
+   "lang": "en",
+   "file": "rev/rr.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJJVpSryajE4cRPHaQEKiG5aY"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJJVpSryajE4cRPHaQEKiG5aY",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://rootrepublicsalon.com/services/"
+}

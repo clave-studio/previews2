@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Justino",
+   "rating": 5,
+   "text": "I’ve been coming to Wilmer since 2017 when I moved to Vegas. Loyal to him and his shop! My mustache line up is always perfect. No need to go anywhere else !",
+   "reviewer": "Justino Gomez",
+   "date": "2026-02-21T18:52:41.644Z",
+   "lang": "en",
+   "file": "rev/ww.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJu6EbBM7RyIARbIWA1jWFRqo"
+  },
+  {
+   "first": "Eric",
+   "rating": 5,
+   "text": "I was visiting Las Vegas and came in for a much needed fade and beard trim. Hands down the best haircut I’ve ever gotten (which makes me sad being all the way in Massachusetts). Next time I’m back in Vegas W&W is my first stop!",
+   "reviewer": "Eric",
+   "date": "2026-03-23T02:39:16.159Z",
+   "lang": "en",
+   "file": "rev/ww.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJu6EbBM7RyIARbIWA1jWFRqo"
+  },
+  {
+   "first": "Donald",
+   "rating": 5,
+   "text": "Best customer service ever, very friendly staff, they even accept me without appointment and they give u free water, energy drinks and coffee if needed, i will comeback every week, and adrian best barber ever!",
+   "reviewer": "donald amador",
+   "date": "2026-07-01T22:18:29.421Z",
+   "lang": "en",
+   "file": "rev/ww.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJu6EbBM7RyIARbIWA1jWFRqo"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJu6EbBM7RyIARbIWA1jWFRqo",
+ "toggle": true,
+ "toggle_evidence": "Lead site has a Spanish version (EN/ES switch, /es/ pages)",
+ "services_source": "https://www.wwbarbers.com/barbersalon-services/"
+}
