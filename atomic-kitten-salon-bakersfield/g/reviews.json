@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Karina",
+   "rating": 5,
+   "text": "First time here. Was very happy with my hair wash and blowout. Will definitely come back soon. Highly recommend.",
+   "reviewer": "Karina Moreno",
+   "date": "2026-03-26T02:04:27.339Z",
+   "lang": "en",
+   "file": "rev/ak.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJaxwR4Ytp6oAREB56pg05_5s"
+  },
+  {
+   "first": "Joanna",
+   "rating": 5,
+   "text": "Fun atmosphere! Great talent with their stylists! Mine is Sandy Serrano and she is brilliant! She's known for her hair extensions but does it all!! Go check them out! You'll be glad you did!",
+   "reviewer": "Joanna Lohrli",
+   "date": "2026-05-16T03:36:45.657Z",
+   "lang": "en",
+   "file": "rev/ak.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJaxwR4Ytp6oAREB56pg05_5s"
+  },
+  {
+   "first": "Robyn",
+   "rating": 5,
+   "text": "Went here for the first time today. Michael did an excellent job. He listened to what I wanted and gave me his professional insight. I appreciated the consultation and the cut. I'll definitely go back.",
+   "reviewer": "Robyn Lipscomb",
+   "date": "2026-03-02T21:26:50.639Z",
+   "lang": "en",
+   "file": "rev/ak.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJaxwR4Ytp6oAREB56pg05_5s"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJaxwR4Ytp6oAREB56pg05_5s",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://atomickittensalon.com/wp/about-us/"
+}

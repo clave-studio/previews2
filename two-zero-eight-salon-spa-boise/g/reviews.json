@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Maci",
+   "rating": 5,
+   "text": "Two Zero Eight is such a great salon and spa! Laura is so sweet and does an amazing job with my hair each time! I am always completely satisfied and in love with my hair every single time! I 100% recommend Laura and the entire salon!",
+   "reviewer": "Maci Richardson",
+   "date": "2016-02-19T04:17:19.333Z",
+   "lang": "en",
+   "file": "rev/tz.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJRd3o8uP4rlQRRyiMUKj753c"
+  },
+  {
+   "first": "Cassidy",
+   "rating": 5,
+   "text": "Everyone here does such a great job. I go to Kayla and she is amazing! I always get highlights and she makes them look so natural and blended. My hair always grows out so beautifully. She is also great with detail cuts!",
+   "reviewer": "Cassidy Newhart",
+   "date": "2020-10-19T18:52:16.727Z",
+   "lang": "en",
+   "file": "rev/tz.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJRd3o8uP4rlQRRyiMUKj753c"
+  },
+  {
+   "first": "Desiree",
+   "rating": 5,
+   "text": "Looking for a fabulous spa salon experience? Two Zero Eight is the place you've been looking for! TZE has an outstanding team and a delightful location. Every visit I've had at this salon has been wonderful and relaxing.",
+   "reviewer": "Desiree Laird",
+   "date": "2019-01-31T18:09:27.108Z",
+   "lang": "en",
+   "file": "rev/tz.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJRd3o8uP4rlQRRyiMUKj753c"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJRd3o8uP4rlQRRyiMUKj753c",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.twozeroeightsalonandspa.com/services"
+}

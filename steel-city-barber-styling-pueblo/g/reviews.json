@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Kraig",
+   "rating": 5,
+   "text": "Good work by Dee, appreciated his attention to detail and effort to figure out what i wanted and made good suggestions, appreciate the dedication to the craft!",
+   "reviewer": "Kraig Kottenstette",
+   "date": "2026-04-20T21:56:51.606Z",
+   "lang": "en",
+   "file": "rev/sc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJsT63ouOiE4cReOvpbIqswd8"
+  },
+  {
+   "first": "Mitch",
+   "rating": 5,
+   "text": "First time in today, Michael hooked me up with the best fade I’ve had in a long time. Good people, hilarious conversations, old school shop!",
+   "reviewer": "Mitch Behm",
+   "date": "2024-04-29T23:38:23.944Z",
+   "lang": "en",
+   "file": "rev/sc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJsT63ouOiE4cReOvpbIqswd8"
+  },
+  {
+   "first": "Tim",
+   "rating": 5,
+   "text": "Absolutely awesome. People are friendly there, helpful and welcoming. My Barber was top-notch, without question. The atmosphere is old school, eclectic and wicked cool.",
+   "reviewer": "Tim Nunez",
+   "date": "2025-05-19T22:00:06.017Z",
+   "lang": "en",
+   "file": "rev/sc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJsT63ouOiE4cReOvpbIqswd8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJsT63ouOiE4cReOvpbIqswd8",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.steelcitybarbershop.com/"
+}

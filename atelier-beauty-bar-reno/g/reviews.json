@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Heather",
+   "rating": 5,
+   "text": "Been going to Atelier for a year and I love it! Aria is a fabulous stylist and is so fun to talk to! My hair is healthy and looks great after every session. Truly cannot recommend her or the salon enough!",
+   "reviewer": "Heather Nesbitt",
+   "date": "2026-09-05T04:57:25.604Z",
+   "lang": "en",
+   "file": "rev/ab.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJz4mfN7lAmYARJZdKPelQm48"
+  },
+  {
+   "first": "Jennifer",
+   "rating": 5,
+   "text": "Aria has always done a phenomenal job on my hair. It always looks like what I wanted when we’re done. She is very kind and sweet always asks the correct questions! I would definitely recommend her!",
+   "reviewer": "Jennifer Casey",
+   "date": "2026-06-15T13:33:41.506Z",
+   "lang": "en",
+   "file": "rev/ab.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJz4mfN7lAmYARJZdKPelQm48"
+  },
+  {
+   "first": "Sarah",
+   "rating": 5,
+   "text": "Got my hair blown out by Kendal and she did a fantastic job. I absolutely loved my experience. She was very detailed, easy to talk to, friendly and did a great job.",
+   "reviewer": "Sarah Soleman",
+   "date": "2026-06-13T22:02:37.276Z",
+   "lang": "en",
+   "file": "rev/ab.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJz4mfN7lAmYARJZdKPelQm48"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJz4mfN7lAmYARJZdKPelQm48",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.atelierbeautybar.com/services-2"
+}
