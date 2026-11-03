@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Heather",
+   "rating": 5,
+   "text": "I've been going here for 14 years and love the people and atmosphere that Kaley has created! My hair is always a 10 thanks to her!!",
+   "reviewer": "Heather Vanderford",
+   "date": "2026-04-14T16:41:44.302Z",
+   "lang": "en",
+   "file": "rev/ts.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJRWd3QfKx3IARdIIPH86iJ-8"
+  },
+  {
+   "first": "Audrey",
+   "rating": 5,
+   "text": "just got my hair done by Christy and I love it. The salon just expanded and it looks amazing. Love coming here to give my hair some much needed attention.",
+   "reviewer": "Audrey Min",
+   "date": "2017-06-13T13:25:58.094Z",
+   "lang": "en",
+   "file": "rev/ts.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJRWd3QfKx3IARdIIPH86iJ-8"
+  },
+  {
+   "first": "Lauren",
+   "rating": 5,
+   "text": "Monique is amazing at color and extentions. The salon is conveniently located and always very clean. I love this salon, so glad I found it!",
+   "reviewer": "Lauren Suiter",
+   "date": "2021-06-02T19:14:09.777Z",
+   "lang": "en",
+   "file": "rev/ts.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJRWd3QfKx3IARdIIPH86iJ-8"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJRWd3QfKx3IARdIIPH86iJ-8",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.tenthstreethairlounge.com/services-1"
+}

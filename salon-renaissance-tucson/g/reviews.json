@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Donna",
+   "rating": 5,
+   "text": "Such a wonderful experience, thank you Erika. We brought life back to my hair when she created a more lived in color. I've also been able to grow my hair out longer and healthier than ever. I walked away feeling beautiful and loving it. Beautiful Salon, great staff.",
+   "reviewer": "Donna Clayton",
+   "date": "2025-01-16T14:10:58.587Z",
+   "lang": "en",
+   "file": "rev/sr.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJa7BtilJu1oYRa_W9d-9kh_E"
+  },
+  {
+   "first": "Emma",
+   "rating": 5,
+   "text": "Ann did my haircut, highlights, and styling. I loved her professionalism and attention to detail. The salon ambience was also10/10 and I can’t wait to go back! I recommend Salon Renaissance to everyone!",
+   "reviewer": "Emma Vaz",
+   "date": "2025-01-05T05:07:16.729Z",
+   "lang": "en",
+   "file": "rev/sr.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJa7BtilJu1oYRa_W9d-9kh_E"
+  },
+  {
+   "first": "Rachael",
+   "rating": 5,
+   "text": "I’ve been seeing Jenna for almost 10 years. She is magical and the ladies at this salon are all fantastic! 10/10!",
+   "reviewer": "Rachael Fornof",
+   "date": "2026-06-06T03:08:56.360Z",
+   "lang": "en",
+   "file": "rev/sr.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJa7BtilJu1oYRa_W9d-9kh_E"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJa7BtilJu1oYRa_W9d-9kh_E",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://salonrenaissancetucson.com/"
+}

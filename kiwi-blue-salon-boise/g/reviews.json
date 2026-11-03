@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Katie",
+   "rating": 5,
+   "text": "Autumn is the best! She always gets the vision and my blonde color and cut comes out looking amazing every time. I get so many compliments and the color looks good all the way until my next appointment! Can’t recommend her enough!",
+   "reviewer": "Katie Dillon",
+   "date": "2024-09-24T01:25:55.722Z",
+   "lang": "en",
+   "file": "rev/kb.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJc-ygF074rlQRZuFOj9zDeVI"
+  },
+  {
+   "first": "Kyrstin",
+   "rating": 5,
+   "text": "Sydney is the best! She is so gentle and patient with hair- even my waist length hair that really likes to tangle. You can tell she cares about what she does and how it makes her clients feel. Such a sweet and talented stylist!",
+   "reviewer": "Kyrstin Lake",
+   "date": "2025-09-26T19:42:26.048Z",
+   "lang": "en",
+   "file": "rev/kb.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJc-ygF074rlQRZuFOj9zDeVI"
+  },
+  {
+   "first": "Briana",
+   "rating": 5,
+   "text": "Had recently moved to the area and was hesitant about finding a new hair stylist. Booked with Autumn and she put all my fears to rest! She did a full color and layered cut and I couldn’t be happier. Was such a fun and relaxing experience. Would highly recommend Autumn as a stylist!",
+   "reviewer": "Briana Christensen",
+   "date": "2025-06-17T19:03:22.791Z",
+   "lang": "en",
+   "file": "rev/kb.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJc-ygF074rlQRZuFOj9zDeVI"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJc-ygF074rlQRZuFOj9zDeVI",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "http://www.kiwibluesalon.com/services-1"
+}

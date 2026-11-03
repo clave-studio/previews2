@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Maribel",
+   "rating": 5,
+   "text": "Britney did such a great job on my hair. Very professional. Very knowledgeable. A repeat customer for sure.",
+   "reviewer": "Maribel",
+   "date": "2026-03-28T06:14:08.419Z",
+   "lang": "en",
+   "file": "rev/xc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJfSel8yFq6oARhHhBctlhS3o"
+  },
+  {
+   "first": "Brittany",
+   "rating": 5,
+   "text": "Lawrence is amazing! I can't say enough good things about his service and how much he cares about each client. The whole business is clean, organized, and everyone is so friendly.",
+   "reviewer": "Brittany Martin",
+   "date": "2025-03-15T05:19:28.722Z",
+   "lang": "en",
+   "file": "rev/xc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJfSel8yFq6oARhHhBctlhS3o"
+  },
+  {
+   "first": "Cassie",
+   "rating": 5,
+   "text": "Shandrea is amazing! In love with my hair every time. She gives my hair life & brings it back to looking shiny & healthy. Won't trust no one else with my hair. Highly recommend comimg to her. Also the salon just has such good vibes. Friendly, clean & relaxing. Love this salon!",
+   "reviewer": "Cassie Alonso",
+   "date": "2018-08-05T09:37:04.363Z",
+   "lang": "en",
+   "file": "rev/xc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJfSel8yFq6oARhHhBctlhS3o"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJfSel8yFq6oARhHhBctlhS3o",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://xxclusivehaircompa.wixsite.com/xclusivehairsalonspa"
+}

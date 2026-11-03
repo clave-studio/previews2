@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Emily",
+   "rating": 5,
+   "text": "Rachel at Salon BeYoutiful did such a great job on my hair! She gave me a beautiful honey balayage, and a haircut to match my vision. I also have allergies to some cosmetic products and she was so careful to check every product she used on me. Would recommend her for all your haircare needs.",
+   "reviewer": "Emily Allwardt",
+   "date": "2026-10-13T00:20:21.545Z",
+   "lang": "en",
+   "file": "rev/by.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJJakCsuXXmVQRy0kQfqJ-tk4"
+  },
+  {
+   "first": "Makenzie",
+   "rating": 5,
+   "text": "I've seen Hannah for facials for a few months now and she is wonderful!! Very receptive and curates each appointment to what I'm needing and how I'm feeling. Highly recommend 😊",
+   "reviewer": "Makenzie Metz",
+   "date": "2026-09-10T18:35:27.410Z",
+   "lang": "en",
+   "file": "rev/by.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJJakCsuXXmVQRy0kQfqJ-tk4"
+  },
+  {
+   "first": "Kaia",
+   "rating": 5,
+   "text": "I got a brow lamination and tint and lash lift and tint from Hannah, and it was amazing! She talked me through each step of the process, made sure I was comfortable throughout, and did an amazing job🩷 highly recommend",
+   "reviewer": "Kaia Kihn",
+   "date": "2026-06-02T23:38:50.022Z",
+   "lang": "en",
+   "file": "rev/by.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJJakCsuXXmVQRy0kQfqJ-tk4"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJJakCsuXXmVQRy0kQfqJ-tk4",
+ "toggle": false,
+ "toggle_evidence": "No Spanish content found on the lead site or Maps listing",
+ "services_source": "https://www.salonbeyoutifulyakima.com/services"
+}
