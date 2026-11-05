@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Priscille",
+   "rating": 5,
+   "text": "I’ve been going for a year now recommend by a friend of mine and I tried the hair Botox and I’m absolutely in love with the results! Maribel so sweet and anytime I need my hair done she’s available!!! I’m in love! Soft! Shiny! Healthy and my hair has grown so much!",
+   "reviewer": "Dr. Priscille Elie Ed.D",
+   "date": "2026-10-24T16:07:40.890Z",
+   "lang": "en",
+   "file": "rev/be.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_Xrdd3UG2YgRan0-8mgYAxY"
+  },
+  {
+   "first": "Camila",
+   "rating": 5,
+   "text": "I discovered Beauty Essence when I moved to South Florida five years ago. Anyone who has moved to a new city knows how important that can be. The stylist are familiar with all of the latest techniques while focusing on healthy hair. Highly recommend.",
+   "reviewer": "Camila Clark",
+   "date": "2026-10-03T19:57:07.913Z",
+   "lang": "en",
+   "file": "rev/be.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_Xrdd3UG2YgRan0-8mgYAxY"
+  },
+  {
+   "first": "Chimere",
+   "rating": 5,
+   "text": "Maribel is my stylist and she does an AMAZING job. All of the stylist are nice and friendly. They treat the customers very good and develop a relationship with their clients. You’ll definitely enjoy the experience and walk out feeling FABULOUS!",
+   "reviewer": "Chimere Wright",
+   "date": "2019-04-25T19:30:02.865Z",
+   "lang": "en",
+   "file": "rev/be.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_Xrdd3UG2YgRan0-8mgYAxY"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJ_Xrdd3UG2YgRan0-8mgYAxY",
+ "toggle": true,
+ "toggle_evidence": "Maps business name is “Beauty Essence Dominican Hair Salon”; Outreach ES; own domain hijacked so no live Spanish page.",
+ "services_source": "Google Maps listing + client reviews"
+}

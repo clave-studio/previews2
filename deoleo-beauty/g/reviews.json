@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Stephanie",
+   "rating": 5,
+   "text": "Love love love my haircut & blow out. Maria is the best! She’s super nice, professional and TALENTED. Do not hesitate to book an appointment with her. I will definitely be coming back.",
+   "reviewer": "Stephanie Rodriguez",
+   "date": "2026-07-04T16:32:43.077Z",
+   "lang": "en",
+   "file": "rev/do.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJaQ3EYwa62YgRuOEQj-gleYM"
+  },
+  {
+   "first": "Alwiya",
+   "rating": 5,
+   "text": "Maria is great, she does a great job of giving me the results i am looking for. I always leave her salon with beautiful and healthy hair.",
+   "reviewer": "Alwiya Saleh",
+   "date": "2026-05-26T17:26:24.796Z",
+   "lang": "en",
+   "file": "rev/do.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJaQ3EYwa62YgRuOEQj-gleYM"
+  },
+  {
+   "first": "Jeanette",
+   "rating": 5,
+   "text": "Maria! Her service is amazing! Every time I fly in from New York I book her immediately! The best hair wash everrr super relaxing and my hair always comes out fabulous!!!!",
+   "reviewer": "Jeanette Rodriguez",
+   "date": "2026-03-13T15:19:10.572Z",
+   "lang": "en",
+   "file": "rev/do.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJaQ3EYwa62YgRuOEQj-gleYM"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJaQ3EYwa62YgRuOEQj-gleYM",
+ "toggle": true,
+ "toggle_evidence": "Square site labels itself “Dominican salón” and lists Spanish-named service Celulas Madres; Maps name Dominican Hair Salon.",
+ "services_source": "https://maria-de-oleo.square.site/"
+}

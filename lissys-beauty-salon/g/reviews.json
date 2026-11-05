@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Laura",
+   "rating": 5,
+   "text": "I am super pleased with the work they did for me at this salon. Lissy was very kind as was her mother. I felt confident from the first moment I arrived. I had a hair and nail treatment with Julianenailmaster. She works super well. She is super charming. I recommend her 100%.♥️",
+   "reviewer": "Laura Garcia",
+   "date": "2024-10-13T13:54:44.747Z",
+   "lang": "en",
+   "file": "rev/li.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJLYUt7cnNwogRqvkQquIef7s"
+  },
+  {
+   "first": "Tasha",
+   "rating": 5,
+   "text": "Lissy is the best! I’ve been going to her for years and I wouldn’t trust anyone else with my hair. She keeps my hair healthy, and it has grown a-lot since I started coming here. Also, The shop is very clean and comfortable. 5⭐️⭐️⭐️⭐️⭐️",
+   "reviewer": "Tasha Williams",
+   "date": "2022-06-06T01:29:30.202Z",
+   "lang": "en",
+   "file": "rev/li.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJLYUt7cnNwogRqvkQquIef7s"
+  },
+  {
+   "first": "Mari",
+   "rating": 5,
+   "text": "Lissy and her mom are such great stylists! I was offered some coffee, received a free deep conditioning, amazing cut and the best blow out you can ever ask for!! I'm a new loyal customer 😀",
+   "reviewer": "Mari Carreno",
+   "date": "2019-08-16T21:08:34.134Z",
+   "lang": "en",
+   "file": "rev/li.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJLYUt7cnNwogRqvkQquIef7s"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJLYUt7cnNwogRqvkQquIef7s",
+ "toggle": true,
+ "toggle_evidence": "Outreach ES / Dominican salon niche; Booksy + Maps; own domain NXDOMAIN — toggle per today10 ES flag with Booksy EN menu as services source.",
+ "services_source": "https://booksy.com/en-us/348668_lissys-beauty-salon_hair-salon_15746_brandon"
+}
