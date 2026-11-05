@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Tiff",
+   "rating": 5,
+   "text": "Estefanía is hands down the best lash artist! Her space is super clean, comfortable, relaxing super professional and welcoming. My lashes look flawless every single time, and I get so many compliments. 10/10 recommendation! la mejor! 💗💗",
+   "reviewer": "the baby tiff",
+   "date": "2026-07-25T23:14:58.550Z",
+   "lang": "en",
+   "file": "rev/fl.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJqdT_GI7CV6oRoArt-8ezn6Y"
+  },
+  {
+   "first": "Alexandra",
+   "rating": 5,
+   "text": "Any did an amazing job on my eyebrows and lashes! She was so sweet and made me feel comfortable throughout the appointment. I love how everything turned out and definitely recommend booking with her! ✨",
+   "reviewer": "Alexandra Diaz",
+   "date": "2026-10-03T19:54:29.466Z",
+   "lang": "en",
+   "file": "rev/fl.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJqdT_GI7CV6oRoArt-8ezn6Y"
+  },
+  {
+   "first": "Nataly",
+   "rating": 5,
+   "text": "I had such a great experience with Ani! She listened to everything I asked for and really took the time to make sure my lashes looked beautiful. She was so attentive and genuinely tried to help me achieve the look I wanted. I’m really happy with how my lashes turned out. Thank you, Ani! 🤍",
+   "reviewer": "Nataly Barrios",
+   "date": "2026-09-07T16:54:40.477Z",
+   "lang": "en",
+   "file": "rev/fl.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJqdT_GI7CV6oRoArt-8ezn6Y"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJqdT_GI7CV6oRoArt-8ezn6Y",
+ "toggle": false,
+ "toggle_evidence": "English Booksy/Maps; no verified ES page.",
+ "services_source": "https://booksy.com/en-us/587447_fluffy-lashes_brows-lashes_7_usa"
+}

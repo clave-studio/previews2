@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Lourdes",
+   "rating": 5,
+   "text": "This salon has been a marvelous experience. Not only my fav stylist works here, Idania, but the whole ambiance is a vibe. Thank you for always making me feel pretty.",
+   "reviewer": "Lourdes Ruiz",
+   "date": "2024-12-24T14:56:37.165Z",
+   "lang": "en",
+   "file": "rev/hi.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJrQwqTwCr2YgR0O2mDBmVblg"
+  },
+  {
+   "first": "Esteffanny",
+   "rating": 5,
+   "text": "Been coming to this salon for over a year and they are great! Idania has improved my hair quality and color. Emilien the receptionist is very nice, helpful and professional. And the salon offers great products and services! Highly recommended!",
+   "reviewer": "Esteffanny Smith Chavez Delgado",
+   "date": "2025-01-11T20:04:17.168Z",
+   "lang": "en",
+   "file": "rev/hi.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJrQwqTwCr2YgR0O2mDBmVblg"
+  },
+  {
+   "first": "Gabriela",
+   "rating": 5,
+   "text": "Idania is the best!\nRestoring the health of my hair was a top priority for me, and today I can honestly say that after a great haircut and blowout, I feel so happy—I keep looking at my hair in the mirror over and over again. Thank you so much!",
+   "reviewer": "Gabriela Ochoa",
+   "date": "2025-04-12T23:12:01.733Z",
+   "lang": "en",
+   "file": "rev/hi.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJrQwqTwCr2YgR0O2mDBmVblg"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJrQwqTwCr2YgR0O2mDBmVblg",
+ "toggle": false,
+ "toggle_evidence": "English reviews/site; no ES evidence.",
+ "services_source": "Google Maps listing + client reviews"
+}

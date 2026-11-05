@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Sheila",
+   "rating": 5,
+   "text": "The place is lovely and conveniently located. Staff all friendly and welcoming. Vinny did a great color and Nick gave me a perfect haircut! Ilene is a magician with her special French manicure and made my short nails look longer!",
+   "reviewer": "Sheila H",
+   "date": "2026-01-23T20:13:51.085Z",
+   "lang": "en",
+   "file": "rev/cc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJcYJDT4DW2IgRHFhYIGr68Ms"
+  },
+  {
+   "first": "Emmy",
+   "rating": 5,
+   "text": "Wow, just wow! After a botched permanent at a local salon, I was referred to Chelsea. My hair was literally breaking off and fried. She cut everything off, styled my short hair beautifully and will be my forever stylist going forward. She is part of a great salon with true professionals!",
+   "reviewer": "Emmy Castellanos",
+   "date": "2026-06-26T20:22:32.120Z",
+   "lang": "en",
+   "file": "rev/cc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJcYJDT4DW2IgRHFhYIGr68Ms"
+  },
+  {
+   "first": "Kara",
+   "rating": 5,
+   "text": "Absolutely loved this salon! I went to Hayli and she did such an amazing job on my hair, she is just the sweetest stylist. I definitely will be returning",
+   "reviewer": "Kara Bishop",
+   "date": "2024-01-11T18:56:08.190Z",
+   "lang": "en",
+   "file": "rev/cc.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJcYJDT4DW2IgRHFhYIGr68Ms"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJcYJDT4DW2IgRHFhYIGr68Ms",
+ "toggle": false,
+ "toggle_evidence": "EN chosen (WPB, English FB copy); FB lists EN+ES but no own-page ES evidence for toggle.",
+ "services_source": "Google Maps listing + client reviews"
+}

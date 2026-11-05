@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Na",
+   "rating": 5,
+   "text": "Absolutely love Salon 6, Lori/Andy and everyone is so great! Been going there for almost 10 years and Lori is my girl, not only super talented but a hoot to spend time with, love her so much! I always walk out super happy and rejuvenated inside and out.",
+   "reviewer": "Na Yaeger",
+   "date": "2026-06-04T18:35:43.070Z",
+   "lang": "en",
+   "file": "rev/s6.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJF9mIH3QQ2YgRUbI_teMMzrY"
+  },
+  {
+   "first": "Charlotte",
+   "rating": 5,
+   "text": "I've been coming to Salon 6 for 3 years now and it never disappoints! 🤩I love the atmosphere and everyone is so nice☺️Wanna give a special shoutout to Carolina for her amazing work as you can see she's an artist!",
+   "reviewer": "Charlotte Hammock",
+   "date": "2025-01-26T17:59:03.523Z",
+   "lang": "en",
+   "file": "rev/s6.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJF9mIH3QQ2YgRUbI_teMMzrY"
+  },
+  {
+   "first": "Julie",
+   "rating": 5,
+   "text": "Lori is simply the best!\nFrom color to cut she gives you the best. She will be honest and tell you what you need and I love her for it!",
+   "reviewer": "Julie Kurman",
+   "date": "2026-05-18T21:37:49.112Z",
+   "lang": "en",
+   "file": "rev/s6.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJF9mIH3QQ2YgRUbI_teMMzrY"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJF9mIH3QQ2YgRUbI_teMMzrY",
+ "toggle": false,
+ "toggle_evidence": "English site and Maps; no ES evidence.",
+ "services_source": "https://salon6fl.com/"
+}
