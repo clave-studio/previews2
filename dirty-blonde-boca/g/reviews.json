@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Bryan",
+   "rating": 5,
+   "text": "Marcy is the best thing that ever happened to me! I have thick, wavy hair and she makes it smooth and beautiful!! Can not recommend her enough!\nAlso Robin at the front desk is always so sweet and accommodating!!\nLove Dirty Blonde Salon!",
+   "reviewer": "Bryan Karen",
+   "date": "2026-05-01T13:34:14.448Z",
+   "lang": "en",
+   "file": "rev/db.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJWTBMgMnj2IgRvUN-Qual_9I"
+  },
+  {
+   "first": "Mikaela",
+   "rating": 5,
+   "text": "Marcy is absolutely incredible! She has given me the most amazing long-lasting blowouts, and has the brightest spirit! She is beyond sweet and so talented at hair.",
+   "reviewer": "Mikaela Katz",
+   "date": "2026-06-20T18:10:14.816Z",
+   "lang": "en",
+   "file": "rev/db.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJWTBMgMnj2IgRvUN-Qual_9I"
+  },
+  {
+   "first": "Jessica",
+   "rating": 5,
+   "text": "Marcy is the absolute best of the best!!!! If you want an amazing haircut with layers , volume and a healthy bouncy flow book her!!! Hands down best haircut ever!!",
+   "reviewer": "Jessica Soblick",
+   "date": "2026-05-13T17:30:24.049Z",
+   "lang": "en",
+   "file": "rev/db.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJWTBMgMnj2IgRvUN-Qual_9I"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJWTBMgMnj2IgRvUN-Qual_9I",
+ "toggle": false,
+ "toggle_evidence": "English Squarespace; no ES evidence.",
+ "services_source": "https://dirtyblondesalon.squarespace.com/services-1"
+}

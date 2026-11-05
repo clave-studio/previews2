@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Watcher",
+   "rating": 5,
+   "text": "Best place to go for any braiding style. The location is comfortable, each stylist has their individual suites, secure and new. All of the staff are talented and professional. Nerice provided a fun experience and the time went by fast. The appointments go fast so book early.",
+   "reviewer": "WatcherK4",
+   "date": "2026-09-27T01:30:19.019Z",
+   "lang": "en",
+   "file": "rev/ni.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ9SIyZQ5v54gRbEpTosVx6y4"
+  },
+  {
+   "first": "Kimmie",
+   "rating": 5,
+   "text": "Loved it. The overall atmosphere was pleasant, friendly and welcoming. The location is in a good area. All the stylists were amazing. Thank you so much Andrea for making me feel welcomed and doing an amazing job on my hair.",
+   "reviewer": "Kimmie Pinkney",
+   "date": "2020-07-31T22:35:48.544Z",
+   "lang": "en",
+   "file": "rev/ni.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ9SIyZQ5v54gRbEpTosVx6y4"
+  },
+  {
+   "first": "Ameena",
+   "rating": 5,
+   "text": "Stephanie did an excellent job braiding my hair! She was warm and friendly from the moment I walked in. She did an excellent job accommodating me given that I am a Muslim woman who wears a headscarf. Highly professional. I would definitely recommend Nina's braiding salon.",
+   "reviewer": "Ameena",
+   "date": "2019-06-16T00:31:54.392Z",
+   "lang": "en",
+   "file": "rev/ni.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ9SIyZQ5v54gRbEpTosVx6y4"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJ9SIyZQ5v54gRbEpTosVx6y4",
+ "toggle": false,
+ "toggle_evidence": "English Wix/Vagaro; no ES evidence.",
+ "services_source": "https://ninasbraidingbar.wixsite.com/winterpark"
+}

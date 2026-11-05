@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Angeline",
+   "rating": 5,
+   "text": "The environment and people of this salon are the absolute best. They are very attentive and caring. I did a lived in color treatment with Brandy and I have no words. My hair is absolutely beautiful and she did it just how I imagined. She is very knowledgeable and has a passion for hair services. 10/10",
+   "reviewer": "Angeline Acosta",
+   "date": "2025-07-03T00:30:10.791Z",
+   "lang": "en",
+   "file": "rev/ss.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJQWrryZ632YgRcteZGIzvDdk"
+  },
+  {
+   "first": "Kristen",
+   "rating": 5,
+   "text": "Brandy is the best! She really transformed my orange hair to a perfect blonde in just one session. Just recently got a Brazilian blowout with her as well— fully recommend! The nicest, most attentive stylist at Sol!",
+   "reviewer": "Kristen M",
+   "date": "2025-04-17T23:31:09.982Z",
+   "lang": "en",
+   "file": "rev/ss.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJQWrryZ632YgRcteZGIzvDdk"
+  },
+  {
+   "first": "Lorena",
+   "rating": 5,
+   "text": "I’m obsessed with my new hair! The balayage turned out better than I imagined. Brandy gave my hair such a natural, sun-kissed look. The whole experience, from start to finish, was super smooth and enjoyable. I left the salon feeling so refreshed and confident. Huge thank you to Brandy for bringing my hair back to life!",
+   "reviewer": "Lorena Martinez",
+   "date": "2025-07-30T18:28:49.379Z",
+   "lang": "en",
+   "file": "rev/ss.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJQWrryZ632YgRcteZGIzvDdk"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJQWrryZ632YgRcteZGIzvDdk",
+ "toggle": false,
+ "toggle_evidence": "Coral Gables Hispanic market — ES plausible but not proven on own page (domain dead); EN only.",
+ "services_source": "Google Maps listing + client reviews"
+}
