@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Daniella",
+   "rating": 5,
+   "text": "I had the best experience at Wild Hair Salon with Pilar! She took the time to really listen to what I wanted and absolutely exceeded my expectations. She’s incredibly talented, detail-oriented, and made me feel comfortable throughout the entire appointment. My color came out gorgeous, and my hair feels so healthy and soft. You can tell Pilar genuinely cares about her clients and takes pride in her work. I’ve already gotten so many compliments on my hair! I can’t recommend Pilar and Wild Hair Salon enough. I’ll definitely be back!",
+   "reviewer": "Daniella Valencia",
+   "date": "2026-08-01T21:41:29.970Z",
+   "lang": "en",
+   "file": "rev/wh.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJne1K2fzr3ogRkI0QoZoni_Q"
+  },
+  {
+   "first": "Michelle",
+   "rating": 5,
+   "text": "Let me just say, my hair was fried from years of bleach under heat. Went to Pilar almost a year ago, she would not high light my hair until it was healthy. After months and months of special care, she gave it the ok yesterday. Wow, what a difference, my hair looks the best it’s looked in years! I highly recommend her abilities as a colorist, stylist, and all your needs for healthy strong hair! Thank you Pilar!",
+   "reviewer": "Michelle Krause",
+   "date": "2026-10-17T11:50:06.676Z",
+   "lang": "en",
+   "file": "rev/wh.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJne1K2fzr3ogRkI0QoZoni_Q"
+  },
+  {
+   "first": "Angela",
+   "rating": 5,
+   "text": "⭐⭐⭐⭐⭐\n\nI had a wonderful experience at this salon! Pilar took the time to truly listen to my concerns, hair history, and long-term goals. Instead of choosing a color based solely on a name or formula, she carefully reviewed photos of my desired look and created a personalized plan to achieve it.\n\nWhat impressed me most was her attention to detail and focus on creating a result that complemented me while maintaining the health of my hair. She explained the process, set realistic expectations, and made me feel confident every step of the way.\n\nThe result was exactly what I wanted: a soft, natural-looking color with beautiful dimension that feels effortless and authentic. If you’re looking for a stylist who listens and creates customized results based on your vision, I highly recommend Pilar and this salon. I left feeling understood, confident, and excited about my hair. ✨💇‍♀️✨",
+   "reviewer": "Angela Gajewski",
+   "date": "2026-06-04T21:10:02.154Z",
+   "lang": "en",
+   "file": "rev/wh.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJne1K2fzr3ogRkI0QoZoni_Q"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJne1K2fzr3ogRkI0QoZoni_Q",
+ "toggle": false,
+ "toggle_evidence": "English Maps/FB; no ES evidence.",
+ "services_source": "Google Maps listing + client reviews"
+}
