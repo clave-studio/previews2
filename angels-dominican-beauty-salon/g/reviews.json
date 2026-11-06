@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Lady",
+   "rating": 5,
+   "text": "I had an amazing experience with Yeimi at the Dominican salon! She is incredibly professional, knowledgeable, and talented. She took the time to understand exactly what I wanted and did an amazing job with my hair. I absolutely loved the results! Highly recommend Yeimi if you’re looking for someone who truly knows how to make your hair look beautiful. 💕✨",
+   "reviewer": "Lady Diana Núñez",
+   "date": "2026-10-03T15:11:57.237Z",
+   "lang": "en",
+   "file": "rev/an.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJd5MIu2bOwogR9z0EWvbKG4I"
+  },
+  {
+   "first": "Migdalia",
+   "rating": 5,
+   "text": "After going almost two years without a haircut, I was honestly a little nervous, but Josmarie did an AMAZING job! She really listened to what I wanted, and I absolutely love how my cut came out. The layers and face-framing pieces are exactly what I was looking for. I was so relaxed and comfortable during my appointment that I had my eyes closed almost the entire time 😂. I’m so happy I found my new hairstylist! Thank you, Josmarie! 💕✨",
+   "reviewer": "Migdalia Hernandez",
+   "date": "2026-09-12T18:18:28.158Z",
+   "lang": "en",
+   "file": "rev/an.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJd5MIu2bOwogR9z0EWvbKG4I"
+  },
+  {
+   "first": "Kayla",
+   "rating": 5,
+   "text": "I’ve being going to this salon for years and the minute Yeimy touched my hair I have never colored at home again! The best place to get color done and so much more!! 💗 won’t let anyone else touch my hair",
+   "reviewer": "Kayla Maldonado",
+   "date": "2025-03-19T03:25:56.486Z",
+   "lang": "en",
+   "file": "rev/an.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJd5MIu2bOwogR9z0EWvbKG4I"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJd5MIu2bOwogR9z0EWvbKG4I",
+ "toggle": true,
+ "toggle_evidence": "Maps/business name Dominican Beauty Salon; Booksy; outreach ES preferred.",
+ "services_source": "https://booksy.com/en-us/425099_angels-dominican-beauty-salon_hair-salon_15746_brandon"
+}
