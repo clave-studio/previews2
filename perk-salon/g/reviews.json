@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Cynthia",
+   "rating": 5,
+   "text": "Jasmine was absolutely amazing. She made me feel so good about how I had my hair before. And after she was done, I literally felt like a new woman. She is the best and I would see her again every time I need my hair done.",
+   "reviewer": "Cynthia Cruz",
+   "date": "2026-03-27T22:36:32.307Z",
+   "lang": "en",
+   "file": "rev/pk.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJmep12gLf2IgRrcFLSMRZBq0"
+  },
+  {
+   "first": "Mercedes",
+   "rating": 5,
+   "text": "Jasmine was great, was nervous about cutting my hair. She did it beautifully, and I’m so happy I found someone I trust to do my hair.",
+   "reviewer": "Mercedes Peacock",
+   "date": "2025-03-27T23:28:58.485Z",
+   "lang": "en",
+   "file": "rev/pk.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJmep12gLf2IgRrcFLSMRZBq0"
+  },
+  {
+   "first": "Patricia",
+   "rating": 5,
+   "text": "Came into the salon with a messed up pixie cut from another salon and Jasmine was able to rectify the problem! If you are looking for a precision cut for short hair Jasmine is your girl. Added bonus she’s a sweetheart.",
+   "reviewer": "Patricia Obrien",
+   "date": "2026-01-18T14:58:08.392Z",
+   "lang": "en",
+   "file": "rev/pk.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJmep12gLf2IgRrcFLSMRZBq0"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJmep12gLf2IgRrcFLSMRZBq0",
+ "toggle": false,
+ "toggle_evidence": "English site; no ES evidence.",
+ "services_source": "https://perksalon.com/services"
+}
