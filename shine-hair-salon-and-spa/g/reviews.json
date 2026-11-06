@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Indairy",
+   "rating": 5,
+   "text": "I love this salon so much! I always get my hair done with Doris she never disappoints. The other girls there are just as amazing. Just recently I went and had my nails done for my birthday by cami and I can only say it was everything that I dreamed off!",
+   "reviewer": "Indairy Vazquez",
+   "date": "2025-04-20T21:19:49.481Z",
+   "lang": "en",
+   "file": "rev/sh.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJebXernC32YgRAaVtoatY4jY"
+  },
+  {
+   "first": "Brianna",
+   "rating": 5,
+   "text": "Absolutely amazing! My hair came out better than I expected! This is the best my hair has ever came out across any other salon I’ve been to. I rec 100%",
+   "reviewer": "Brianna Manassa",
+   "date": "2026-06-11T23:06:14.552Z",
+   "lang": "en",
+   "file": "rev/sh.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJebXernC32YgRAaVtoatY4jY"
+  },
+  {
+   "first": "Alexandra",
+   "rating": 5,
+   "text": "The owner/amazing hairstylist, doris, is so kind and welcoming. She has an amazing and lovely personality as well as top notch skill. I recommend her 100/10. My mom and I come to her every time we need a touch up!",
+   "reviewer": "Alexandra Regensburg",
+   "date": "2025-10-03T23:41:56.154Z",
+   "lang": "en",
+   "file": "rev/sh.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJebXernC32YgRAaVtoatY4jY"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJebXernC32YgRAaVtoatY4jY",
+ "toggle": false,
+ "toggle_evidence": "Coral Way Hispanic area; ES alt opener exists in outreach notes but own site is down with no Spanish body copy verified — EN only.",
+ "services_source": "Google Maps categories + Instagram bio + client reviews (own site 500/blocked)"
+}
