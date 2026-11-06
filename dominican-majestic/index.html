@@ -2,268 +2,516 @@
 <html lang="es">
 <head>
 <meta charset="utf-8"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
 <title>Dominican Majestic Beauty Salon · Pompano Beach</title>
-<script src="https://cdn.tailwindcss.com"></script>
-<script>
-tailwind.config={theme:{extend:{colors:{ink:'#0A0A0A',gold:'#C5A46A',gold2:'#A88B4A',ivory:'#F5EFE3',ivory2:'#E8DFD0'},fontFamily:{serif:['Cormorant Garamond','Georgia','serif'],sans:['Montserrat','system-ui','sans-serif']}}}}
-</script>
+<meta name="description" content="Secado dominicano, keratina, hair Botox, color, cortes y extensiones con Mayrelis en Pompano Beach."/>
+<meta name="theme-color" content="#FAF6F0"/>
+<meta name="robots" content="noindex"/>
 <link rel="preconnect" href="https://fonts.googleapis.com"/>
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
-<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet"/>
-<script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet"/>
 <style>
-  html{scroll-behavior:smooth}
-  .gold-line{background:linear-gradient(90deg,transparent,#C5A46A,transparent)}
-  .hero-scrim{background:linear-gradient(180deg,rgba(10,10,10,.35) 0%,rgba(10,10,10,.55) 40%,rgba(10,10,10,.88) 100%)}
-  @media (min-width:768px){.hero-scrim{background:linear-gradient(90deg,rgba(10,10,10,.82) 0%,rgba(10,10,10,.55) 48%,rgba(10,10,10,.25) 100%)}}
-  .btn-gold{background:linear-gradient(135deg,#D4B87A,#A88B4A);color:#0A0A0A}
-  .btn-gold:hover{filter:brightness(1.05)}
-  .card{border:1px solid rgba(197,164,106,.28)}
-  .gallery img{object-fit:cover;width:100%;height:100%}
-  .hero-photo{object-position:center 18%}
-  @media (min-width:768px){.hero-photo{object-position:center 22%}}
+:root{
+  --cream:#FAF6F0; --cream2:#F3EDE3; --card:#FFFCFA;
+  --ink:#2A221C; --mut:#6E625A; --line:rgba(42,34,28,.12);
+  --gold:#B8954A; --gold2:#C9A86A; --gold-deep:#8F6F2E;
+  --espresso:#1F1814; --nav:78px;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--cream);color:var(--ink);font-family:Montserrat,system-ui,sans-serif;font-size:17px;line-height:1.6;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}
+img{display:block;max-width:100%;height:auto}
+.serif{font-family:"Cormorant Garamond",Georgia,serif}
+.wrap{width:min(100%,1180px);margin:0 auto;padding:0 clamp(20px,4vw,48px)}
+.cap{font-size:11px;font-weight:600;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-deep)}
+.gold-line{height:1px;width:72px;background:linear-gradient(90deg,transparent,var(--gold),transparent);margin:18px auto 0}
+.rv{opacity:0;transform:translateY(18px);transition:opacity .8s ease,transform .8s ease}
+.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+
+/* NAV */
+.nav{position:sticky;top:0;z-index:50;background:rgba(250,246,240,.92);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+.nav .in{height:var(--nav);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.brand img{width:46px;height:46px;border-radius:50%;object-fit:cover;border:1.5px solid rgba(184,149,74,.55);flex:none}
+.brand .name{font-family:"Cormorant Garamond",Georgia,serif;font-size:22px;font-weight:500;letter-spacing:.04em;color:var(--ink);line-height:1.05}
+.brand .tag{font-size:10px;font-weight:600;letter-spacing:.26em;text-transform:uppercase;color:var(--gold-deep);margin-top:3px}
+.nav-links{display:flex;align-items:center;gap:28px}
+.nav-links a{font-size:11px;font-weight:600;letter-spacing:.18em;text-transform:uppercase;color:var(--mut)}
+.nav-links a:hover{color:var(--ink)}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 26px;border-radius:999px;font-size:13px;font-weight:600;letter-spacing:.08em;transition:.2s;white-space:nowrap}
+.btn-gold{background:linear-gradient(135deg,#D4B87A,#B8954A 55%,#9A7A35);color:#1F1814;box-shadow:0 10px 28px rgba(184,149,74,.28)}
+.btn-gold:hover{filter:brightness(1.05);transform:translateY(-1px)}
+.btn-outline{border:1.5px solid rgba(42,34,28,.35);color:var(--ink);background:transparent}
+.btn-outline:hover{background:var(--ink);color:var(--cream)}
+.btn-ghost{border:1.5px solid rgba(184,149,74,.55);color:var(--gold-deep);background:rgba(255,252,250,.5)}
+.btn-ghost:hover{background:rgba(184,149,74,.12)}
+.ic{width:16px;height:16px;flex:none}
+
+/* HERO */
+.hero{padding:clamp(28px,4vw,48px) 0 clamp(48px,6vw,80px)}
+.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:clamp(28px,5vw,64px);align-items:center}
+.hero-copy{order:1}.hero-visual{order:2}
+.hero-copy .eyebrow{display:inline-flex;align-items:center;gap:12px;font-size:11px;font-weight:600;letter-spacing:.28em;text-transform:uppercase;color:var(--gold-deep);margin-bottom:18px}
+.hero-copy .eyebrow::before{content:"";width:28px;height:1px;background:var(--gold)}
+.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(42px,5.4vw,68px);line-height:1.02;letter-spacing:-.01em;color:var(--espresso)}
+.hero h1 em{font-style:italic;color:var(--gold-deep);font-weight:500}
+.hero .lead{margin-top:20px;font-size:clamp(16px,1.2vw,18px);color:var(--mut);max-width:38ch;line-height:1.65}
+.hero-cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px}
+.trust-row{display:flex;flex-wrap:wrap;gap:10px 22px;margin-top:26px;align-items:center}
+.trust-pill{display:inline-flex;align-items:center;gap:8px;font-size:13.5px;font-weight:500;color:var(--ink);background:var(--card);border:1px solid var(--line);border-radius:999px;padding:8px 14px;box-shadow:0 4px 16px rgba(42,34,28,.04)}
+.trust-pill .stars{color:var(--gold-deep);letter-spacing:.08em}
+
+.hero-visual{position:relative}
+.collage{position:relative;aspect-ratio:0.92;max-width:520px;margin-left:auto}
+.collage .main{position:absolute;right:0;top:6%;width:62%;height:86%;border-radius:28px;overflow:hidden;box-shadow:0 24px 50px rgba(42,34,28,.16)}
+.collage .main img{width:100%;height:100%;object-fit:cover;object-position:center 15%}
+.collage .top{position:absolute;left:0;top:4%;width:42%;height:42%;border-radius:22px;overflow:hidden;box-shadow:0 18px 40px rgba(42,34,28,.14);border:4px solid var(--cream)}
+.collage .top img{width:100%;height:100%;object-fit:cover;object-position:center 20%}
+.collage .bot{position:absolute;left:2%;bottom:4%;width:40%;height:40%;border-radius:22px;overflow:hidden;box-shadow:0 18px 40px rgba(42,34,28,.14);border:4px solid var(--cream)}
+.collage .bot img{width:100%;height:100%;object-fit:cover;object-position:center 20%}
+.collage::before{content:"";position:absolute;inset:12% 8% 8% 18%;border:1px solid rgba(184,149,74,.35);border-radius:36px;z-index:0;pointer-events:none}
+.collage > *{z-index:1}
+
+/* STRIP */
+.strip{background:var(--cream2);border-y:1px solid var(--line);padding:22px 0}
+.strip .in{display:flex;flex-wrap:wrap;justify-content:center;gap:10px 36px;text-align:center}
+.strip span{font-size:13px;font-weight:500;letter-spacing:.04em;color:var(--mut);display:inline-flex;align-items:center;gap:8px}
+.strip strong{color:var(--ink);font-weight:600}
+
+/* SECTIONS */
+section{padding:clamp(56px,8vw,104px) 0}
+.sec-head{text-align:center;max-width:640px;margin:0 auto 42px}
+.sec-head h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(34px,4.4vw,52px);line-height:1.05;margin-top:12px;color:var(--espresso)}
+.sec-head h2 em{font-style:italic;color:var(--gold-deep)}
+.sec-head p{margin-top:14px;color:var(--mut);font-size:16px}
+
+/* SERVICES photo cards */
+.svc-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.svc{background:var(--card);border:1px solid var(--line);border-radius:22px;overflow:hidden;box-shadow:0 10px 30px rgba(42,34,28,.05);transition:transform .35s ease,box-shadow .35s}
+.svc:hover{transform:translateY(-4px);box-shadow:0 18px 40px rgba(42,34,28,.1)}
+.svc .ph{aspect-ratio:4/3;overflow:hidden;background:var(--cream2)}
+.svc .ph img{width:100%;height:100%;object-fit:cover;transition:transform .7s}
+.svc:hover .ph img{transform:scale(1.04)}
+.svc .body{padding:20px 20px 22px}
+.svc h3{font-family:"Cormorant Garamond",Georgia,serif;font-size:26px;font-weight:500;line-height:1.15;margin-bottom:8px}
+.svc p{font-size:14.5px;color:var(--mut);line-height:1.55}
+
+/* GALLERY */
+.gal{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+.gal a,.gal figure{margin:0;border-radius:18px;overflow:hidden;aspect-ratio:3/4;background:var(--cream2);box-shadow:0 8px 24px rgba(42,34,28,.06)}
+.gal img{width:100%;height:100%;object-fit:cover}
+.gal .wide{aspect-ratio:4/3}
+
+/* BENEFITS */
+.ben{display:grid;grid-template-columns:repeat(4,1fr);gap:16px}
+.ben .card{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px 22px;text-align:center;box-shadow:0 8px 24px rgba(42,34,28,.04)}
+.ben .num{font-family:"Cormorant Garamond",Georgia,serif;font-size:28px;color:var(--gold-deep);font-style:italic;margin-bottom:8px}
+.ben h3{font-family:"Cormorant Garamond",Georgia,serif;font-size:22px;font-weight:500;margin-bottom:8px}
+.ben p{font-size:14px;color:var(--mut);line-height:1.5}
+
+/* REVIEWS */
+.rg{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}
+.rc{background:var(--card);border:1px solid var(--line);border-radius:22px;padding:28px 26px;display:flex;flex-direction:column;box-shadow:0 10px 28px rgba(42,34,28,.05)}
+.rc .stars{color:var(--gold-deep);letter-spacing:.14em;font-size:15px;margin-bottom:14px}
+.rc q{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:20px;line-height:1.4;quotes:"\201C" "\201D";color:var(--ink);flex:1}
+.rc .who{margin-top:22px;padding-top:16px;border-top:1px solid var(--line)}
+.rc .who b{display:block;font-size:14px;font-weight:600}
+.rc .who small{display:block;margin-top:4px;font-size:12px;color:var(--mut)}
+.rc .who a{display:inline-flex;align-items:center;gap:4px;margin-top:8px;font-size:12px;font-weight:600;color:var(--gold-deep)}
+
+/* CTA BAND */
+.cta-band{background:linear-gradient(135deg,#2A221C 0%,#3A2E24 45%,#2A221C 100%);color:#FAF6F0;padding:clamp(48px,7vw,80px) 0;text-align:center;position:relative;overflow:hidden}
+.cta-band::before{content:"";position:absolute;inset:0;background:radial-gradient(60% 80% at 50% 0%,rgba(184,149,74,.22),transparent 70%);pointer-events:none}
+.cta-band .wrap{position:relative;z-index:1}
+.cta-band .cap{color:var(--gold2)}
+.cta-band h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(32px,4.2vw,48px);line-height:1.1;margin:12px 0 14px}
+.cta-band h2 em{font-style:italic;color:var(--gold2)}
+.cta-band p{color:rgba(250,246,240,.78);max-width:42ch;margin:0 auto 26px;font-size:16px}
+.cta-band .btns{display:flex;flex-wrap:wrap;justify-content:center;gap:12px}
+.cta-band .btn-outline{border-color:rgba(250,246,240,.45);color:#FAF6F0}
+.cta-band .btn-outline:hover{background:#FAF6F0;color:var(--espresso)}
+
+/* VISIT */
+.visit-grid{display:grid;grid-template-columns:1fr 1.1fr;gap:clamp(28px,4vw,56px);align-items:start}
+.hours{list-style:none;margin-top:18px}
+.hours li{display:flex;justify-content:space-between;gap:16px;padding:10px 0;border-bottom:1px solid var(--line);font-size:14.5px}
+.hours li:last-child{border-bottom:0}
+.hours .d{font-weight:500}
+.hours .t{color:var(--mut)}
+.visit-meta{display:flex;flex-direction:column;gap:14px;margin:22px 0}
+.visit-meta .row{display:flex;gap:12px;align-items:flex-start;font-size:15px}
+.visit-meta .row svg{color:var(--gold-deep);margin-top:3px}
+.map-card{border-radius:22px;overflow:hidden;border:1px solid var(--line);background:var(--card);box-shadow:0 12px 36px rgba(42,34,28,.08)}
+.map-card iframe{width:100%;height:280px;border:0;display:block;filter:grayscale(.15) contrast(1.02)}
+.map-card .store{aspect-ratio:16/9;overflow:hidden}
+.map-card .store img{width:100%;height:100%;object-fit:cover}
+.map-card .cap-bar{padding:16px 18px;display:flex;justify-content:space-between;align-items:center;gap:12px;border-top:1px solid var(--line)}
+.map-card .cap-bar b{font-family:"Cormorant Garamond",Georgia,serif;font-size:20px;font-weight:500}
+.map-card .cap-bar span{display:block;font-size:13px;color:var(--mut);font-family:Montserrat,sans-serif;margin-top:2px}
+
+/* FOOTER */
+footer{border-top:1px solid var(--line);padding:28px 0 36px;font-size:13px;color:var(--mut)}
+footer .in{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px;align-items:center}
+footer .left{display:flex;align-items:center;gap:12px}
+footer .left img{width:40px;height:40px;border-radius:50%;object-fit:cover;border:1px solid rgba(184,149,74,.4)}
+footer .left b{display:block;font-family:"Cormorant Garamond",Georgia,serif;font-size:18px;font-weight:500;color:var(--ink)}
+footer .links{display:flex;gap:18px}
+footer .links a:hover{color:var(--gold-deep)}
+
+/* MOBILE BAR */
+.mbar{display:none}
+
+@media (max-width:980px){
+  .hero-grid{grid-template-columns:1fr;gap:36px}
+  .collage{max-width:440px;margin:0 auto}
+  .svc-grid{grid-template-columns:repeat(2,1fr)}
+  .ben{grid-template-columns:repeat(2,1fr)}
+  .rg{grid-template-columns:1fr}
+  .visit-grid{grid-template-columns:1fr}
+  .nav-links a:not(.pill-call){display:none}
+}
+@media (max-width:640px){
+  :root{--nav:68px}
+  body{font-size:16px}
+  .brand .name{font-size:17px}.brand .tag{font-size:8.5px;letter-spacing:.2em}.brand img{width:40px;height:40px}
+  .hero{padding:14px 0 28px}
+  .hero-grid{gap:18px}
+  .hero-copy{order:2}.hero-visual{order:1}
+  .hero h1{font-size:clamp(34px,9.5vw,44px)}
+  .hero .lead{font-size:15px;margin-top:14px}
+  .hero-copy .eyebrow{margin-bottom:12px}
+  .hero-cta{flex-direction:column;align-items:stretch;margin-top:18px}
+  .hero-cta .btn{width:100%;min-height:50px}
+  .trust-row{margin-top:16px;gap:8px}
+  .trust-pill{font-size:12px;padding:7px 12px}
+  .collage{aspect-ratio:1.28;max-width:100%;height:auto}
+  .collage::before{inset:10% 6% 8% 14%}
+  .collage .main{top:4%;height:90%;border-radius:18px}
+  .collage .top{top:2%;height:46%;border-width:3px;border-radius:14px}
+  .collage .bot{bottom:2%;height:42%;border-width:3px;border-radius:14px}
+  .svc-grid{grid-template-columns:1fr;gap:14px}
+  .svc .ph{aspect-ratio:16/10}
+  .gal{grid-template-columns:repeat(2,1fr);gap:10px}
+  .gal figure{aspect-ratio:3/4}
+  .gal .span2{grid-column:span 2;aspect-ratio:16/10}
+  .ben{grid-template-columns:1fr 1fr;gap:10px}
+  .ben .card{padding:18px 14px}
+  .map-card iframe{height:220px}
+  body{padding-bottom:calc(76px + env(safe-area-inset-bottom,0px))}
+  .mbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;gap:10px;padding:10px 14px calc(10px + env(safe-area-inset-bottom,0px));background:rgba(250,246,240,.96);backdrop-filter:blur(14px);border-top:1px solid var(--line);box-shadow:0 -10px 28px rgba(42,34,28,.08)}
+  .mbar a{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;min-height:50px;border-radius:999px;font-size:12px;font-weight:600;letter-spacing:.1em;text-transform:uppercase}
+  .mbar a.p{background:linear-gradient(135deg,#D4B87A,#B8954A);color:#1F1814}
+  .mbar a.s{border:1.5px solid rgba(42,34,28,.3);color:var(--ink)}
+}
 </style>
 </head>
 <body>
-<div class="min-h-screen bg-ink text-ivory font-sans antialiased overflow-x-hidden">
-  <header class="fixed top-0 inset-x-0 z-40 bg-ink/90 backdrop-blur-md border-b border-gold/20">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-16 sm:h-[4.5rem] flex items-center justify-between gap-3">
-      <a id="nav-home" href="#inicio" class="flex items-center gap-3 min-w-0">
-        <img src="src/logo.jpg" alt="Dominican Majestic Beauty Salon" class="h-11 w-11 sm:h-12 sm:w-12 rounded-full object-cover border border-gold/40 shrink-0"/>
-        <div class="min-w-0 leading-tight">
-          <div class="font-serif text-gold text-lg sm:text-xl tracking-wide truncate">Dominican Majestic</div>
-          <div class="text-[10px] sm:text-xs uppercase tracking-[0.22em] text-ivory2/80">Beauty Salon</div>
-        </div>
-      </a>
-      <div class="flex items-center gap-2 sm:gap-3 shrink-0">
-        <a id="nav-call" href="tel:+17542052953" class="btn-gold inline-flex items-center gap-2 rounded-full px-3.5 sm:px-5 py-2 text-xs sm:text-sm font-semibold tracking-wide shadow-lg shadow-black/40">
-          <iconify-icon icon="lucide:phone" width="16" height="16"></iconify-icon>
-          <span>Llamar</span>
-        </a>
-        <a id="nav-map" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener" class="hidden sm:inline-flex items-center gap-2 rounded-full border border-gold/50 text-gold px-4 py-2 text-sm font-medium hover:bg-gold/10">
-          <iconify-icon icon="lucide:map-pin" width="16" height="16"></iconify-icon>
-          Cómo llegar
-        </a>
-      </div>
-    </div>
-  </header>
-
-  <section id="inicio" class="relative min-h-[92svh] sm:min-h-[100svh] pt-16 sm:pt-[4.5rem] flex items-center">
-    <img src="src/g1.jpg" alt="Resultado de secado dominicano en Dominican Majestic" class="hero-photo absolute inset-0 w-full h-full object-cover"/>
-    <div class="absolute inset-0 hero-scrim"></div>
-    <div class="relative z-10 w-full max-w-6xl mx-auto px-4 sm:px-6 py-10 sm:py-16">
-      <p class="text-gold text-xs sm:text-sm tracking-[0.28em] uppercase mb-3 sm:mb-4">Salón de cabello dominicano · Pompano Beach</p>
-      <h1 class="font-serif text-[2rem] leading-tight sm:text-5xl md:text-6xl text-ivory max-w-3xl">
-        Tu cabello merece un <em class="text-gold not-italic italic font-serif">toque majestuoso.</em>
-      </h1>
-      <p class="mt-4 sm:mt-6 text-[15px] sm:text-lg text-ivory2/90 max-w-xl leading-relaxed">
-        Secado dominicano, keratina, hair Botox, color, cortes y extensiones con Mayrelis y el equipo en N Federal Hwy.
-      </p>
-      <div class="mt-7 sm:mt-8 flex flex-wrap gap-3">
-        <a id="hero-call" href="tel:+17542052953" class="btn-gold inline-flex items-center gap-2 rounded-full px-5 sm:px-6 py-3 sm:py-3.5 text-sm font-semibold tracking-wide">
-          <iconify-icon icon="lucide:phone" width="18" height="18"></iconify-icon>
-          Llamar (754) 205-2953
-        </a>
-        <a id="hero-map" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener" class="inline-flex items-center gap-2 rounded-full border border-gold/60 text-ivory px-5 sm:px-6 py-3 sm:py-3.5 text-sm font-medium hover:bg-white/5">
-          <iconify-icon icon="lucide:navigation" width="18" height="18"></iconify-icon>
-          Cómo llegar
-        </a>
-      </div>
-      <p class="mt-5 sm:mt-6 text-sm text-ivory2/70">886 N Federal Hwy, Pompano Beach, FL 33062 · 4.5 ★ en Google (185 reseñas)</p>
-    </div>
-  </section>
-
-  <section id="servicios" class="py-16 sm:py-24 border-t border-gold/15">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="text-center max-w-2xl mx-auto mb-12">
-        <p class="text-gold text-xs tracking-[0.28em] uppercase mb-3">Servicios</p>
-        <h2 class="font-serif text-3xl sm:text-4xl text-ivory">Lo que <em class="text-gold italic">mejor hacemos.</em></h2>
-        <p class="mt-4 text-ivory2/80 text-sm sm:text-base">Del menú que compartimos en Instagram y lo que nuestras clientas mencionan con más cariño. Sin precios en esta vista previa.</p>
-        <div class="gold-line h-px w-40 mx-auto mt-6"></div>
-      </div>
-      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-4 sm:gap-5">
-        
-        <div class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7">
-          <div class="text-gold mb-3"><iconify-icon icon="lucide:wind" width="26" height="26"></iconify-icon></div>
-          <h3 class="font-serif text-xl text-ivory mb-2">Secado dominicano</h3>
-          <p class="text-sm text-ivory2/75 leading-relaxed">Blowdry clásico dominicano: brillo, movimiento y acabado sedoso.</p>
-        </div>
-        <div class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7">
-          <div class="text-gold mb-3"><iconify-icon icon="lucide:sparkles" width="26" height="26"></iconify-icon></div>
-          <h3 class="font-serif text-xl text-ivory mb-2">Keratina / alisado</h3>
-          <p class="text-sm text-ivory2/75 leading-relaxed">Tratamientos de keratina para suavizar el frizz y cuidar la fibra.</p>
-        </div>
-        <div class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7">
-          <div class="text-gold mb-3"><iconify-icon icon="lucide:droplets" width="26" height="26"></iconify-icon></div>
-          <h3 class="font-serif text-xl text-ivory mb-2">Hair Botox</h3>
-          <p class="text-sm text-ivory2/75 leading-relaxed">Reparación y nutrición profunda para cabello reseco o dañado.</p>
-        </div>
-        <div class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7">
-          <div class="text-gold mb-3"><iconify-icon icon="lucide:palette" width="26" height="26"></iconify-icon></div>
-          <h3 class="font-serif text-xl text-ivory mb-2">Color</h3>
-          <p class="text-sm text-ivory2/75 leading-relaxed">Color, retoques y transformaciones con cuidado profesional.</p>
-        </div>
-        <div class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7">
-          <div class="text-gold mb-3"><iconify-icon icon="lucide:scissors" width="26" height="26"></iconify-icon></div>
-          <h3 class="font-serif text-xl text-ivory mb-2">Cortes</h3>
-          <p class="text-sm text-ivory2/75 leading-relaxed">Cortes y trims que respetan la forma y la salud de tu cabello.</p>
-        </div>
-        <div class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7">
-          <div class="text-gold mb-3"><iconify-icon icon="lucide:layers" width="26" height="26"></iconify-icon></div>
-          <h3 class="font-serif text-xl text-ivory mb-2">Extensiones</h3>
-          <p class="text-sm text-ivory2/75 leading-relaxed">Extensiones para largo y volumen, instaladas con detalle.</p>
-        </div>
-      </div>
-    </div>
-  </section>
-
-  <section id="galeria" class="py-16 sm:py-20 bg-gradient-to-b from-ink to-[#12100c]">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="flex flex-col sm:flex-row sm:items-end sm:justify-between gap-4 mb-10">
-        <div>
-          <p class="text-gold text-xs tracking-[0.28em] uppercase mb-3">Galería</p>
-          <h2 class="font-serif text-3xl sm:text-4xl text-ivory">Resultados <em class="text-gold italic">reales.</em></h2>
-        </div>
-        <p class="text-sm text-ivory2/70 max-w-sm">Fotos del salón y de clientas en Google e Instagram — sin stock.</p>
-      </div>
-      <div class="gallery grid grid-cols-2 md:grid-cols-3 gap-2.5 sm:gap-3">
-        <div class="aspect-[3/4] rounded-xl overflow-hidden"><img src="src/g2.jpg" alt="Alisado mahogany" loading="lazy"/></div>
-        <div class="aspect-[3/4] rounded-xl overflow-hidden"><img src="src/g3.jpg" alt="Ondas y color" loading="lazy"/></div>
-        <div class="aspect-[3/4] rounded-xl overflow-hidden"><img src="src/g4.jpg" alt="Cabello liso brillante" loading="lazy"/></div>
-        <div class="aspect-[4/3] sm:aspect-[3/4] rounded-xl overflow-hidden md:col-span-1"><img src="src/hero-bg.jpg" alt="Fachada del salón en Pompano Beach" loading="lazy" class="object-cover"/></div>
-        <div class="aspect-[3/4] rounded-xl overflow-hidden"><img src="src/g5.jpg" alt="Cabello saludable" loading="lazy"/></div>
-        <div class="aspect-[3/4] rounded-xl overflow-hidden"><img src="src/g6.jpg" alt="Interior del salón" loading="lazy"/></div>
-      </div>
-    </div>
-  </section>
-
-  <section id="reseñas" class="py-16 sm:py-24 border-t border-gold/15">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6">
-      <div class="text-center max-w-2xl mx-auto mb-12">
-        <p class="text-gold text-xs tracking-[0.28em] uppercase mb-3">Clientas</p>
-        <h2 class="font-serif text-3xl sm:text-4xl text-ivory">Lo que dicen <em class="text-gold italic">en Google.</em></h2>
-        <p class="mt-3 text-sm text-ivory2/70">Reseñas verificadas · 4.5 ★ · 185 opiniones</p>
-      </div>
-      <div class="grid md:grid-cols-3 gap-5">
-        
-        <figure class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7 flex flex-col">
-          <div class="flex gap-1 text-gold mb-4">★★★★★</div>
-          <blockquote class="text-sm sm:text-[15px] leading-relaxed text-ivory2/90 flex-1">“¡No puedo recomendar este salón lo suficiente! Mayrelis es increíblemente talentosa, profesional y realmente se preocupa por la salud de tu cabello, no solo porque se vea bien un día. Se toma el tiempo de explicarlo todo, da recomendaciones honestas y se asegura de que salgas feliz con el resultado.”</blockquote>
-          <figcaption class="mt-6 pt-5 border-t border-gold/15">
-            <div class="font-medium text-ivory">Diana Mejia</div>
-            <div class="text-xs text-ivory2/55 mt-1">Traducida del inglés · Google</div>
-            <a id="review-diana" href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tFNVJubFBVMGhIU0ZWZlkzWmZhbU5tYjJWTVNrRRAB!2m1!1s0x0:0xc328fcfbf19bf334!3m1!1s2@1:CAIQACodChtycF9oOkE5RnlPU0hHSFVfY3ZfamNmb2VMSkE%7C%7C?hl=en-US" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-gold mt-2 hover:underline">Ver en Google <iconify-icon icon="lucide:arrow-up-right" width="12" height="12"></iconify-icon></a>
-          </figcaption>
-        </figure>
-        <figure class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7 flex flex-col">
-          <div class="flex gap-1 text-gold mb-4">★★★★★</div>
-          <blockquote class="text-sm sm:text-[15px] leading-relaxed text-ivory2/90 flex-1">“El equipo de Dominican Majestic es cálido, atento y verdaderamente talentoso. Dan consistentemente uno de los mejores blowouts de la ciudad. ¡Julie siempre hace un trabajo increíble! Siempre salgo sintiéndome hermosa y bien cuidada.”</blockquote>
-          <figcaption class="mt-6 pt-5 border-t border-gold/15">
-            <div class="font-medium text-ivory">Dolly D</div>
-            <div class="text-xs text-ivory2/55 mt-1">Traducida del inglés · Google</div>
-            <a id="review-dolly" href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsM1JrZGtlRGhyV201dFEzRk1VMDFOTjBKM2VVRRAB!2m1!1s0x0:0xc328fcfbf19bf334!3m1!1s2@1:CAIQACodChtycF9oOll3RkdkeDhrWm5tQ3FMU01NN0J3eUE%7C%7C?hl=en-US" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-gold mt-2 hover:underline">Ver en Google <iconify-icon icon="lucide:arrow-up-right" width="12" height="12"></iconify-icon></a>
-          </figcaption>
-        </figure>
-        <figure class="card rounded-2xl bg-white/[0.03] p-6 sm:p-7 flex flex-col">
-          <div class="flex gap-1 text-gold mb-4">★★★★★</div>
-          <blockquote class="text-sm sm:text-[15px] leading-relaxed text-ivory2/90 flex-1">“Llevo más de 2 años viniendo a este salón. Me he hecho blow outs, hair Botox y cortes, y he amado cada servicio. He recomendado a tantos familiares y amigos a Mayrelis. Es tan dulce y tan talentosa.”</blockquote>
-          <figcaption class="mt-6 pt-5 border-t border-gold/15">
-            <div class="font-medium text-ivory">Samantha Sanchez</div>
-            <div class="text-xs text-ivory2/55 mt-1">Traducida del inglés · Google</div>
-            <a id="review-samantha" href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xNVlrMTJURVpKTmt3elFqSXpVMVZDYlc5WFJVRRAB!2m1!1s0x0:0xc328fcfbf19bf334!3m1!1s2@1:CAIQACodChtycF9oOm15Yk12TEZJNkwzQjIzU1VCbW9XRUE%7C%7C?hl=en-US" target="_blank" rel="noopener" class="inline-flex items-center gap-1.5 text-xs text-gold mt-2 hover:underline">Ver en Google <iconify-icon icon="lucide:arrow-up-right" width="12" height="12"></iconify-icon></a>
-          </figcaption>
-        </figure>
-      </div>
-    </div>
-  </section>
-
-  <section id="visita" class="py-16 sm:py-24 bg-[#0e0c09] border-t border-gold/15">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 grid lg:grid-cols-2 gap-10 lg:gap-14 items-start">
+<header class="nav">
+  <div class="wrap in">
+    <a class="brand" href="#inicio">
+      <img src="src/logo.jpg" alt="Dominican Majestic Beauty Salon"/>
       <div>
-        <p class="text-gold text-xs tracking-[0.28em] uppercase mb-3">Visítanos</p>
-        <h2 class="font-serif text-3xl sm:text-4xl text-ivory mb-4">Te <em class="text-gold italic">esperamos.</em></h2>
-        <p class="text-ivory2/80 text-sm sm:text-base leading-relaxed mb-8">Llama para reservar o pasa por el salón. Citas recomendadas para evitar espera.</p>
-        <div class="space-y-5 text-sm">
-          <div class="flex gap-3">
-            <iconify-icon icon="lucide:map-pin" class="text-gold mt-0.5" width="18" height="18"></iconify-icon>
-            <div>
-              <div class="text-ivory font-medium">Dirección</div>
-              <div class="text-ivory2/75">886 N Federal Hwy<br/>Pompano Beach, FL 33062</div>
-            </div>
-          </div>
-          <div class="flex gap-3">
-            <iconify-icon icon="lucide:phone" class="text-gold mt-0.5" width="18" height="18"></iconify-icon>
-            <div>
-              <div class="text-ivory font-medium">Teléfono</div>
-              <a id="visit-call" href="tel:+17542052953" class="text-gold hover:underline">(754) 205-2953</a>
-            </div>
-          </div>
-          <div class="flex gap-3">
-            <iconify-icon icon="lucide:clock" class="text-gold mt-0.5" width="18" height="18"></iconify-icon>
-            <div class="w-full">
-              <div class="text-ivory font-medium mb-2">Horario</div>
-              <ul class="text-ivory2/75 space-y-1.5">
-                <li class="flex justify-between gap-4 border-b border-white/5 pb-1.5"><span>Lunes</span><span>10 AM – 5 PM</span></li>
-                <li class="flex justify-between gap-4 border-b border-white/5 pb-1.5"><span>Martes</span><span>9 AM – 6 PM</span></li>
-                <li class="flex justify-between gap-4 border-b border-white/5 pb-1.5"><span>Miércoles</span><span>9 AM – 6 PM</span></li>
-                <li class="flex justify-between gap-4 border-b border-white/5 pb-1.5"><span>Jueves</span><span>9 AM – 6 PM</span></li>
-                <li class="flex justify-between gap-4 border-b border-white/5 pb-1.5"><span>Viernes</span><span>9 AM – 6 PM</span></li>
-                <li class="flex justify-between gap-4 border-b border-white/5 pb-1.5"><span>Sábado</span><span>9 AM – 6 PM</span></li>
-                <li class="flex justify-between gap-4"><span>Domingo</span><span>Cerrado</span></li>
-              </ul>
-            </div>
-          </div>
+        <div class="name">Dominican Majestic</div>
+        <div class="tag">Beauty Salon</div>
+      </div>
+    </a>
+    <nav class="nav-links">
+      <a href="#servicios">Servicios</a>
+      <a href="#resultados">Resultados</a>
+      <a href="#reseñas">Reseñas</a>
+      <a href="#visita">Visítanos</a>
+      <a class="btn btn-gold" style="min-height:42px;padding:0 18px;font-size:12px" href="tel:+17542052953">
+        <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+        Llamar
+      </a>
+    </nav>
+  </div>
+</header>
+
+<main id="inicio">
+  <section class="hero">
+    <div class="wrap hero-grid">
+      <div class="hero-copy">
+        <div class="eyebrow">Salón de cabello dominicano · Pompano Beach</div>
+        <h1>Secados dominicanos que <em>brillan de verdad.</em></h1>
+        <p class="lead">Mayrelis y su equipo cuidan tu cabello con keratina, hair Botox, color, cortes y extensiones — para que salgas sintiéndote majestuosa.</p>
+        <div class="hero-cta">
+          <a class="btn btn-gold" href="tel:+17542052953">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            Llamar ahora
+          </a>
+          <a class="btn btn-outline" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+            Cómo llegar
+          </a>
         </div>
-        <div class="mt-8 flex flex-wrap gap-3">
-          <a id="visit-call-btn" href="tel:+17542052953" class="btn-gold inline-flex items-center gap-2 rounded-full px-6 py-3 text-sm font-semibold">
-            <iconify-icon icon="lucide:phone" width="16" height="16"></iconify-icon> Llamar ahora
-          </a>
-          <a id="visit-map-btn" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener" class="inline-flex items-center gap-2 rounded-full border border-gold/50 text-gold px-6 py-3 text-sm font-medium hover:bg-gold/10">
-            <iconify-icon icon="lucide:map" width="16" height="16"></iconify-icon> Abrir en Maps
-          </a>
+        <div class="trust-row">
+          <div class="trust-pill"><span class="stars">★★★★★</span> 4.5 · 185 reseñas en Google</div>
+          <div class="trust-pill">Pompano Beach, FL</div>
         </div>
       </div>
-      <div class="rounded-2xl overflow-hidden border border-gold/25 bg-black/40 aspect-[4/3] sm:aspect-[5/4] relative">
-        <img src="src/hero-bg.jpg" alt="Ubicación del salón" class="absolute inset-0 w-full h-full object-cover opacity-90"/>
-        <div class="absolute inset-0 bg-gradient-to-t from-ink via-ink/40 to-transparent"></div>
-        <div class="absolute bottom-0 left-0 right-0 p-5 sm:p-6">
-          <div class="font-serif text-xl text-ivory">Pompano Beach</div>
-          <div class="text-sm text-ivory2/80 mt-1">886 N Federal Hwy · FL 33062</div>
-          <a id="map-card-link" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener" class="inline-flex mt-4 items-center gap-2 text-sm text-gold font-medium hover:underline">
-            Ver en Google Maps <iconify-icon icon="lucide:arrow-up-right" width="14" height="14"></iconify-icon>
-          </a>
+      <div class="hero-visual">
+        <div class="collage" aria-hidden="false">
+          <div class="main"><img src="src/g4.jpg" alt="Cabello liso brillante — resultado en Dominican Majestic" fetchpriority="high"/></div>
+          <div class="top"><img src="src/g3.jpg" alt="Ondas volumosas — resultado real del salón"/></div>
+          <div class="bot"><img src="src/mayrelis.jpg" alt="Mayrelis, estilista de Dominican Majestic"/></div>
         </div>
       </div>
     </div>
   </section>
 
-  <footer class="border-t border-gold/20 py-10">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
-      <div class="flex items-center gap-3">
-        <img src="src/logo.jpg" alt="" class="h-10 w-10 rounded-full object-cover border border-gold/30"/>
-        <div>
-          <div class="font-serif text-gold">Dominican Majestic Beauty Salon</div>
-          <div class="text-xs text-ivory2/60">Diseño de vista previa · no publicado</div>
-        </div>
+  <div class="strip">
+    <div class="wrap in">
+      <span><strong>★ 4.5</strong> en Google</span>
+      <span><strong>185</strong> reseñas de clientas</span>
+      <span><strong>Secado dominicano</strong> · keratina · Botox</span>
+      <span><strong>886 N Federal Hwy</strong></span>
+    </div>
+  </div>
+
+  <section id="servicios">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <div class="cap">Servicios</div>
+        <h2>Lo que <em>mejor hacemos.</em></h2>
+        <p>Del menú que compartimos en Instagram y lo que nuestras clientas mencionan con más cariño.</p>
+        <div class="gold-line"></div>
       </div>
-      <div class="flex gap-4 text-sm">
-        <a id="footer-ig" href="https://www.instagram.com/domajesticbeautysalon/" target="_blank" rel="noopener" class="text-ivory2/70 hover:text-gold">Instagram</a>
-        <a id="footer-fb" href="https://www.facebook.com/people/Dominican-Majestic-Beauty-Salon/100057338504152/" target="_blank" rel="noopener" class="text-ivory2/70 hover:text-gold">Facebook</a>
-        <a id="footer-call" href="tel:+17542052953" class="text-ivory2/70 hover:text-gold">Llamar</a>
+      <div class="svc-grid">
+        <article class="svc rv">
+          <div class="ph"><img src="src/g4.jpg" alt="Secado dominicano" loading="lazy"/></div>
+          <div class="body">
+            <h3>Secado dominicano</h3>
+            <p>Blowdry clásico: brillo, movimiento y acabado sedoso que dura.</p>
+          </div>
+        </article>
+        <article class="svc rv">
+          <div class="ph"><img src="src/g2.jpg" alt="Keratina" loading="lazy"/></div>
+          <div class="body">
+            <h3>Keratina / alisado</h3>
+            <p>Tratamientos para suavizar el frizz y cuidar la fibra del cabello.</p>
+          </div>
+        </article>
+        <article class="svc rv">
+          <div class="ph"><img src="src/g3.jpg" alt="Hair Botox" loading="lazy"/></div>
+          <div class="body">
+            <h3>Hair Botox</h3>
+            <p>Reparación y nutrición profunda para cabello reseco o dañado.</p>
+          </div>
+        </article>
+        <article class="svc rv">
+          <div class="ph"><img src="src/g6.jpg" alt="Color" loading="lazy" style="object-position:center 28%"/></div>
+          <div class="body">
+            <h3>Color</h3>
+            <p>Color, retoques y transformaciones con cuidado profesional.</p>
+          </div>
+        </article>
+        <article class="svc rv">
+          <div class="ph"><img src="src/mayrelis.jpg" alt="Cortes" loading="lazy"/></div>
+          <div class="body">
+            <h3>Cortes</h3>
+            <p>Cortes y trims que respetan la forma y la salud de tu cabello.</p>
+          </div>
+        </article>
+        <article class="svc rv">
+          <div class="ph"><img src="src/g1.jpg" alt="Extensiones" loading="lazy"/></div>
+          <div class="body">
+            <h3>Extensiones</h3>
+            <p>Extensiones para largo y volumen, instaladas con detalle.</p>
+          </div>
+        </article>
       </div>
     </div>
-  </footer>
+  </section>
 
-  <div class="fixed bottom-0 inset-x-0 z-40 sm:hidden bg-ink/95 backdrop-blur-md border-t border-gold/25 px-3 py-2.5 pb-[max(0.65rem,env(safe-area-inset-bottom))] flex gap-2">
-    <a id="mbar-call" href="tel:+17542052953" class="btn-gold flex-1 inline-flex items-center justify-center gap-2 rounded-full py-3 text-sm font-semibold">
-      <iconify-icon icon="lucide:phone" width="16" height="16"></iconify-icon> Llamar
-    </a>
-    <a id="mbar-map" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener" class="flex-1 inline-flex items-center justify-center gap-2 rounded-full border border-gold/50 text-gold py-3 text-sm font-medium">
-      <iconify-icon icon="lucide:map-pin" width="16" height="16"></iconify-icon> Maps
-    </a>
+  <section id="resultados" style="background:var(--cream2);border-y:1px solid var(--line)">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <div class="cap">Resultados</div>
+        <h2>Trabajo <em>real</em> del salón.</h2>
+        <p>Fotos de clientas e Instagram — sin imágenes de stock.</p>
+        <div class="gold-line"></div>
+      </div>
+      <div class="gal">
+        <figure class="rv"><img src="src/g4.jpg" alt="Alisado brillante" loading="lazy"/></figure>
+        <figure class="rv"><img src="src/g3.jpg" alt="Ondas volumosas" loading="lazy"/></figure>
+        <figure class="rv"><img src="src/g6.jpg" alt="Interior del salón" loading="lazy" style="object-position:center 30%"/></figure>
+        <figure class="rv"><img src="src/g1.jpg" alt="Rizos definidos" loading="lazy"/></figure>
+        <figure class="rv"><img src="src/mayrelis.jpg" alt="Mayrelis en el salón" loading="lazy"/></figure>
+        <figure class="rv span2"><img src="src/hero-bg.jpg" alt="Fachada de Dominican Majestic en Pompano Beach" loading="lazy"/></figure>
+      </div>
+    </div>
+  </section>
+
+  <section id="por-que">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <div class="cap">Por qué nos eligen</div>
+        <h2>Más que un <em>blowout.</em></h2>
+        <p>Clientas que vuelven — y traen a su familia.</p>
+        <div class="gold-line"></div>
+      </div>
+      <div class="ben">
+        <div class="card rv">
+          <div class="num">01</div>
+          <h3>Cuidado real</h3>
+          <p>Mayrelis prioriza la salud de tu cabello, no solo el look del día.</p>
+        </div>
+        <div class="card rv">
+          <div class="num">02</div>
+          <h3>Técnica dominicana</h3>
+          <p>Secados y tratamientos con la técnica que las clientas buscan.</p>
+        </div>
+        <div class="card rv">
+          <div class="num">03</div>
+          <h3>Ambiente cálido</h3>
+          <p>Un salón cercano donde te sientes en casa desde que entras.</p>
+        </div>
+        <div class="card rv">
+          <div class="num">04</div>
+          <h3>Resultados que duran</h3>
+          <p>Brillo y movimiento pensados para verse bien varios días.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section id="reseñas" style="background:var(--cream2);border-y:1px solid var(--line)">
+    <div class="wrap">
+      <div class="sec-head rv">
+        <div class="cap">Clientas</div>
+        <h2>Lo que dicen <em>en Google.</em></h2>
+        <p>Reseñas verificadas · 4.5 ★ · 185 opiniones</p>
+        <div class="gold-line"></div>
+      </div>
+      <div class="rg">
+        <figure class="rc rv">
+          <div class="stars">★★★★★</div>
+          <q>¡No puedo recomendar este salón lo suficiente! Mayrelis es increíblemente talentosa, profesional y realmente se preocupa por la salud de tu cabello, no solo porque se vea bien un día.</q>
+          <figcaption class="who">
+            <b>Diana Mejia</b>
+            <small>Traducida del inglés · Google</small>
+            <a href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tFNVJubFBVMGhIU0ZWZlkzWmZhbU5tYjJWTVNrRRAB!2m1!1s0x0:0xc328fcfbf19bf334!3m1!1s2@1:CAIQACodChtycF9oOkE5RnlPU0hHSFVfY3ZfamNmb2VMSkE%7C%7C?hl=en-US" target="_blank" rel="noopener">Ver en Google →</a>
+          </figcaption>
+        </figure>
+        <figure class="rc rv">
+          <div class="stars">★★★★★</div>
+          <q>El equipo de Dominican Majestic es cálido, atento y verdaderamente talentoso. Dan consistentemente uno de los mejores blowouts de la ciudad. ¡Julie siempre hace un trabajo increíble!</q>
+          <figcaption class="who">
+            <b>Dolly D</b>
+            <small>Traducida del inglés · Google</small>
+            <a href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2xsM1JrZGtlRGhyV201dFEzRk1VMDFOTjBKM2VVRRAB!2m1!1s0x0:0xc328fcfbf19bf334!3m1!1s2@1:CAIQACodChtycF9oOll3RkdkeDhrWm5tQ3FMU01NN0J3eUE%7C%7C?hl=en-US" target="_blank" rel="noopener">Ver en Google →</a>
+          </figcaption>
+        </figure>
+        <figure class="rc rv">
+          <div class="stars">★★★★★</div>
+          <q>Llevo más de 2 años viniendo a este salón. Me he hecho blow outs, hair Botox y cortes, y he amado cada servicio. He recomendado a tantos familiares y amigos a Mayrelis.</q>
+          <figcaption class="who">
+            <b>Samantha Sanchez</b>
+            <small>Traducida del inglés · Google</small>
+            <a href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT20xNVlrMTJURVpKTmt3elFqSXpVMVZDYlc5WFJVRRAB!2m1!1s0x0:0xc328fcfbf19bf334!3m1!1s2@1:CAIQACodChtycF9oOm15Yk12TEZJNkwzQjIzU1VCbW9XRUE%7C%7C?hl=en-US" target="_blank" rel="noopener">Ver en Google →</a>
+          </figcaption>
+        </figure>
+      </div>
+    </div>
+  </section>
+
+  <div class="cta-band">
+    <div class="wrap">
+      <div class="cap">Tu turno</div>
+      <h2>Lista para un <em>toque majestuoso?</em></h2>
+      <p>Llama para reservar o pásate por el salón. Las citas se recomiendan para evitar espera.</p>
+      <div class="btns">
+        <a class="btn btn-gold" href="tel:+17542052953">Llamar (754) 205-2953</a>
+        <a class="btn btn-outline" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener">Cómo llegar</a>
+      </div>
+    </div>
   </div>
-  <div class="h-20 sm:hidden" aria-hidden="true"></div>
+
+  <section id="visita">
+    <div class="wrap visit-grid">
+      <div class="rv">
+        <div class="cap">Visítanos</div>
+        <h2 class="serif" style="font-size:clamp(32px,4vw,46px);font-weight:400;line-height:1.08;margin:10px 0 12px">Te <em style="font-style:italic;color:var(--gold-deep)">esperamos.</em></h2>
+        <p style="color:var(--mut);font-size:16px;max-width:40ch">886 N Federal Hwy, Pompano Beach, FL 33062. Llama antes o ven cuando te quede cerca.</p>
+        <div class="visit-meta">
+          <div class="row">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+            <div><strong>Dirección</strong><br/>886 N Federal Hwy<br/>Pompano Beach, FL 33062</div>
+          </div>
+          <div class="row">
+            <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+            <div><strong>Teléfono</strong><br/><a href="tel:+17542052953" style="color:var(--gold-deep);font-weight:600">(754) 205-2953</a></div>
+          </div>
+        </div>
+        <ul class="hours">
+          <li><span class="d">Lunes</span><span class="t">10 AM – 5 PM</span></li>
+          <li><span class="d">Martes</span><span class="t">9 AM – 6 PM</span></li>
+          <li><span class="d">Miércoles</span><span class="t">9 AM – 6 PM</span></li>
+          <li><span class="d">Jueves</span><span class="t">9 AM – 6 PM</span></li>
+          <li><span class="d">Viernes</span><span class="t">9 AM – 6 PM</span></li>
+          <li><span class="d">Sábado</span><span class="t">9 AM – 6 PM</span></li>
+          <li><span class="d">Domingo</span><span class="t">Cerrado</span></li>
+        </ul>
+        <div style="display:flex;flex-wrap:wrap;gap:10px;margin-top:24px">
+          <a class="btn btn-gold" href="tel:+17542052953">Llamar ahora</a>
+          <a class="btn btn-ghost" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener">Abrir en Maps</a>
+        </div>
+      </div>
+      <div class="map-card rv">
+        <iframe title="Mapa de Dominican Majestic" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://maps.google.com/maps?q=886%20N%20Federal%20Hwy%2C%20Pompano%20Beach%2C%20FL%2033062&z=15&output=embed"></iframe>
+        <div class="store"><img src="src/hero-bg.jpg" alt="Fachada de Dominican Majestic Beauty Salon" loading="lazy"/></div>
+        <div class="cap-bar">
+          <div>
+            <b>Pompano Beach</b>
+            <span>886 N Federal Hwy · FL 33062</span>
+          </div>
+          <a href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener" style="font-size:13px;font-weight:600;color:var(--gold-deep);white-space:nowrap">Ver mapa →</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap in">
+    <div class="left">
+      <img src="src/logo.jpg" alt=""/>
+      <div>
+        <b>Dominican Majestic Beauty Salon</b>
+        <span>Vista previa · no publicada</span>
+      </div>
+    </div>
+    <div class="links">
+      <a href="https://www.instagram.com/domajesticbeautysalon/" target="_blank" rel="noopener">Instagram</a>
+      <a href="https://www.facebook.com/people/Dominican-Majestic-Beauty-Salon/100057338504152/" target="_blank" rel="noopener">Facebook</a>
+      <a href="tel:+17542052953">Llamar</a>
+    </div>
+  </div>
+</footer>
+
+<div class="mbar" id="mbar">
+  <a class="p" href="tel:+17542052953">
+    <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>
+    Llamar
+  </a>
+  <a class="s" href="https://www.google.com/maps/place/?q=place_id:ChIJj1-_F58C2YgRNPOb8fv8KMM" target="_blank" rel="noopener">
+    <svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>
+    Cómo llegar
+  </a>
 </div>
+
+<script>
+(function(){
+  var els=document.querySelectorAll('.rv');
+  if(!('IntersectionObserver' in window)){els.forEach(function(e){e.classList.add('in')});return}
+  var io=new IntersectionObserver(function(entries){
+    entries.forEach(function(en){if(en.isIntersecting){en.target.classList.add('in');io.unobserve(en.target)}})
+  },{threshold:.12,rootMargin:'0px 0px -40px 0px'});
+  els.forEach(function(e){io.observe(e)});
+})();
+</script>
 </body>
 </html>
