@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Christine",
+   "rating": 5,
+   "text": "Daniella knew the assignment and ACED it. My hair is not the friendliest to deal with and she managed perfectly and made my dried damaged hair look so nice and healthy and gave me a trim. I love it! Very professional with measuring the keratin and showing you so you'll feel comfortable with not feeling ripped off. I love this salon. Everyone is so welcoming and good with their works. I can't find a better place for my haircare/self care.\nThankbyou so much Daniella!!!! I love you🥰😭💞",
+   "reviewer": "Christine",
+   "date": "2026-10-20T11:20:16.227Z",
+   "lang": "en",
+   "file": "rev/fa.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJrfCyun-s2YgRNyaKkZLZokc"
+  },
+  {
+   "first": "Shanel",
+   "rating": 5,
+   "text": "This salon is such a vibe! I came in for hair botox and they were very transparent with the pricing, and they even offered Sangria which was so good. All the ladies that work there are so kind and welcoming especially for it being my first time! My hair is bone straight! which is exactly what I wanted. I would definitely love to come back and recommend to anyone who is looking for a Dominican based salon come here",
+   "reviewer": "Shanel",
+   "date": "2026-10-17T17:26:26.396Z",
+   "lang": "en",
+   "file": "rev/fa.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJrfCyun-s2YgRNyaKkZLZokc"
+  },
+  {
+   "first": "Paula",
+   "rating": 5,
+   "text": "I had such a wonderful experience at this salon! It was my first time visiting, and I felt welcomed and comfortable from the moment I walked in until the moment I left. Marisol and Ana were both so kind, friendly, and attentive, and they made the whole experience even more special.\n\nThis was also my first time getting my hair colored, and I absolutely loved the result! They did an amazing job, and I couldn’t be happier with how my hair turned out.\n\nI will definitely be coming back! Thank you so much, Marisol and Ana, for making my first visit such a great experience. I highly recommend this salon!",
+   "reviewer": "Paula Figueroa",
+   "date": "2026-09-11T16:56:29.847Z",
+   "lang": "en",
+   "file": "rev/fa.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJrfCyun-s2YgRNyaKkZLZokc"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJrfCyun-s2YgRNyaKkZLZokc",
+ "toggle": true,
+ "toggle_evidence": "Business name Dominican; Booksy; FB bilingual; outreach ES.",
+ "services_source": "https://booksy.com/en-us/524907_famous-dominican-international-hair-salon_hair-salon_119743_hallandale-beach"
+}
