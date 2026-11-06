@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Jennifer",
+   "rating": 5,
+   "text": "Got a gel pedicure from Victoria it was really nice and she is a vibe and fun to talk to and my nails look great",
+   "reviewer": "Jennifer Ann",
+   "date": "2026-10-15T16:12:02.930Z",
+   "lang": "en",
+   "file": "rev/bl.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJkV_ka95G3YgREjJonpXx7PM"
+  },
+  {
+   "first": "Melinda",
+   "rating": 5,
+   "text": "I had to go 2 different days,but it was worth it. My first day I sat in Mallory's seat and said I want it short. Can you please give me something easy to take care of. OMG she did and she showed me 2 awesome ways to do my hair. Then I went back to get my hair colored and all I said was its summer and she new exactly what I wanted.Thank you so much for giving me exactly what I wanted",
+   "reviewer": "Melinda Anderson",
+   "date": "2020-07-21T18:38:01.883Z",
+   "lang": "en",
+   "file": "rev/bl.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJkV_ka95G3YgREjJonpXx7PM"
+  },
+  {
+   "first": "Elaine",
+   "rating": 5,
+   "text": "After being disappointed with my last cut I decided to go to Blondie's. I am so happy I did! Mallory washed and cut my long, thinning hair. She is very nice and friendly. I absolutely love the cut/style and enjoyed talking with her. She really made me feel comfortable and confident with the change. I will definitely go back again! Thanks Mallory!!",
+   "reviewer": "Elaine Pickering",
+   "date": "2023-03-03T00:52:10.626Z",
+   "lang": "en",
+   "file": "rev/bl.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJkV_ka95G3YgREjJonpXx7PM"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJkV_ka95G3YgREjJonpXx7PM",
+ "toggle": false,
+ "toggle_evidence": "English site/Maps; no ES evidence.",
+ "services_source": "https://www.blondieshairsalonlakeland.com/ + Booksy"
+}
