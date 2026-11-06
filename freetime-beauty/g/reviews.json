@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Nadya",
+   "rating": 5,
+   "text": "Fernando cut my hair today, and for the first time, I felt like someone really knew what they were doing. Without much explanation, he knew exactly what was needed. It’s been years since I’ve been this happy with a haircut. Thank you so much, Fernando—you’re the best! Also the lady in the front desk was extremely nice and gentle!",
+   "reviewer": "Nadya",
+   "date": "2026-09-19T23:26:15.935Z",
+   "lang": "en",
+   "file": "rev/ft.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJnbOIsaK32YgRpLuGMoEUfes"
+  },
+  {
+   "first": "Juliana",
+   "rating": 5,
+   "text": "I love this salon so much! It feel like home! All professionals are amazing, very friendly and always caring for your needs. Ive been doing my hair with them for over a year. Love them!",
+   "reviewer": "Juliana Drolhe",
+   "date": "2026-08-22T23:08:12.192Z",
+   "lang": "en",
+   "file": "rev/ft.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJnbOIsaK32YgRpLuGMoEUfes"
+  },
+  {
+   "first": "Vanessa",
+   "rating": 5,
+   "text": "I can’t say enough good things about this salon. From the moment you walk in, the staff makes you feel genuinely welcomed and taken care of. The environment is so warm, positive, and family-friendly it just puts you at ease right away.\n\nKarla is absolutely amazing. She really listens, pays attention to the details, and makes sure you leave feeling confident and looking your best. You can tell she truly cares about her clients.\n\nEvery visit feels like a little reset, and I always walk out feeling refreshed and put together. Highly recommend to anyone looking for great service.",
+   "reviewer": "Vanessa Sauceda",
+   "date": "2026-05-05T14:36:41.456Z",
+   "lang": "en",
+   "file": "rev/ft.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJnbOIsaK32YgRpLuGMoEUfes"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJnbOIsaK32YgRpLuGMoEUfes",
+ "toggle": false,
+ "toggle_evidence": "Wix shows EN/IT/ES/FR flags and IG bio links ?lang=es, but own pages are still the stuck SELECT LANGUAGE placeholder with no Spanish body copy — EN only.",
+ "services_source": "Instagram @freetime_beautysalon + Google reviews (own site is Wix placeholder)"
+}
