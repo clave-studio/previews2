@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Melissa",
+   "rating": 5,
+   "text": "I had such a great experience with Yole! She did an amazing blowout on my hair. I was going in to have pictures taken, so I really wanted my hair to look good, and she absolutely delivered. This was my first time booking here, and I was so happy with how she left my hair. It looked beautiful and held up perfectly for my pictures. I’ll definitely be coming back to see Yole again! ❤️",
+   "reviewer": "Melissa Santana",
+   "date": "2026-09-18T21:37:58.424Z",
+   "lang": "en",
+   "file": "rev/em.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJEw57OzsH2YgRVuXASxZ-nGQ"
+  },
+  {
+   "first": "Vanessa",
+   "rating": 5,
+   "text": "I visited this Dominican hair salon for the first time while traveling from out of town, and I’m so glad they were open during the holiday weekend. The staff was wonderful, and Marisol, the stylist, was not only friendly but also warm and welcoming. I was in a rush, and she took care of me right away. I’ll definitely be coming back the next time I’m in town and will be recommending this place to my local family and friends!",
+   "reviewer": "Vanessa Martinez",
+   "date": "2025-05-26T19:06:29.264Z",
+   "lang": "en",
+   "file": "rev/em.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJEw57OzsH2YgRVuXASxZ-nGQ"
+  },
+  {
+   "first": "Karen",
+   "rating": 5,
+   "text": "Martha is a true stylist! I only trust her with my hair, and every single appointment exceeds my expectations. I’m visiting from New York and came to Martha knowing she would execute the exact haircut I wanted—and she absolutely delivered. I included before and after photos. I did the color myself, but everything else was all her!\nI truly can’t rave enough about her talent and the skill she brings to her work. What makes her even more special is that she works with her heart—she’s not only an amazing stylist, but a genuinely wonderful person.",
+   "reviewer": "Karen Sene",
+   "date": "2026-03-02T15:34:43.576Z",
+   "lang": "en",
+   "file": "rev/em.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJEw57OzsH2YgRVuXASxZ-nGQ"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJEw57OzsH2YgRVuXASxZ-nGQ",
+ "toggle": true,
+ "toggle_evidence": "Dominican salon; Maps/FB Spanish name; Booksy; outreach ES preferred.",
+ "services_source": "https://booksy.com/en-us/573445_dominican-salon-nail-el-mundo-del-pelo_other_15643_fort-lauderdale"
+}
