@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Maria",
+   "rating": 5,
+   "text": "I had a wonderful experience today with Christian. I needed a little color correction. He made up his own formula for me and got the exact results I wanted.\n\nI have hair that naturally pulls red and goes brassy easily. But he was able to cool down those orange tones to give me the perfect chocolate brown I was after.\n\nNot to mention the stellar haircut and fabulous blow dry.\n\nI also appreciate that I didn’t walk out with any dye (AT ALL) on my face, temples or hairline.\n\nI’ll definitely be back! Thank you, Christian!",
+   "reviewer": "Maria Sky",
+   "date": "2025-09-19T22:20:28.461Z",
+   "lang": "en",
+   "file": "rev/ti.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ4R9NfCCx2YgRxvjoVtfDFrU"
+  },
+  {
+   "first": "Julia",
+   "rating": 5,
+   "text": "I can't recommend That's It! Hair Salon enough. If you're looking for someone you can truly trust with your hair, Christian is it. I gave him zero instructions and walked out with the best color of my life. I was going from brown back to blonde, which is no small feat, and he absolutely nailed it-- effortless, dimensional, and exactly right.\n\nChristian is insanely talented and has such a good eye-- you can tell he has a deep understanding of color and balance. His assistant Nicki is also wonderful-- so kind, attentive, and genuinely makes you feel at home the entire time. And the scalp and neck massage during the hair was? Unreal. Like, spa-level good!\n\nThis place is a gem.",
+   "reviewer": "Julia Grossman",
+   "date": "2025-12-12T13:51:43.205Z",
+   "lang": "en",
+   "file": "rev/ti.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ4R9NfCCx2YgRxvjoVtfDFrU"
+  },
+  {
+   "first": "Sharon",
+   "rating": 5,
+   "text": "Excellent!!! Speechless, I’m in awe with my new look. Christian is the best!!! I’m in love with my hair. With one picture he knew exactly what to do. The staff is very friendly and everything is just perfect.",
+   "reviewer": "Sharon Cruz",
+   "date": "2023-04-09T00:48:43.115Z",
+   "lang": "en",
+   "file": "rev/ti.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ4R9NfCCx2YgRxvjoVtfDFrU"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJ4R9NfCCx2YgRxvjoVtfDFrU",
+ "toggle": false,
+ "toggle_evidence": "English Maps/FB; parked domain; no ES evidence.",
+ "services_source": "Google Maps listing + client reviews (own domain parked)"
+}
