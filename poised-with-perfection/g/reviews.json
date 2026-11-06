@@ -1,0 +1,38 @@
+{
+ "reviews": [
+  {
+   "first": "Brian",
+   "rating": 5,
+   "text": "Such a great experience everytime. Best stylist team in town. The atmosphere is so refreshing, welcoming and positive. Definitely recommend choosing Poised Salon Lounge as your go to.",
+   "reviewer": "Brian Pierre",
+   "date": "2024-02-23T17:39:49.919Z",
+   "lang": "en",
+   "file": "rev/pw.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_5DqqQYH2YgRVoFaV2Jh8HI"
+  },
+  {
+   "first": "Vikki",
+   "rating": 5,
+   "text": "The salon is so clean and nice, which was one of the first things I noticed when I came in. They offer a lot of different services like hair and nails. They even have snacks if you get hungry which is a really cute touch. Diamond and her daughter are so friendly and are very neat with their work. I appreciated how neat my parts were and my hair looks so cute, thank you!",
+   "reviewer": "Vikki L",
+   "date": "2022-03-28T21:44:55.140Z",
+   "lang": "en",
+   "file": "rev/pw.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_5DqqQYH2YgRVoFaV2Jh8HI"
+  },
+  {
+   "first": "Willina",
+   "rating": 5,
+   "text": "Very Welcoming. I came in for a silk Press, 2 years without straightening my hair and Ms Diamond left me looking flawlesssss! She was so gentle with my hair and they treated me with such kindness and respect. I’m definitely coming back!",
+   "reviewer": "Willina Rodriguez",
+   "date": "2022-09-22T16:51:44.206Z",
+   "lang": "en",
+   "file": "rev/pw.json",
+   "source": "https://www.google.com/maps/place/?q=place_id:ChIJ_5DqqQYH2YgRVoFaV2Jh8HI"
+  }
+ ],
+ "maps_listing": "https://www.google.com/maps/place/?q=place_id:ChIJ_5DqqQYH2YgRVoFaV2Jh8HI",
+ "toggle": false,
+ "toggle_evidence": "EN site/Maps; no ES body copy verified (site down).",
+ "services_source": "Google Maps listing + client reviews (own site errors/500)"
+}
