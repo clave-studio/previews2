@@ -1,228 +1,160 @@
 <!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Annaz Hair Studio · Greenacres, FL</title>
-<meta name="description" content="Silk presses, color, cuts and treatments at Annaz Hair Studio on W Broward Blvd in Plantation.">
-<meta name="theme-color" content="#f6f1ea">
-<meta property="og:title" content="Annaz Hair Studio · Greenacres, FL">
-<meta property="og:description" content="Silk presses, color, cuts and treatments on W Broward Blvd in Plantation.">
-<meta property="og:image" content="hero-desktop.jpg">
-<link rel="preload" as="image" href="hero-desktop.jpg" media="(min-width:768px)">
-<link rel="preload" as="image" href="hero-mobile.jpg" media="(max-width:767px)">
+<title>Annaz Hair Studio · Greenacres, FL</title><meta name="description" content="Precision cuts, dimensional color, highlights, balayage and blowouts on Lake Worth Rd in Greenacres. Appointments recommended."><meta name="theme-color" content="#F8F3EC"><meta name="robots" content="noindex">
+<meta property="og:title" content="Annaz Hair Studio · Greenacres, FL"><meta property="og:description" content="Precision cuts, dimensional color and blowouts on Lake Worth Rd — for over 16 years."><meta property="og:image" content="hero-desktop.jpg">
+<link rel="preload" as="image" href="hero-desktop.jpg" media="(min-width:768px)"><link rel="preload" as="image" href="hero-mobile.jpg" media="(max-width:767px)">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400;1,9..144,500&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
-:root{--a:#8B4A6B;--ink:#1a1410;--bg:#f6f1ea;--card:#fffaf4;--mut:#6f655d;--line:rgba(26,20,16,.1)}
-*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font:400 17px/1.6 Outfit,system-ui,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
-img{max-width:100%;display:block}a{color:inherit}.serif,h1,h2,h3{font-family:Fraunces,Georgia,serif;font-weight:400;letter-spacing:-.02em;text-wrap:balance}
-.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
-.ic{width:24px;height:24px}
-.btn{display:inline-flex;align-items:center;gap:10px;padding:16px 26px;border-radius:999px;font-weight:500;text-decoration:none;transition:transform .25s,background .25s,box-shadow .25s;white-space:nowrap}
-.btn .ic{width:18px;height:18px}.btn-p{background:var(--a);color:#fff;box-shadow:0 10px 30px -10px var(--a)}.btn-p:hover{transform:translateY(-2px)}
-.btn-g{border:1.5px solid rgba(26,20,16,.18);color:var(--ink);background:#fff}.btn-g:hover{background:var(--card)}
-.btn-o{border:1px solid var(--line);background:#fff}
-/* solid cream nav */
-.nav{position:fixed;inset:0 0 auto;z-index:40;background:rgba(246,241,234,.97);backdrop-filter:blur(12px);color:var(--ink);box-shadow:0 1px 0 var(--line)}
-.nav .wrap{height:68px;display:flex;align-items:center;justify-content:space-between;gap:12px}
-.brand{font-family:Fraunces,serif;font-size:20px;text-decoration:none;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
-.nav nav{display:flex;gap:28px;font-size:15px}.nav nav a{text-decoration:none;opacity:.8}.nav nav a:hover{opacity:1}
-.nav .btn{padding:10px 18px;font-size:14px;flex:none}
-/* SPLIT hero */
-.hero{position:relative;min-height:100vh;min-height:100svh;display:grid;grid-template-columns:minmax(0,42%) minmax(0,58%);background:var(--bg);padding-top:68px}
-.hero-copy{display:flex;align-items:center;padding:48px 40px 56px 48px;background:var(--bg)}
-.hero-copy .inner{width:100%;max-width:460px}
-.hero-media{position:relative;padding:28px 28px 28px 8px;display:flex;align-items:stretch}
-.hero-media .frame{position:relative;flex:1;border-radius:28px;overflow:hidden;background:#e9e2d8;box-shadow:0 24px 60px -28px rgba(26,20,16,.35);min-height:420px}
-.hero-media video,.hero-media .poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
-.eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;font-weight:500;color:var(--mut);display:flex;align-items:center;gap:12px;white-space:nowrap}
-.eyebrow::before{content:"";width:28px;height:1px;background:currentColor;opacity:.7;flex:none}
-.hero h1{font-size:clamp(36px,4.6vw,64px);line-height:1.02;margin:16px 0 0;max-width:12ch;color:var(--ink)}
-.hero h1 em{font-style:italic;color:var(--a)}
-.hero p.sub{font-size:clamp(16px,1.3vw,18px);max-width:34ch;margin:18px 0 0;color:var(--mut)}
-.cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
-.chips{display:flex;flex-direction:column;gap:10px;margin-top:26px;font-size:14px;color:var(--mut)}
-.chips span{display:inline-flex;align-items:center;gap:8px}.chips .ic{width:16px;height:16px}
-.dot{width:8px;height:8px;border-radius:50%;background:#3fa86a;box-shadow:0 0 0 4px rgba(63,168,106,.22);flex:none}.dot.off{background:#d08a52;box-shadow:0 0 0 4px rgba(208,138,82,.22)}
-.h-in>*{opacity:0;transform:translateY(18px);animation:up .85s cubic-bezier(.2,.7,.2,1) forwards}
-.h-in>*:nth-child(2){animation-delay:.1s}.h-in>*:nth-child(3){animation-delay:.2s}.h-in>*:nth-child(4){animation-delay:.3s}.h-in>*:nth-child(5){animation-delay:.4s}
-@keyframes up{to{opacity:1;transform:none}}
-/* ticker */
-.tick{background:var(--ink);color:#f6f1ea;overflow:hidden;white-space:nowrap;padding:18px 0;font-family:Fraunces,serif;font-size:22px;font-style:italic}
-.tick div{display:inline-flex;gap:28px;animation:mq 40s linear infinite;padding-left:28px}.tick i{font-style:normal;color:var(--a);font-size:14px;align-self:center}
-@keyframes mq{to{transform:translateX(-50%)}}
-section.s{padding:clamp(72px,11vw,140px) 0}
-.kicker{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--a);font-weight:600}
-h2{font-size:clamp(38px,5.4vw,72px);line-height:1;margin:14px 0 0}h2 em{font-style:italic;color:var(--a)}
-.lead{color:var(--mut);max-width:46ch;margin:18px 0 0}
-.head{display:flex;justify-content:space-between;align-items:end;gap:24px;flex-wrap:wrap}
-.svcs{list-style:none;padding:0;margin:48px 0 0;display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:28px;overflow:hidden}
-.svc{background:var(--card);padding:38px 32px;display:flex;flex-direction:column;gap:26px;min-height:200px;justify-content:space-between;transition:background .3s}
-.svc:hover{background:#fff}.svc-ic{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;background:color-mix(in srgb,var(--a) 10%,#fff);color:var(--a)}
-.svc-n{font-family:Fraunces,serif;font-size:clamp(22px,2.2vw,30px);line-height:1.1}
-.gal{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:48px}
-.g{display:block;width:100%;aspect-ratio:4/5;padding:0;border:0;background:#e9e2d8;cursor:zoom-in;border-radius:18px;overflow:hidden}
+:root{--bg:#F8F3EC;--bg2:#F1E9DF;--card:#FFFCF8;--ink:#2B2320;--mut:#7A6C66;--line:rgba(43,35,32,.12);--a:#8B4A6B;--ad:#6A3550;--al:#E5C4D2;--at:#EDCBD8;--nav:84px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:Jost,"Segoe UI",system-ui,sans-serif;font-weight:400;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}img{display:block;max-width:100%}
+.ic{width:16px;height:16px;flex:none}
+.serif{font-family:"Cormorant Garamond","Cormorant",Georgia,serif}
+.wrap{width:min(100%,1200px);margin:0 auto;padding:0 clamp(20px,4vw,48px)}
+.cap{font-size:11px;font-weight:500;letter-spacing:.24em;text-transform:uppercase}
+.nav{position:sticky;top:0;z-index:40;background:rgba(248,243,236,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav .in{height:var(--nav);display:grid;grid-template-columns:1fr auto 1fr;align-items:center;gap:20px}
+.nav .l,.nav .r{display:flex;align-items:center;gap:clamp(18px,2.6vw,40px)}.nav .r{justify-content:flex-end}
+.nav .l a,.nav .r a.t{font-size:11px;font-weight:500;letter-spacing:.2em;text-transform:uppercase;color:var(--ink);opacity:.82}
+.nav .l a:hover,.nav .r a.t:hover{opacity:1;color:var(--ad)}
+.mark{text-align:center;line-height:1}.mark b{display:block;font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:clamp(22px,2.3vw,30px);letter-spacing:.14em;text-transform:uppercase;white-space:nowrap}
+.mark.long b{font-size:clamp(18px,1.6vw,23px);letter-spacing:.1em}
+.mark small{display:block;margin-top:6px;font-size:9.5px;font-weight:500;letter-spacing:.32em;text-transform:uppercase;color:var(--ad)}
+.pill{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 20px;border:1px solid rgba(43,35,32,.55);border-radius:999px;font-size:13px;font-weight:500;letter-spacing:.06em;white-space:nowrap;transition:.2s}
+.pill:hover{background:var(--ink);color:var(--bg)}
+.hero{position:relative;min-height:calc(100svh - var(--nav));display:grid;place-items:center;text-align:center;overflow:hidden;color:#FFFCF8;isolation:isolate}
+.hero .poster,.hero video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:-2}
+.hero video{opacity:0;transition:opacity .8s}.hero video.on{opacity:1}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:radial-gradient(70% 60% at 50% 52%,rgba(38,28,24,.42),rgba(38,28,24,.12) 70%),linear-gradient(180deg,rgba(38,28,24,.10),rgba(38,28,24,.22))}
+.h-in{padding:clamp(56px,9vh,110px) 20px clamp(64px,10vh,120px);max-width:980px}
+.eyebrow{display:inline-flex;align-items:center;gap:14px;font-size:11px;font-weight:500;letter-spacing:.3em;text-transform:uppercase;color:#FFF6EE;text-shadow:0 1px 10px rgba(0,0,0,.25)}
+.eyebrow::before,.eyebrow::after{content:"";width:clamp(24px,5vw,56px);height:1px;background:currentColor;opacity:.6}
+.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(46px,7.4vw,104px);line-height:.98;letter-spacing:-.005em;margin:22px 0 22px;text-shadow:0 2px 26px rgba(30,20,16,.28);overflow:visible}
+.hero h1 em{display:block;font-style:italic;font-weight:400;color:var(--at)}
+.sub{font-size:clamp(15px,1.35vw,18px);font-weight:300;max-width:46ch;margin:0 auto;color:#FFF8F1;text-shadow:0 1px 12px rgba(0,0,0,.3)}
+.cta{display:flex;flex-wrap:wrap;justify-content:center;gap:14px;margin-top:34px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:54px;padding:0 28px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;transition:.2s;white-space:nowrap}
+.btn-s{background:color-mix(in srgb,var(--a) 82%,#fff 0%);color:#FFFCF8;border:1px solid transparent}.btn-s:hover{background:var(--ad)}
+.btn-o{border:1px solid rgba(255,252,248,.78);color:#FFFCF8;background:rgba(255,252,248,.06);backdrop-filter:blur(3px)}.btn-o:hover{background:rgba(255,252,248,.18)}
+.trust{margin-top:26px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px 22px;font-size:12.5px;letter-spacing:.05em;color:#FFF6EE;text-shadow:0 1px 10px rgba(0,0,0,.35)}
+.trust span{display:inline-flex;align-items:center;gap:8px}.trust .st{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:16px}
+.dot{width:7px;height:7px;border-radius:50%;background:#9BD3A6;box-shadow:0 0 0 3px rgba(155,211,166,.25)}.dot.off{background:#E8B3A3;box-shadow:0 0 0 3px rgba(232,179,163,.25)}
+.peek{padding:clamp(64px,9vw,120px) 0 clamp(56px,8vw,100px)}
+.orn{display:flex;align-items:center;justify-content:center;gap:16px;color:var(--ad);font-size:11px;font-weight:500;letter-spacing:.28em;text-transform:uppercase}
+.orn::before,.orn::after{content:"";width:48px;height:1px;background:currentColor;opacity:.45}
+h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(36px,4.6vw,60px);line-height:1.02;text-align:center;margin:16px 0 12px}
+h2 em{font-style:italic;color:var(--ad)}
+.lede{text-align:center;color:var(--mut);font-size:15px;max-width:48ch;margin:0 auto}
+.strip{display:grid;grid-template-columns:repeat(4,1fr);gap:clamp(10px,1.4vw,18px);margin-top:clamp(32px,4vw,52px)}.strip.n3{grid-template-columns:repeat(3,1fr)}
+.g{position:relative;overflow:hidden;border-radius:clamp(14px,1.6vw,22px);height:clamp(260px,28vw,420px);background:var(--bg2)}
 .g img{width:100%;height:100%;object-fit:cover;transition:transform .8s cubic-bezier(.2,.7,.2,1)}.g:hover img{transform:scale(1.04)}
-.why{background:var(--ink);color:#f6f1ea}.why .grid{display:grid;grid-template-columns:1fr 1.1fr;gap:clamp(32px,6vw,96px);align-items:center}
-.why figure{margin:0;border-radius:28px;overflow:hidden;aspect-ratio:4/5}.why figure img{width:100%;height:100%;object-fit:cover}
-.why ul{list-style:none;padding:0;margin:40px 0 0}.why li{display:flex;gap:22px;padding:24px 0;border-top:1px solid rgba(246,241,234,.14)}
-.why .wn{font-family:Fraunces,serif;font-style:italic;color:var(--a);font-size:20px;min-width:32px;filter:brightness(1.35)}
-.why h3{font-size:24px;margin:0}.why p{margin:6px 0 0;color:rgba(246,241,234,.7)}.why .kicker{filter:brightness(1.35)}
-.visit .grid{display:grid;grid-template-columns:1fr 1.2fr;gap:24px;margin-top:48px}
-.card{background:var(--card);border:1px solid var(--line);border-radius:28px;padding:36px}
-.card .row{display:flex;gap:14px;align-items:flex-start;padding:14px 0}.card .row .ic{color:var(--a);flex:none;margin-top:3px}
-.card a{text-decoration-color:rgba(0,0,0,.2);text-underline-offset:4px}
-table{width:100%;border-collapse:collapse;margin-top:6px;font-size:15px}th,td{text-align:left;padding:9px 0;border-bottom:1px solid var(--line);font-weight:400}td{text-align:right;color:var(--mut)}
-tr.today th,tr.today td{color:var(--ink);font-weight:600}tr.today th::after{content:" · today";color:var(--a);font-weight:500;font-size:13px}
-.note{font-size:13px;color:var(--mut);margin-top:12px}
-.map{border-radius:28px;overflow:hidden;border:1px solid var(--line);min-height:420px;background:#e9e2d8}.map iframe{width:100%;height:100%;min-height:420px;border:0;filter:grayscale(.28) contrast(1.05)}
-footer{padding:48px 0 120px;color:var(--mut);font-size:14px}footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:28px}
-footer .serif{color:var(--ink);font-size:20px}
+.g:nth-child(even){margin-top:clamp(0px,3vw,40px)}
+.cl p.hrs{margin-top:18px;font-size:14px;letter-spacing:.02em;max-width:52ch}.cl p.hrs b{display:block;font-size:11px;font-weight:500;letter-spacing:.24em;text-transform:uppercase;color:var(--ad);margin-bottom:6px}
+.closing{padding:0 0 clamp(64px,9vw,120px)}
+.cl{background:var(--bg2);border:1px solid var(--line);border-radius:clamp(22px,3vw,36px);padding:clamp(44px,7vw,88px) clamp(22px,5vw,64px);text-align:center;position:relative;overflow:hidden}
+.cl::before{content:"";position:absolute;width:420px;height:420px;border-radius:50%;left:-160px;bottom:-220px;background:color-mix(in srgb,var(--a) 14%,transparent)}
+.cl::after{content:"";position:absolute;width:260px;height:260px;border-radius:50%;right:-90px;top:-120px;border:1px solid color-mix(in srgb,var(--a) 40%,transparent)}
+.cl>*{position:relative;z-index:1}.cl h2{margin-top:14px}.cl p{color:var(--mut);font-size:16px;max-width:40ch;margin:0 auto}
+.cl .cta{margin-top:30px}.cl .btn-o{border-color:rgba(43,35,32,.45);color:var(--ink);background:transparent;backdrop-filter:none}.cl .btn-o:hover{background:var(--ink);color:var(--bg)}
+footer{border-top:1px solid var(--line);padding:28px 0 34px;color:var(--mut);font-size:13px}
+footer .in{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}footer b{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:19px;color:var(--ink);letter-spacing:.08em;text-transform:uppercase;margin-right:12px}
 .mbar{display:none}
-.rv{opacity:0;transform:translateY(28px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1);transition-delay:var(--d,0ms)}.rv.in{opacity:1;transform:none}
-.lb{position:fixed;inset:0;z-index:60;background:rgba(20,16,12,.94);display:none;align-items:center;justify-content:center}.lb.on{display:flex}
-.lb img{max-width:92vw;max-height:86vh;border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.5)}
-.lb button{position:absolute;background:rgba(255,255,255,.1);border:0;color:#fff;width:52px;height:52px;border-radius:50%;display:grid;place-items:center;cursor:pointer}.lb button:hover{background:rgba(255,255,255,.2)}
-.lb .x{top:20px;right:20px}.lb .pv{left:20px;top:50%;transform:translateY(-50%)}.lb .nx{right:20px;top:50%;transform:translateY(-50%)}
-.lb .ct{position:absolute;bottom:22px;left:0;right:0;text-align:center;color:rgba(255,255,255,.7);font-size:14px}
-@media (max-width:980px){.hero{grid-template-columns:minmax(0,44%) minmax(0,56%)}.hero-copy{padding:36px 28px 48px 32px}.hero h1{font-size:clamp(32px,5vw,48px)}}
-@media (max-width:900px){.svcs{grid-template-columns:repeat(2,1fr)}.why .grid,.visit .grid{grid-template-columns:1fr}.why figure{aspect-ratio:4/3}}
+.lb{position:fixed;inset:0;z-index:90;background:rgba(30,24,21,.92);display:none;align-items:center;justify-content:center}.lb.on{display:flex}
+.lb img{max-width:92vw;max-height:84vh;border-radius:10px;object-fit:contain}
+.lb button{position:absolute;color:#fff;width:48px;height:48px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.1)}.lb .ic{width:22px;height:22px}
+.lb .x{top:18px;right:18px}.lb .pv{left:14px;top:50%;transform:translateY(-50%)}.lb .nx{right:14px;top:50%;transform:translateY(-50%)}
+.lb .ct{position:absolute;bottom:20px;left:0;right:0;text-align:center;color:#eee;font-size:12px;letter-spacing:.2em}
+.rv{opacity:0;transform:translateY(16px);transition:opacity .9s ease,transform .9s ease}.rv.in{opacity:1;transform:none}
+video::-webkit-media-controls,video::-webkit-media-controls-overlay-play-button{display:none!important;-webkit-appearance:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+@media (max-width:900px){.nav .l a:nth-child(n+3),.nav .r a.t{display:none}}
 @media (max-width:767px){
- body{font-size:16px}
- .nav nav{display:none}
- .nav .btn{display:inline-flex;padding:9px 14px;font-size:13px;gap:6px}
- .nav .wrap{height:58px}
- .brand{font-size:15px;max-width:calc(100% - 96px)}
- /* mobile: video band then cream copy */
- .hero{display:flex;flex-direction:column;min-height:0;padding-top:58px}
- .hero-media{order:1;padding:0;height:320px;flex:none}
- .hero-media .frame{border-radius:0;box-shadow:none;min-height:0;height:100%}
- .hero-copy{order:2;align-items:flex-start;padding:28px 22px 120px;flex:none}
- .hero-copy .inner{max-width:none}
- .hero h1{font-size:clamp(32px,9.5vw,42px);max-width:14ch;line-height:1.05}
- .eyebrow{letter-spacing:.14em;font-size:11px}
- .cta{margin-top:22px}.cta .btn{flex:1;justify-content:center;padding:14px 16px}
- .chips{margin-top:20px}
- .svc{padding:26px 20px;min-height:170px}.gal{grid-template-columns:repeat(2,1fr);gap:10px}.g{border-radius:14px}
- .card{padding:26px}.map,.map iframe{min-height:320px}
- .mbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:50;gap:8px;padding:8px;border-radius:999px;background:rgba(26,20,16,.90);backdrop-filter:blur(12px);box-shadow:0 12px 40px rgba(0,0,0,.28);transform:translateY(140%);transition:transform .45s cubic-bezier(.2,.7,.2,1)}
- .mbar.on{transform:none}.mbar a{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;padding:14px 0;border-radius:999px;color:#fff;text-decoration:none;font-weight:500;font-size:15px}.mbar a .ic{width:18px;height:18px}.mbar a.p{background:var(--a)}
- .lb .pv,.lb .nx{display:none}
+ :root{--nav:64px}
+ .nav .in{grid-template-columns:1fr auto;gap:10px}.nav .l{display:none}
+ .mark{text-align:left;min-width:0}.mark b,.mark.long b{font-size:15px;letter-spacing:.06em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:calc(100vw - 110px)}
+ .mark small{font-size:8.5px;letter-spacing:.26em}
+ .pill{height:40px;padding:0 14px;font-size:12.5px}.pill span{display:none}
+ .hero{min-height:calc(100svh - var(--nav) - 74px)}
+ .hero::after{background:radial-gradient(90% 55% at 50% 48%,rgba(38,28,24,.5),rgba(38,28,24,.2) 75%),linear-gradient(180deg,rgba(38,28,24,.12),rgba(38,28,24,.28))}
+ .h-in{padding:40px 22px 48px}.hero h1{font-size:clamp(40px,11vw,56px);margin:16px 0 14px;line-height:1.02}
+ .cta{flex-direction:column;align-items:stretch;gap:10px;max-width:340px;margin:24px auto 0}.btn{min-height:52px}
+ .strip,.strip.n3{grid-template-columns:repeat(2,1fr)}.strip.n3 .g:first-child{grid-column:span 2}.g{height:58vw}.g:nth-child(even){margin-top:0}
+ .cl .cta{max-width:none}
+ body{padding-bottom:calc(74px + env(safe-area-inset-bottom,0px))}
+ .mbar{display:flex;position:fixed;left:0;right:0;bottom:0;z-index:60;gap:10px;padding:10px 14px calc(10px + env(safe-area-inset-bottom,0px));background:rgba(248,243,236,.96);backdrop-filter:blur(12px);border-top:1px solid var(--line);box-shadow:0 -8px 24px rgba(43,35,32,.08)}
+ .mbar a{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;min-height:52px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.12em;text-transform:uppercase;border:1px solid rgba(43,35,32,.4)}
+ .mbar a.p{flex:1.5;background:var(--ad);border-color:var(--ad);color:#FFFCF8}
+ footer .in{flex-direction:column}
 }
-@media (prefers-reduced-motion:reduce){.rv,.h-in>*{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}.tick div{animation:none}}
+.svc{padding:clamp(64px,9vw,112px) 0 0}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.sc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px 24px}
+.sc h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:25px;line-height:1.1;margin-bottom:12px;color:var(--ink)}
+.sc ul{list-style:none}.sc li{font-size:14.5px;color:var(--mut);padding:7px 0;border-top:1px solid var(--line)}.sc li:first-child{border-top:0}
+.rvw{padding:0 0 clamp(64px,9vw,112px)}
+.rg{display:grid;grid-template-columns:1fr;max-width:520px;margin:clamp(28px,4vw,48px) auto 0;gap:clamp(14px,1.8vw,22px)}
+.rc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px 26px;display:flex;flex-direction:column;gap:14px;text-align:center}
+.rc .stars{color:var(--a);letter-spacing:.12em;font-size:15px}.rc .stars small{color:var(--mut);letter-spacing:.06em;font-size:12px;margin-left:6px}
+.rc q{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:22px;line-height:1.35;quotes:"\201C" "\201D"}
+.rc .who{margin-top:auto;font-size:12px;font-weight:500;letter-spacing:.18em;text-transform:uppercase;color:var(--ad)}
 </style></head><body>
-<header class="nav" id="nav"><div class="wrap">
-<a class="brand" href="#top">Annaz Hair Studio</a>
-<nav><a href="#services">Services</a><a href="#gallery">Gallery</a><a href="#why">Why us</a><a href="#visit">Visit</a></nav>
-<a class="btn btn-p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a>
+<header class="nav"><div class="wrap in">
+<nav class="l"><a href="#services">Services</a><a href="#peek">Photos</a><a href="#reviews">Reviews</a><a href="#visit">Visit</a></nav>
+<a class="mark long" href="#top"><b>Annaz Hair Studio</b><small>Hair Salon</small></a>
+<div class="r"><a class="t" href="https://www.google.com/maps/place/?q=place_id:ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener">Greenacres</a><a class="pill" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span>(561) 355-0907</span></a></div>
 </div></header>
 <main id="top">
 <section class="hero">
-<div class="hero-copy"><div class="inner h-in">
-<div class="eyebrow">Hair Salon · Greenacres, FL</div>
-<h1>Color, cuts &amp; care that <em>last.</em></h1>
-<p class="sub">Precision cuts, dimensional color and blowouts on Lake Worth Rd — for over 16 years.</p>
-<div class="cta">
-<a class="btn btn-p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call now</a>
-<a class="btn btn-g" href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a>
-</div>
-<div class="chips"><span><i class="dot" id="od"></i><b id="os" style="font-weight:500">Open Tue – Sat</b></span><span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>7396 Lake Worth Rd, Greenacres, FL 33467</span></div>
-</div></div>
-<div class="hero-media"><div class="frame">
 <img class="poster" id="hp" src="hero-desktop.jpg" alt="" fetchpriority="high">
 <video id="hv" muted loop playsinline autoplay preload="auto" aria-hidden="true"></video>
-</div></div>
-</section>
-<div class="tick" aria-hidden="true"><div>
-<span>Haircuts</span><i>✦</i><span>Color &amp; Highlights</span><i>✦</i><span>Balayage</span><i>✦</i><span>Blowouts &amp; Styling</span><i>✦</i><span>Treatments</span><i>✦</i><span>Bridal &amp; Events</span><i>✦</i><span>Blowouts</span><i>✦</i>
-<span>Haircuts</span><i>✦</i><span>Color &amp; Highlights</span><i>✦</i><span>Balayage</span><i>✦</i><span>Blowouts &amp; Styling</span><i>✦</i><span>Treatments</span><i>✦</i><span>Bridal &amp; Events</span><i>✦</i><span>Blowouts</span><i>✦</i>
-</div></div>
-<section class="s" id="services"><div class="wrap">
-<div class="head"><div><div class="kicker rv">Services</div><h2 class="rv">Color, cut <em>&amp; care.</em></h2></div><p class="lead rv">Haircuts, color, highlights and blowouts. Call to book — no prices listed here.</p></div>
-<ul class="svcs">
-<li class="svc rv" style="--d:0ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2M9.6 4.6A2 2 0 1 1 11 8H2M12.6 19.4A2 2 0 1 0 14 16H2"/></svg></span><span class="svc-n">Haircuts</span></li>
-<li class="svc rv" style="--d:70ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/></svg></span><span class="svc-n">Color</span></li>
-<li class="svc rv" style="--d:140ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.94 15.5A2 2 0 0 0 8.5 14.06l-6.14-1.58a.5.5 0 0 1 0-.96L8.5 9.94A2 2 0 0 0 9.94 8.5l1.58-6.14a.5.5 0 0 1 .96 0l1.58 6.14a2 2 0 0 0 1.44 1.44l6.14 1.58a.5.5 0 0 1 0 .96l-6.14 1.58a2 2 0 0 0-1.44 1.44l-1.58 6.14a.5.5 0 0 1-.96 0z"/></svg></span><span class="svc-n">Highlights &amp; Balayage</span></li>
-<li class="svc rv" style="--d:210ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><span class="svc-n">Blowouts &amp; Styling</span></li>
-<li class="svc rv" style="--d:280ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg></span><span class="svc-n">Treatments</span></li>
-<li class="svc rv" style="--d:350ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5c2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/></svg></span><span class="svc-n">Bridal &amp; Events</span></li>
-</ul></div></section>
-<section class="s" id="gallery" style="padding-top:0"><div class="wrap">
-<div class="head"><div><div class="kicker rv">Gallery</div><h2 class="rv">The <em>work.</em></h2></div><p class="lead rv">Photos from Annaz Hair Studio’s Call and Google gallery. Tap any photo to view it larger.</p></div>
-<div class="gal" id="gal"></div></div></section>
-<section class="s why" id="why"><div class="wrap grid">
-<figure class="rv"><img src="g/01.webp" loading="lazy" alt="Hair by Annaz Hair Studio, Greenacres FL"></figure>
-<div><div class="kicker rv">Why Annaz</div><h2 class="rv">Made for <em>real life.</em></h2>
-<ul>
-<li class="rv" style="--d:0ms"><span class="wn">01</span><div><h3>Cuts &amp; color</h3><p>Precision cuts, dimensional color, highlights, balayage and blowouts.</p></div></li>
-<li class="rv" style="--d:90ms"><span class="wn">02</span><div><h3>Easy to book</h3><p>Appointments recommended — call (561) 355-0907.</p></div></li>
-<li class="rv" style="--d:180ms"><span class="wn">03</span><div><h3>Open five days</h3><p>Tuesday to Saturday, 8 AM – 5 PM. Closed Sunday &amp; Monday.</p></div></li>
-<li class="rv" style="--d:270ms"><span class="wn">04</span><div><h3>Easy to find</h3><p>7396 Lake Worth Rd, Greenacres, FL 33467. Tap Directions.</p></div></li>
-</ul></div></div></section>
-<section class="s visit" id="visit"><div class="wrap">
-<div class="head"><div><div class="kicker rv">Visit</div><h2 class="rv">Come <em>see us.</em></h2></div>
-<a class="btn btn-p rv" href="tel:+15613550907" target="_blank" rel="noopener">Call to book</a>
-</div>
-<div class="grid">
-<div class="card rv">
-<div class="row"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><div><b style="font-weight:500">Address</b><br><a href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener">7396 Lake Worth Rd, Greenacres, FL 33467</a></div></div>
-<div class="row"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><div><b style="font-weight:500">Phone</b><br><a href="tel:+15613550907">(561) 355-0907</a></div></div>
-<div class="row"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><div style="flex:1"><b style="font-weight:500">Hours</b>
-<table id="ht">
-<tr data-d="0"><th>Monday</th><td>Closed</td></tr>
-<tr data-d="1"><th>Tuesday</th><td>8 AM – 5 PM</td></tr>
-<tr data-d="2"><th>Wednesday</th><td>8 AM – 5 PM</td></tr>
-<tr data-d="3"><th>Thursday</th><td>8 AM – 5 PM</td></tr>
-<tr data-d="4"><th>Friday</th><td>8 AM – 5 PM</td></tr>
-<tr data-d="5"><th>Saturday</th><td>8 AM – 5 PM</td></tr>
-<tr data-d="6"><th>Sunday</th><td>Closed</td></tr>
-</table>
-<div class="note">Hours from Google Maps. Please call to confirm, especially on holidays.</div></div></div>
-<div class="cta" style="margin-top:18px">
-<a class="btn btn-o" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call (561) 355-0907</a>
-<a class="btn btn-o" href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a>
-</div>
-</div>
-<div class="map rv"><iframe src="https://www.google.com/maps?q=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&z=15&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map to Annaz Hair Studio"></iframe></div>
+<div class="h-in">
+<div class="eyebrow">Greenacres, FL · Hair Salon</div>
+<h1>Color, cuts &amp; care <em>that last.</em></h1>
+<p class="sub">Precision cuts, dimensional color and blowouts on Lake Worth Rd — for over 16 years.</p>
+<div class="cta"><a class="btn btn-s" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call to book</a><a class="btn btn-o" href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Get directions</a><a class="btn btn-o" href="#peek"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.94 15.5A2 2 0 0 0 8.5 14.06l-6.14-1.58a.5.5 0 0 1 0-.96L8.5 9.94A2 2 0 0 0 9.94 8.5l1.58-6.14a.5.5 0 0 1 .96 0l1.58 6.14a2 2 0 0 0 1.44 1.44l6.14 1.58a.5.5 0 0 1 0 .96l-6.14 1.58a2 2 0 0 0-1.44 1.44l-1.58 6.14a.5.5 0 0 1-.96 0z"/><path d="M20 3v4M22 5h-4"/></svg>See photos</a></div>
+<div class="trust"><span class="st">4.6 on Google</span><span>· 60 reviews</span><span><i class="dot" id="od"></i><b id="os" style="font-weight:400">Open Tue – Sat</b></span><span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>7396 Lake Worth Rd, Greenacres, FL 33467</span></div>
+</div></section>
+<section class="svc" id="services"><div class="wrap"><div class="orn rv">Services</div><h2 class="rv">What we <em>do best.</em></h2><p class="lede rv">From the Annaz Hair Studio site — call to book. No prices listed here.</p><div class="sg">
+<div class="sc rv"><h3>Haircuts</h3><ul><li>Precision cuts tailored to your style, hair type, and lifestyle</li></ul></div>
+<div class="sc rv"><h3>Color</h3><ul><li>Gray coverage</li><li>Dimensional color</li><li>Highlights</li><li>Color refreshes</li></ul></div>
+<div class="sc rv"><h3>Highlights &amp; Balayage</h3><ul><li>Natural brightness</li><li>Lived-in dimension</li><li>Complete transformations</li></ul></div>
+<div class="sc rv"><h3>Blowouts &amp; Styling</h3><ul><li>Everyday styling</li><li>Special occasions</li></ul></div>
+</div></div></section>
+<section class="peek" id="peek"><div class="wrap">
+<div class="orn rv">A first look</div><h2 class="rv">A few <em>real moments.</em></h2><p class="lede rv">Real photos from Annaz Hair Studio. Tap one to view it larger.</p>
+<div class="strip"><button class="g rv" data-i="0" aria-label="Open photo 1"><img src="g/01-s.webp" width="834" height="1000" loading="lazy" decoding="async" alt="Finished color by Annaz Hair Studio, Greenacres FL"></button><button class="g rv" data-i="1" aria-label="Open photo 2"><img src="g/02-s.webp" width="900" height="1200" loading="lazy" decoding="async" alt="Salon interior at Annaz Hair Studio"></button><button class="g rv" data-i="2" aria-label="Open photo 3"><img src="g/03-s.webp" width="900" height="1200" loading="lazy" decoding="async" alt="Stylist at work at Annaz Hair Studio"></button><button class="g rv" data-i="3" aria-label="Open photo 4"><img src="g/04-s.webp" width="900" height="1200" loading="lazy" decoding="async" alt="Stylist at Annaz Hair Studio"></button></div></div></section>
+<section class="rvw" id="reviews"><div class="wrap"><div class="orn rv">Reviews</div><h2 class="rv">On <em>Google.</em></h2><p class="lede rv">Rating from their Google Business listing.</p><div class="rg"><figure class="rc rv"><div class="stars" aria-label="4.6 out of 5">★★★★★<small>4.6/5</small></div><q>4.6 on Google from 60 reviews.</q><figcaption class="who">Google · Greenacres / Lake Worth</figcaption></figure></div></div></section>
+<section class="closing" id="visit"><div class="wrap"><div class="cl rv">
+<div class="orn">Visit us</div><h2>Come <em>see us.</em></h2><p>Appointments recommended. Please call for availability.</p><p class="hrs"><b>Hours</b>Tuesday – Saturday 8 AM – 5 PM. Sunday &amp; Monday closed.</p>
+<div class="cta"><a class="btn btn-s" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call (561) 355-0907</a><a class="btn btn-o" href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Get directions</a></div>
 </div></div></section>
 </main>
-<footer><div class="wrap"><div><div class="serif">Annaz Hair Studio</div>7396 Lake Worth Rd, Greenacres, FL 33467 · <a href="tel:+15613550907">(561) 355-0907</a></div><div><a href="tel:+15613550907" target="_blank" rel="noopener">Call</a> · © 2026 Annaz Hair Studio</div></div></footer>
-<div class="mbar" id="mb">
-<a class="p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a>
-<a href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a>
-</div>
-<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Photo viewer">
-<button class="x" aria-label="Close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
-<button class="pv" aria-label="Previous"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></button>
-<img id="lbi" alt="">
-<button class="nx" aria-label="Next"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></button>
-<div class="ct" id="lbc"></div>
-</div>
+<footer><div class="wrap in"><div><b>Annaz Hair Studio</b>7396 Lake Worth Rd, Greenacres, FL 33467</div><div>(561) 355-0907</div></div></footer>
+<div class="mbar" id="mb"><a class="p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call to book</a><a href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a></div>
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Photo viewer"><button class="x" aria-label="Close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg></button><button class="pv" aria-label="Previous"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></button><img id="lbi" alt=""><button class="nx" aria-label="Next"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></button><div class="ct" id="lbc"></div></div>
 <script>
 (function(){
 var mob=matchMedia('(max-width:767px)').matches,rm=matchMedia('(prefers-reduced-motion:reduce)').matches,v=document.getElementById('hv'),hp=document.getElementById('hp');
-var pre=mob?'hero-mobile':'hero-desktop';hp.src=pre+'.jpg';
-if(!rm){v.poster=pre+'.jpg';v.src=pre+'.mp4';v.muted=true;v.loop=true;v.setAttribute('playsinline','');v.addEventListener('playing',function(){hp.style.transition='opacity .5s';hp.style.opacity=0});var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.remove()}
-var mb=document.getElementById('mb');
-function sc(){mb.classList.toggle('on',scrollY>220)}addEventListener('scroll',sc,{passive:true});sc();
-var io=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{rootMargin:'0px 0px -8% 0px'});
+var pre=mob?'hero-mobile':'hero-desktop';hp.src=pre+'.jpg';v.poster=pre+'.jpg';
+if(!rm){v.src=pre+'.mp4';v.addEventListener('playing',function(){v.classList.add('on')});var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.remove()}
+var mb=document.getElementById('mb');function nb(){var f=document.getElementById('nl-badge-frame');if(f){var r=f.getBoundingClientRect();if(r.height)mb.style.bottom=(innerHeight-r.top+8)+'px'}}[1500,4000,8000].forEach(function(t){setTimeout(nb,t)});
+var io=new IntersectionObserver(function(es){es.forEach(function(q){if(q.isIntersecting){q.target.classList.add('in');io.unobserve(q.target)}})},{rootMargin:'0px 0px -8% 0px'});
 document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
-var H=[null,[480,1020],[480,1020],[480,1020],[480,1020],[480,1020],null],TZ="America/New_York";
-try{var f=new Intl.DateTimeFormat('en-US',{timeZone:TZ,weekday:'short',hour:'numeric',minute:'numeric',hour12:false}).formatToParts(new Date()),o={};f.forEach(function(p){o[p.type]=p.value});
-var d=['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].indexOf(o.weekday),m=(+o.hour%24)*60+(+o.minute),t=H[d];
-var r=document.querySelector('#ht tr[data-d="'+d+'"]');if(r)r.className='today';
+var H=[[], [[480,1020]], [[480,1020]], [[480,1020]], [[480,1020]], [[480,1020]], []],TZ="America/New_York",DS=["Mon","Tue","Wed","Thu","Fri","Sat","Sun"],TX={"o":"Open now · until ","c":"Closed now · opens ","tm":"tomorrow","td":"today"};
+if(H)try{var f=new Intl.DateTimeFormat('en-US',{timeZone:TZ,weekday:'short',hour:'numeric',minute:'numeric',hour12:false}).formatToParts(new Date()),o={};f.forEach(function(p){o[p.type]=p.value});
+var d=['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].indexOf(o.weekday),m=(+o.hour%24)*60+(+o.minute),t=H[d]||[];
 function fm(x){var h=Math.floor(x/60),mm=x%60,ap=h<12?'AM':'PM';h=h%12||12;return h+(mm?':'+(mm<10?'0':'')+mm:'')+' '+ap}
-var os=document.getElementById('os'),od=document.getElementById('od');
-if(t&&m>=t[0]&&m<t[1]){os.textContent='Open now · until '+fm(t[1])}else{od.classList.add('off');for(var k=0;k<8;k++){var dd=(d+k)%7,tt=H[dd];if(tt&&(k>0||m<tt[0])){os.textContent='Closed now · opens '+(k==0?'today':k==1?'tomorrow':['Mon','Tue','Wed','Thu','Fri','Sat','Sun'][dd])+' '+fm(tt[0]);break}}}}catch(e){}
-/* gallery buttons from meta */
-var G=["g/01","g/02","g/03","g/04","g/05","g/06","g/07","g/08","g/09","g/10","g/11","g/12"];
-var gal=document.getElementById('gal');
-G.forEach(function(f,i){var b=document.createElement('button');b.className='g rv';b.style.setProperty('--d',(i%3)*80+'ms');b.dataset.i=i;b.setAttribute('aria-label','Open photo '+(i+1));
-b.innerHTML='<img src="'+f+'-s.webp" loading="lazy" decoding="async" alt="Hair by Annaz Hair Studio, Greenacres FL — photo '+(i+1)+'">';gal.appendChild(b);io.observe(b)});
-var lb=document.getElementById('lb'),li=document.getElementById('lbi'),lc=document.getElementById('lbc'),cur=0;
-function show(i){cur=(i+G.length)%G.length;li.src=G[cur]+'.webp';lc.textContent=(cur+1)+' / '+G.length;lb.classList.add('on');document.body.style.overflow='hidden'}
+var os=document.getElementById('os'),od=document.getElementById('od'),cur=null;t.forEach(function(iv){if(m>=iv[0]&&m<iv[1])cur=iv});
+if(cur){os.textContent=TX.o+fm(cur[1])}else{od.classList.add('off');var done=0;for(var k=0;k<8&&!done;k++){var dd=(d+k)%7,tt=H[dd]||[];for(var j=0;j<tt.length;j++){if(k>0||m<tt[j][0]){os.textContent=TX.c+(k==0?TX.td:k==1?TX.tm:DS[dd])+' '+fm(tt[j][0]);done=1;break}}}}}catch(e){}
+var G=["g/01","g/02","g/03","g/04"],lb=document.getElementById('lb'),li=document.getElementById('lbi'),lc=document.getElementById('lbc'),cur2=0;
+function show(i){cur2=(i+G.length)%G.length;li.src=G[cur2]+'.webp';lc.textContent=(cur2+1)+' / '+G.length;lb.classList.add('on');document.body.style.overflow='hidden'}
 function hide(){lb.classList.remove('on');document.body.style.overflow=''}
-gal.addEventListener('click',function(e){var b=e.target.closest('.g');if(b)show(+b.dataset.i)});
-lb.querySelector('.x').onclick=hide;lb.querySelector('.pv').onclick=function(e){e.stopPropagation();show(cur-1)};lb.querySelector('.nx').onclick=function(e){e.stopPropagation();show(cur+1)};
-lb.addEventListener('click',function(e){if(e.target===lb)hide()});
-addEventListener('keydown',function(e){if(!lb.classList.contains('on'))return;if(e.key=='Escape')hide();if(e.key=='ArrowLeft')show(cur-1);if(e.key=='ArrowRight')show(cur+1)});
+document.querySelectorAll('.g').forEach(function(b){b.addEventListener('click',function(){show(+b.dataset.i)})});
+lb.querySelector('.x').onclick=hide;lb.querySelector('.pv').onclick=function(ev){ev.stopPropagation();show(cur2-1)};lb.querySelector('.nx').onclick=function(ev){ev.stopPropagation();show(cur2+1)};
+lb.addEventListener('click',function(ev){if(ev.target===lb)hide()});
+addEventListener('keydown',function(ev){if(!lb.classList.contains('on'))return;if(ev.key=='Escape')hide();if(ev.key=='ArrowLeft')show(cur2-1);if(ev.key=='ArrowRight')show(cur2+1)});
+var sx=0;lb.addEventListener('touchstart',function(ev){sx=ev.touches[0].clientX},{passive:true});lb.addEventListener('touchend',function(ev){var dx=ev.changedTouches[0].clientX-sx;if(Math.abs(dx)>40)show(cur2+(dx<0?1:-1))});
 })();
 </script>
 </body></html>
