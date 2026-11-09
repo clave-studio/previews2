@@ -1,0 +1,123 @@
+{
+  "grade": "eq=contrast=1.04:saturation=1.04:brightness=0.01",
+  "videos": [
+    {
+      "W": 1280,
+      "H": 720,
+      "out": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/hero-desktop.mp4",
+      "clips": [
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/opener-finished.jpg",
+          "start": [
+            0.5,
+            0.38,
+            1.02
+          ],
+          "end": [
+            0.5,
+            0.48,
+            1.12
+          ]
+        },
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/interior.jpg",
+          "start": [
+            0.45,
+            0.48,
+            1.0
+          ],
+          "end": [
+            0.55,
+            0.52,
+            1.08
+          ]
+        },
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/stylist-work.jpg",
+          "start": [
+            0.5,
+            0.32,
+            1.0
+          ],
+          "end": [
+            0.5,
+            0.45,
+            1.1
+          ]
+        },
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/stylist-smile.jpg",
+          "start": [
+            0.5,
+            0.34,
+            1.02
+          ],
+          "end": [
+            0.48,
+            0.46,
+            1.12
+          ]
+        }
+      ]
+    },
+    {
+      "W": 720,
+      "H": 1280,
+      "out": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/hero-mobile.mp4",
+      "clips": [
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/opener-finished.jpg",
+          "start": [
+            0.5,
+            0.42,
+            1.05
+          ],
+          "end": [
+            0.5,
+            0.52,
+            1.16
+          ]
+        },
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/interior.jpg",
+          "start": [
+            0.5,
+            0.48,
+            1.05
+          ],
+          "end": [
+            0.5,
+            0.55,
+            1.14
+          ]
+        },
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/stylist-work.jpg",
+          "start": [
+            0.5,
+            0.38,
+            1.05
+          ],
+          "end": [
+            0.5,
+            0.48,
+            1.16
+          ]
+        },
+        {
+          "src": "/workspace/send-queue/clave_nov9b/annaz-hair-studio-design/src/raw/stylist-smile.jpg",
+          "start": [
+            0.5,
+            0.4,
+            1.05
+          ],
+          "end": [
+            0.5,
+            0.5,
+            1.16
+          ]
+        }
+      ]
+    }
+  ]
+}

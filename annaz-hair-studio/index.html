@@ -1,0 +1,228 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Annaz Hair Studio · Greenacres, FL</title>
+<meta name="description" content="Silk presses, color, cuts and treatments at Annaz Hair Studio on W Broward Blvd in Plantation.">
+<meta name="theme-color" content="#f6f1ea">
+<meta property="og:title" content="Annaz Hair Studio · Greenacres, FL">
+<meta property="og:description" content="Silk presses, color, cuts and treatments on W Broward Blvd in Plantation.">
+<meta property="og:image" content="hero-desktop.jpg">
+<link rel="preload" as="image" href="hero-desktop.jpg" media="(min-width:768px)">
+<link rel="preload" as="image" href="hero-mobile.jpg" media="(max-width:767px)">
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,500;1,9..144,400;1,9..144,500&family=Outfit:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root{--a:#8B4A6B;--ink:#1a1410;--bg:#f6f1ea;--card:#fffaf4;--mut:#6f655d;--line:rgba(26,20,16,.1)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font:400 17px/1.6 Outfit,system-ui,sans-serif;color:var(--ink);background:var(--bg);-webkit-font-smoothing:antialiased}
+img{max-width:100%;display:block}a{color:inherit}.serif,h1,h2,h3{font-family:Fraunces,Georgia,serif;font-weight:400;letter-spacing:-.02em;text-wrap:balance}
+.wrap{max-width:1200px;margin:0 auto;padding:0 24px}
+.ic{width:24px;height:24px}
+.btn{display:inline-flex;align-items:center;gap:10px;padding:16px 26px;border-radius:999px;font-weight:500;text-decoration:none;transition:transform .25s,background .25s,box-shadow .25s;white-space:nowrap}
+.btn .ic{width:18px;height:18px}.btn-p{background:var(--a);color:#fff;box-shadow:0 10px 30px -10px var(--a)}.btn-p:hover{transform:translateY(-2px)}
+.btn-g{border:1.5px solid rgba(26,20,16,.18);color:var(--ink);background:#fff}.btn-g:hover{background:var(--card)}
+.btn-o{border:1px solid var(--line);background:#fff}
+/* solid cream nav */
+.nav{position:fixed;inset:0 0 auto;z-index:40;background:rgba(246,241,234,.97);backdrop-filter:blur(12px);color:var(--ink);box-shadow:0 1px 0 var(--line)}
+.nav .wrap{height:68px;display:flex;align-items:center;justify-content:space-between;gap:12px}
+.brand{font-family:Fraunces,serif;font-size:20px;text-decoration:none;letter-spacing:-.01em;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.nav nav{display:flex;gap:28px;font-size:15px}.nav nav a{text-decoration:none;opacity:.8}.nav nav a:hover{opacity:1}
+.nav .btn{padding:10px 18px;font-size:14px;flex:none}
+/* SPLIT hero */
+.hero{position:relative;min-height:100vh;min-height:100svh;display:grid;grid-template-columns:minmax(0,42%) minmax(0,58%);background:var(--bg);padding-top:68px}
+.hero-copy{display:flex;align-items:center;padding:48px 40px 56px 48px;background:var(--bg)}
+.hero-copy .inner{width:100%;max-width:460px}
+.hero-media{position:relative;padding:28px 28px 28px 8px;display:flex;align-items:stretch}
+.hero-media .frame{position:relative;flex:1;border-radius:28px;overflow:hidden;background:#e9e2d8;box-shadow:0 24px 60px -28px rgba(26,20,16,.35);min-height:420px}
+.hero-media video,.hero-media .poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.eyebrow{font-size:12px;letter-spacing:.22em;text-transform:uppercase;font-weight:500;color:var(--mut);display:flex;align-items:center;gap:12px;white-space:nowrap}
+.eyebrow::before{content:"";width:28px;height:1px;background:currentColor;opacity:.7;flex:none}
+.hero h1{font-size:clamp(36px,4.6vw,64px);line-height:1.02;margin:16px 0 0;max-width:12ch;color:var(--ink)}
+.hero h1 em{font-style:italic;color:var(--a)}
+.hero p.sub{font-size:clamp(16px,1.3vw,18px);max-width:34ch;margin:18px 0 0;color:var(--mut)}
+.cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:28px}
+.chips{display:flex;flex-direction:column;gap:10px;margin-top:26px;font-size:14px;color:var(--mut)}
+.chips span{display:inline-flex;align-items:center;gap:8px}.chips .ic{width:16px;height:16px}
+.dot{width:8px;height:8px;border-radius:50%;background:#3fa86a;box-shadow:0 0 0 4px rgba(63,168,106,.22);flex:none}.dot.off{background:#d08a52;box-shadow:0 0 0 4px rgba(208,138,82,.22)}
+.h-in>*{opacity:0;transform:translateY(18px);animation:up .85s cubic-bezier(.2,.7,.2,1) forwards}
+.h-in>*:nth-child(2){animation-delay:.1s}.h-in>*:nth-child(3){animation-delay:.2s}.h-in>*:nth-child(4){animation-delay:.3s}.h-in>*:nth-child(5){animation-delay:.4s}
+@keyframes up{to{opacity:1;transform:none}}
+/* ticker */
+.tick{background:var(--ink);color:#f6f1ea;overflow:hidden;white-space:nowrap;padding:18px 0;font-family:Fraunces,serif;font-size:22px;font-style:italic}
+.tick div{display:inline-flex;gap:28px;animation:mq 40s linear infinite;padding-left:28px}.tick i{font-style:normal;color:var(--a);font-size:14px;align-self:center}
+@keyframes mq{to{transform:translateX(-50%)}}
+section.s{padding:clamp(72px,11vw,140px) 0}
+.kicker{font-size:12px;letter-spacing:.28em;text-transform:uppercase;color:var(--a);font-weight:600}
+h2{font-size:clamp(38px,5.4vw,72px);line-height:1;margin:14px 0 0}h2 em{font-style:italic;color:var(--a)}
+.lead{color:var(--mut);max-width:46ch;margin:18px 0 0}
+.head{display:flex;justify-content:space-between;align-items:end;gap:24px;flex-wrap:wrap}
+.svcs{list-style:none;padding:0;margin:48px 0 0;display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--line);border:1px solid var(--line);border-radius:28px;overflow:hidden}
+.svc{background:var(--card);padding:38px 32px;display:flex;flex-direction:column;gap:26px;min-height:200px;justify-content:space-between;transition:background .3s}
+.svc:hover{background:#fff}.svc-ic{width:56px;height:56px;border-radius:50%;display:grid;place-items:center;background:color-mix(in srgb,var(--a) 10%,#fff);color:var(--a)}
+.svc-n{font-family:Fraunces,serif;font-size:clamp(22px,2.2vw,30px);line-height:1.1}
+.gal{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-top:48px}
+.g{display:block;width:100%;aspect-ratio:4/5;padding:0;border:0;background:#e9e2d8;cursor:zoom-in;border-radius:18px;overflow:hidden}
+.g img{width:100%;height:100%;object-fit:cover;transition:transform .8s cubic-bezier(.2,.7,.2,1)}.g:hover img{transform:scale(1.04)}
+.why{background:var(--ink);color:#f6f1ea}.why .grid{display:grid;grid-template-columns:1fr 1.1fr;gap:clamp(32px,6vw,96px);align-items:center}
+.why figure{margin:0;border-radius:28px;overflow:hidden;aspect-ratio:4/5}.why figure img{width:100%;height:100%;object-fit:cover}
+.why ul{list-style:none;padding:0;margin:40px 0 0}.why li{display:flex;gap:22px;padding:24px 0;border-top:1px solid rgba(246,241,234,.14)}
+.why .wn{font-family:Fraunces,serif;font-style:italic;color:var(--a);font-size:20px;min-width:32px;filter:brightness(1.35)}
+.why h3{font-size:24px;margin:0}.why p{margin:6px 0 0;color:rgba(246,241,234,.7)}.why .kicker{filter:brightness(1.35)}
+.visit .grid{display:grid;grid-template-columns:1fr 1.2fr;gap:24px;margin-top:48px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:28px;padding:36px}
+.card .row{display:flex;gap:14px;align-items:flex-start;padding:14px 0}.card .row .ic{color:var(--a);flex:none;margin-top:3px}
+.card a{text-decoration-color:rgba(0,0,0,.2);text-underline-offset:4px}
+table{width:100%;border-collapse:collapse;margin-top:6px;font-size:15px}th,td{text-align:left;padding:9px 0;border-bottom:1px solid var(--line);font-weight:400}td{text-align:right;color:var(--mut)}
+tr.today th,tr.today td{color:var(--ink);font-weight:600}tr.today th::after{content:" · today";color:var(--a);font-weight:500;font-size:13px}
+.note{font-size:13px;color:var(--mut);margin-top:12px}
+.map{border-radius:28px;overflow:hidden;border:1px solid var(--line);min-height:420px;background:#e9e2d8}.map iframe{width:100%;height:100%;min-height:420px;border:0;filter:grayscale(.28) contrast(1.05)}
+footer{padding:48px 0 120px;color:var(--mut);font-size:14px}footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;border-top:1px solid var(--line);padding-top:28px}
+footer .serif{color:var(--ink);font-size:20px}
+.mbar{display:none}
+.rv{opacity:0;transform:translateY(28px);transition:opacity .9s cubic-bezier(.2,.7,.2,1),transform .9s cubic-bezier(.2,.7,.2,1);transition-delay:var(--d,0ms)}.rv.in{opacity:1;transform:none}
+.lb{position:fixed;inset:0;z-index:60;background:rgba(20,16,12,.94);display:none;align-items:center;justify-content:center}.lb.on{display:flex}
+.lb img{max-width:92vw;max-height:86vh;border-radius:12px;box-shadow:0 30px 80px rgba(0,0,0,.5)}
+.lb button{position:absolute;background:rgba(255,255,255,.1);border:0;color:#fff;width:52px;height:52px;border-radius:50%;display:grid;place-items:center;cursor:pointer}.lb button:hover{background:rgba(255,255,255,.2)}
+.lb .x{top:20px;right:20px}.lb .pv{left:20px;top:50%;transform:translateY(-50%)}.lb .nx{right:20px;top:50%;transform:translateY(-50%)}
+.lb .ct{position:absolute;bottom:22px;left:0;right:0;text-align:center;color:rgba(255,255,255,.7);font-size:14px}
+@media (max-width:980px){.hero{grid-template-columns:minmax(0,44%) minmax(0,56%)}.hero-copy{padding:36px 28px 48px 32px}.hero h1{font-size:clamp(32px,5vw,48px)}}
+@media (max-width:900px){.svcs{grid-template-columns:repeat(2,1fr)}.why .grid,.visit .grid{grid-template-columns:1fr}.why figure{aspect-ratio:4/3}}
+@media (max-width:767px){
+ body{font-size:16px}
+ .nav nav{display:none}
+ .nav .btn{display:inline-flex;padding:9px 14px;font-size:13px;gap:6px}
+ .nav .wrap{height:58px}
+ .brand{font-size:15px;max-width:calc(100% - 96px)}
+ /* mobile: video band then cream copy */
+ .hero{display:flex;flex-direction:column;min-height:0;padding-top:58px}
+ .hero-media{order:1;padding:0;height:320px;flex:none}
+ .hero-media .frame{border-radius:0;box-shadow:none;min-height:0;height:100%}
+ .hero-copy{order:2;align-items:flex-start;padding:28px 22px 120px;flex:none}
+ .hero-copy .inner{max-width:none}
+ .hero h1{font-size:clamp(32px,9.5vw,42px);max-width:14ch;line-height:1.05}
+ .eyebrow{letter-spacing:.14em;font-size:11px}
+ .cta{margin-top:22px}.cta .btn{flex:1;justify-content:center;padding:14px 16px}
+ .chips{margin-top:20px}
+ .svc{padding:26px 20px;min-height:170px}.gal{grid-template-columns:repeat(2,1fr);gap:10px}.g{border-radius:14px}
+ .card{padding:26px}.map,.map iframe{min-height:320px}
+ .mbar{display:flex;position:fixed;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));z-index:50;gap:8px;padding:8px;border-radius:999px;background:rgba(26,20,16,.90);backdrop-filter:blur(12px);box-shadow:0 12px 40px rgba(0,0,0,.28);transform:translateY(140%);transition:transform .45s cubic-bezier(.2,.7,.2,1)}
+ .mbar.on{transform:none}.mbar a{flex:1;display:flex;align-items:center;justify-content:center;gap:8px;padding:14px 0;border-radius:999px;color:#fff;text-decoration:none;font-weight:500;font-size:15px}.mbar a .ic{width:18px;height:18px}.mbar a.p{background:var(--a)}
+ .lb .pv,.lb .nx{display:none}
+}
+@media (prefers-reduced-motion:reduce){.rv,.h-in>*{opacity:1!important;transform:none!important;animation:none!important;transition:none!important}.tick div{animation:none}}
+</style></head><body>
+<header class="nav" id="nav"><div class="wrap">
+<a class="brand" href="#top">Annaz Hair Studio</a>
+<nav><a href="#services">Services</a><a href="#gallery">Gallery</a><a href="#why">Why us</a><a href="#visit">Visit</a></nav>
+<a class="btn btn-p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a>
+</div></header>
+<main id="top">
+<section class="hero">
+<div class="hero-copy"><div class="inner h-in">
+<div class="eyebrow">Hair Salon · Greenacres, FL</div>
+<h1>Color, cuts &amp; care that <em>last.</em></h1>
+<p class="sub">Precision cuts, dimensional color and blowouts on Lake Worth Rd — for over 16 years.</p>
+<div class="cta">
+<a class="btn btn-p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call now</a>
+<a class="btn btn-g" href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a>
+</div>
+<div class="chips"><span><i class="dot" id="od"></i><b id="os" style="font-weight:500">Open Tue – Sat</b></span><span><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>7396 Lake Worth Rd, Greenacres, FL 33467</span></div>
+</div></div>
+<div class="hero-media"><div class="frame">
+<img class="poster" id="hp" src="hero-desktop.jpg" alt="" fetchpriority="high">
+<video id="hv" muted loop playsinline autoplay preload="auto" aria-hidden="true"></video>
+</div></div>
+</section>
+<div class="tick" aria-hidden="true"><div>
+<span>Haircuts</span><i>✦</i><span>Color &amp; Highlights</span><i>✦</i><span>Balayage</span><i>✦</i><span>Blowouts &amp; Styling</span><i>✦</i><span>Treatments</span><i>✦</i><span>Bridal &amp; Events</span><i>✦</i><span>Blowouts</span><i>✦</i>
+<span>Haircuts</span><i>✦</i><span>Color &amp; Highlights</span><i>✦</i><span>Balayage</span><i>✦</i><span>Blowouts &amp; Styling</span><i>✦</i><span>Treatments</span><i>✦</i><span>Bridal &amp; Events</span><i>✦</i><span>Blowouts</span><i>✦</i>
+</div></div>
+<section class="s" id="services"><div class="wrap">
+<div class="head"><div><div class="kicker rv">Services</div><h2 class="rv">Color, cut <em>&amp; care.</em></h2></div><p class="lead rv">Haircuts, color, highlights and blowouts. Call to book — no prices listed here.</p></div>
+<ul class="svcs">
+<li class="svc rv" style="--d:0ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2M9.6 4.6A2 2 0 1 1 11 8H2M12.6 19.4A2 2 0 1 0 14 16H2"/></svg></span><span class="svc-n">Haircuts</span></li>
+<li class="svc rv" style="--d:70ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22a7 7 0 0 0 7-7c0-2-1-3.9-3-5.5s-3.5-4-4-6.5c-.5 2.5-2 4.9-4 6.5C6 11.1 5 13 5 15a7 7 0 0 0 7 7z"/></svg></span><span class="svc-n">Color</span></li>
+<li class="svc rv" style="--d:140ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M9.94 15.5A2 2 0 0 0 8.5 14.06l-6.14-1.58a.5.5 0 0 1 0-.96L8.5 9.94A2 2 0 0 0 9.94 8.5l1.58-6.14a.5.5 0 0 1 .96 0l1.58 6.14a2 2 0 0 0 1.44 1.44l6.14 1.58a.5.5 0 0 1 0 .96l-6.14 1.58a2 2 0 0 0-1.44 1.44l-1.58 6.14a.5.5 0 0 1-.96 0z"/></svg></span><span class="svc-n">Highlights &amp; Balayage</span></li>
+<li class="svc rv" style="--d:210ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="6" cy="6" r="3"/><path d="M8.12 8.12 12 12M20 4 8.12 15.88"/><circle cx="6" cy="18" r="3"/><path d="M14.8 14.8 20 20"/></svg></span><span class="svc-n">Blowouts &amp; Styling</span></li>
+<li class="svc rv" style="--d:280ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/><path d="m9 12 2 2 4-4"/></svg></span><span class="svc-n">Treatments</span></li>
+<li class="svc rv" style="--d:350ms"><span class="svc-ic"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M2 6c.6.5 1.2 1 2.5 1C7 7 7 5 9.5 5c2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1M2 12c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1M2 18c.6.5 1.2 1 2.5 1 2.5 0 2.5-2 5-2 2.6 0 2.4 2 5 2 2.5 0 2.5-2 5-2 1.3 0 1.9.5 2.5 1"/></svg></span><span class="svc-n">Bridal &amp; Events</span></li>
+</ul></div></section>
+<section class="s" id="gallery" style="padding-top:0"><div class="wrap">
+<div class="head"><div><div class="kicker rv">Gallery</div><h2 class="rv">The <em>work.</em></h2></div><p class="lead rv">Photos from Annaz Hair Studio’s Call and Google gallery. Tap any photo to view it larger.</p></div>
+<div class="gal" id="gal"></div></div></section>
+<section class="s why" id="why"><div class="wrap grid">
+<figure class="rv"><img src="g/01.webp" loading="lazy" alt="Hair by Annaz Hair Studio, Greenacres FL"></figure>
+<div><div class="kicker rv">Why Annaz</div><h2 class="rv">Made for <em>real life.</em></h2>
+<ul>
+<li class="rv" style="--d:0ms"><span class="wn">01</span><div><h3>Cuts &amp; color</h3><p>Precision cuts, dimensional color, highlights, balayage and blowouts.</p></div></li>
+<li class="rv" style="--d:90ms"><span class="wn">02</span><div><h3>Easy to book</h3><p>Appointments recommended — call (561) 355-0907.</p></div></li>
+<li class="rv" style="--d:180ms"><span class="wn">03</span><div><h3>Open five days</h3><p>Tuesday to Saturday, 8 AM – 5 PM. Closed Sunday &amp; Monday.</p></div></li>
+<li class="rv" style="--d:270ms"><span class="wn">04</span><div><h3>Easy to find</h3><p>7396 Lake Worth Rd, Greenacres, FL 33467. Tap Directions.</p></div></li>
+</ul></div></div></section>
+<section class="s visit" id="visit"><div class="wrap">
+<div class="head"><div><div class="kicker rv">Visit</div><h2 class="rv">Come <em>see us.</em></h2></div>
+<a class="btn btn-p rv" href="tel:+15613550907" target="_blank" rel="noopener">Call to book</a>
+</div>
+<div class="grid">
+<div class="card rv">
+<div class="row"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg><div><b style="font-weight:500">Address</b><br><a href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener">7396 Lake Worth Rd, Greenacres, FL 33467</a></div></div>
+<div class="row"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><div><b style="font-weight:500">Phone</b><br><a href="tel:+15613550907">(561) 355-0907</a></div></div>
+<div class="row"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg><div style="flex:1"><b style="font-weight:500">Hours</b>
+<table id="ht">
+<tr data-d="0"><th>Monday</th><td>Closed</td></tr>
+<tr data-d="1"><th>Tuesday</th><td>8 AM – 5 PM</td></tr>
+<tr data-d="2"><th>Wednesday</th><td>8 AM – 5 PM</td></tr>
+<tr data-d="3"><th>Thursday</th><td>8 AM – 5 PM</td></tr>
+<tr data-d="4"><th>Friday</th><td>8 AM – 5 PM</td></tr>
+<tr data-d="5"><th>Saturday</th><td>8 AM – 5 PM</td></tr>
+<tr data-d="6"><th>Sunday</th><td>Closed</td></tr>
+</table>
+<div class="note">Hours from Google Maps. Please call to confirm, especially on holidays.</div></div></div>
+<div class="cta" style="margin-top:18px">
+<a class="btn btn-o" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call (561) 355-0907</a>
+<a class="btn btn-o" href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a>
+</div>
+</div>
+<div class="map rv"><iframe src="https://www.google.com/maps?q=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&z=15&output=embed" loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Map to Annaz Hair Studio"></iframe></div>
+</div></div></section>
+</main>
+<footer><div class="wrap"><div><div class="serif">Annaz Hair Studio</div>7396 Lake Worth Rd, Greenacres, FL 33467 · <a href="tel:+15613550907">(561) 355-0907</a></div><div><a href="tel:+15613550907" target="_blank" rel="noopener">Call</a> · © 2026 Annaz Hair Studio</div></div></footer>
+<div class="mbar" id="mb">
+<a class="p" href="tel:+15613550907"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a>
+<a href="https://www.google.com/maps/dir/?api=1&destination=7396%20Lake%20Worth%20Rd%2C%20Greenacres%2C%20FL%2033467&destination_place_id=ChIJVwY-S0Am2YgR5Bnr4U378jc" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Directions</a>
+</div>
+<div class="lb" id="lb" role="dialog" aria-modal="true" aria-label="Photo viewer">
+<button class="x" aria-label="Close"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M18 6 6 18M6 6l12 12"/></svg></button>
+<button class="pv" aria-label="Previous"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m15 18-6-6 6-6"/></svg></button>
+<img id="lbi" alt="">
+<button class="nx" aria-label="Next"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m9 18 6-6-6-6"/></svg></button>
+<div class="ct" id="lbc"></div>
+</div>
+<script>
+(function(){
+var mob=matchMedia('(max-width:767px)').matches,rm=matchMedia('(prefers-reduced-motion:reduce)').matches,v=document.getElementById('hv'),hp=document.getElementById('hp');
+var pre=mob?'hero-mobile':'hero-desktop';hp.src=pre+'.jpg';
+if(!rm){v.poster=pre+'.jpg';v.src=pre+'.mp4';v.muted=true;v.loop=true;v.setAttribute('playsinline','');v.addEventListener('playing',function(){hp.style.transition='opacity .5s';hp.style.opacity=0});var p=v.play();if(p&&p.catch)p.catch(function(){})}else{v.remove()}
+var mb=document.getElementById('mb');
+function sc(){mb.classList.toggle('on',scrollY>220)}addEventListener('scroll',sc,{passive:true});sc();
+var io=new IntersectionObserver(function(es){es.forEach(function(x){if(x.isIntersecting){x.target.classList.add('in');io.unobserve(x.target)}})},{rootMargin:'0px 0px -8% 0px'});
+document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});
+var H=[null,[480,1020],[480,1020],[480,1020],[480,1020],[480,1020],null],TZ="America/New_York";
+try{var f=new Intl.DateTimeFormat('en-US',{timeZone:TZ,weekday:'short',hour:'numeric',minute:'numeric',hour12:false}).formatToParts(new Date()),o={};f.forEach(function(p){o[p.type]=p.value});
+var d=['Mon','Tue','Wed','Thu','Fri','Sat','Sun'].indexOf(o.weekday),m=(+o.hour%24)*60+(+o.minute),t=H[d];
+var r=document.querySelector('#ht tr[data-d="'+d+'"]');if(r)r.className='today';
+function fm(x){var h=Math.floor(x/60),mm=x%60,ap=h<12?'AM':'PM';h=h%12||12;return h+(mm?':'+(mm<10?'0':'')+mm:'')+' '+ap}
+var os=document.getElementById('os'),od=document.getElementById('od');
+if(t&&m>=t[0]&&m<t[1]){os.textContent='Open now · until '+fm(t[1])}else{od.classList.add('off');for(var k=0;k<8;k++){var dd=(d+k)%7,tt=H[dd];if(tt&&(k>0||m<tt[0])){os.textContent='Closed now · opens '+(k==0?'today':k==1?'tomorrow':['Mon','Tue','Wed','Thu','Fri','Sat','Sun'][dd])+' '+fm(tt[0]);break}}}}catch(e){}
+/* gallery buttons from meta */
+var G=["g/01","g/02","g/03","g/04","g/05","g/06","g/07","g/08","g/09","g/10","g/11","g/12"];
+var gal=document.getElementById('gal');
+G.forEach(function(f,i){var b=document.createElement('button');b.className='g rv';b.style.setProperty('--d',(i%3)*80+'ms');b.dataset.i=i;b.setAttribute('aria-label','Open photo '+(i+1));
+b.innerHTML='<img src="'+f+'-s.webp" loading="lazy" decoding="async" alt="Hair by Annaz Hair Studio, Greenacres FL — photo '+(i+1)+'">';gal.appendChild(b);io.observe(b)});
+var lb=document.getElementById('lb'),li=document.getElementById('lbi'),lc=document.getElementById('lbc'),cur=0;
+function show(i){cur=(i+G.length)%G.length;li.src=G[cur]+'.webp';lc.textContent=(cur+1)+' / '+G.length;lb.classList.add('on');document.body.style.overflow='hidden'}
+function hide(){lb.classList.remove('on');document.body.style.overflow=''}
+gal.addEventListener('click',function(e){var b=e.target.closest('.g');if(b)show(+b.dataset.i)});
+lb.querySelector('.x').onclick=hide;lb.querySelector('.pv').onclick=function(e){e.stopPropagation();show(cur-1)};lb.querySelector('.nx').onclick=function(e){e.stopPropagation();show(cur+1)};
+lb.addEventListener('click',function(e){if(e.target===lb)hide()});
+addEventListener('keydown',function(e){if(!lb.classList.contains('on'))return;if(e.key=='Escape')hide();if(e.key=='ArrowLeft')show(cur-1);if(e.key=='ArrowRight')show(cur+1)});
+})();
+</script>
+</body></html>
