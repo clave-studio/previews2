@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<title>Gramercy Hair Salon · Boca Raton, FL</title>
+<meta name="description" content="Luxury hair salon in Boca Raton — dimensional color, balayage, extensions, keratin treatments and expert cuts."/>
+<meta name="theme-color" content="#F6F1E8"/>
+<meta name="robots" content="noindex"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--bg:#F6F1E8;--bg2:#EDE5D8;--card:#FFFCFA;--ink:#1F1A16;--mut:#6E645A;--line:rgba(31,26,22,.12);--a:#B08A4A;--ad:#8A6A34;--al:#D4B87A;--at:#E8D5A8;--nav:84px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:Jost,"Segoe UI",system-ui,sans-serif;font-weight:400;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}img{display:block;max-width:100%}.ic{width:16px;height:16px;flex:none}
+.wrap{width:min(100%,1180px);margin:0 auto;padding:0 clamp(20px,4vw,48px)}
+.orn{display:flex;align-items:center;justify-content:center;gap:16px;color:var(--ad);font-size:11px;font-weight:500;letter-spacing:.28em;text-transform:uppercase}
+.orn::before,.orn::after{content:"";width:48px;height:1px;background:currentColor;opacity:.45}
+h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(36px,4.6vw,58px);line-height:1.02;text-align:center;margin:16px 0 12px}
+h2 em{font-style:italic;color:var(--ad)}.lede{text-align:center;color:var(--mut);font-size:15px;max-width:48ch;margin:0 auto}
+.nav{position:sticky;top:0;z-index:40;background:rgba(246,241,232,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav .in{height:var(--nav);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.brand img{height:36px;width:auto;max-width:160px;object-fit:contain}
+.brand .name{font-family:"Cormorant Garamond",Georgia,serif;font-size:clamp(18px,2vw,24px);font-weight:500;letter-spacing:.06em;line-height:1.05}
+.brand .tag{font-size:10px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-top:3px}
+.nav-cta{display:flex;align-items:center;gap:10px;flex:none}
+.pill{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 18px;border:1px solid rgba(31,26,22,.5);border-radius:999px;font-size:13px;font-weight:500;letter-spacing:.04em;white-space:nowrap;transition:.2s}
+.pill:hover{background:var(--ink);color:var(--bg)}.pill.solid{background:var(--a);border-color:var(--a);color:#FFFCFA}.pill.solid:hover{background:var(--ad)}
+.hero{position:relative;min-height:calc(100svh - var(--nav));display:grid;align-items:end;justify-items:center;text-align:center;overflow:hidden;color:#FFFCFA;isolation:isolate}
+@media (min-width:768px){.hero{align-items:center}}
+.hero .poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 25%;z-index:-2}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(31,26,22,.25),rgba(31,26,22,.55) 55%,rgba(31,26,22,.72))}
+.h-in{padding:clamp(28px,6vh,110px) 20px clamp(88px,11vh,120px);max-width:920px}
+.eyebrow{display:inline-flex;align-items:center;gap:14px;font-size:11px;font-weight:500;letter-spacing:.3em;text-transform:uppercase;color:#FFF6EE}
+.eyebrow::before,.eyebrow::after{content:"";width:clamp(24px,5vw,56px);height:1px;background:currentColor;opacity:.6}
+.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(42px,6.8vw,88px);line-height:.98;margin:22px 0 20px;text-shadow:0 2px 24px rgba(0,0,0,.28)}
+.hero h1 em{display:block;font-style:italic;font-weight:400;color:var(--at)}
+.sub{font-size:clamp(15px,1.35vw,18px);font-weight:300;max-width:46ch;margin:0 auto;color:#FFF8F1}
+.cta{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:30px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 26px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;transition:.2s;white-space:nowrap}
+.btn-s{background:var(--a);color:#FFFCFA;border:1px solid transparent}.btn-s:hover{background:var(--ad)}
+.btn-o{border:1px solid rgba(255,252,248,.78);color:#FFFCFA;background:rgba(255,252,248,.08)}.btn-o:hover{background:rgba(255,252,248,.18)}
+.trust{margin-top:24px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;font-size:13px;color:#FFF6EE}
+.trust .st{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:17px}
+.svc{padding:clamp(64px,9vw,112px) 0}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.sc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px 24px}
+.sc h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:25px;margin-bottom:12px}
+.sc ul{list-style:none}.sc li{font-size:14.5px;color:var(--mut);padding:7px 0;border-top:1px solid var(--line)}.sc li:first-child{border-top:0}
+.peek{padding:0 0 clamp(56px,8vw,96px)}
+.strip{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(10px,1.4vw,18px);margin-top:clamp(28px,4vw,48px)}
+.g{overflow:hidden;border-radius:clamp(14px,1.6vw,22px);aspect-ratio:3/4;background:var(--bg2);border:0;padding:0;cursor:pointer}
+.g img{width:100%;height:100%;object-fit:cover;transition:transform .7s}.g:hover img{transform:scale(1.04)}.g:nth-child(even){margin-top:clamp(0px,2.5vw,36px)}
+.rvw{padding:0 0 clamp(64px,9vw,112px)}
+.rg{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.rc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px 26px;display:flex;flex-direction:column;gap:14px}
+.rc .stars{color:var(--a);letter-spacing:.12em}.rc .stars small{color:var(--mut);font-size:12px;margin-left:6px}
+.rc q{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:20px;line-height:1.35;quotes:"\201C" "\201D"}
+.rc .who{margin-top:auto;font-size:12px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--ad)}
+.closing{padding:0 0 clamp(64px,9vw,112px)}
+.cl{background:var(--bg2);border:1px solid var(--line);border-radius:clamp(22px,3vw,36px);padding:clamp(40px,6vw,72px) clamp(22px,5vw,56px);display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(24px,4vw,48px);align-items:center}
+.cl-copy h2{text-align:left;margin-top:10px}.cl-copy .lede{text-align:left;margin:0}
+.hrs{margin-top:18px;font-size:14px;color:var(--mut)}.hrs b{display:block;font-size:11px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-bottom:8px}
+.hrs li{list-style:none;display:flex;justify-content:space-between;gap:16px;padding:5px 0;border-bottom:1px solid var(--line);max-width:340px}
+.map-card{border-radius:20px;overflow:hidden;border:1px solid var(--line);min-height:280px}
+.map-card iframe{width:100%;height:100%;min-height:280px;border:0;display:block;filter:grayscale(.1)}
+.cl .cta{justify-content:flex-start;margin-top:22px}.cl .btn-o{border-color:rgba(31,26,22,.45);color:var(--ink);background:transparent}.cl .btn-o:hover{background:var(--ink);color:var(--bg)}
+footer{border-top:1px solid var(--line);padding:28px 0 100px;color:var(--mut);font-size:13px}
+footer .in{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer b{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:18px;color:var(--ink);margin-right:10px}
+.mbar{display:none}.rv{opacity:0;transform:translateY(14px);transition:opacity .8s,transform .8s}.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none}}
+@media (max-width:900px){.rg,.strip{grid-template-columns:1fr 1fr}.cl{grid-template-columns:1fr}.cl-copy h2,.cl-copy .lede{text-align:center}.cl .cta{justify-content:center}.hrs li{margin:0 auto}}
+@media (max-width:767px){:root{--nav:68px}.brand .tag,.brand .name{display:none}.nav .pill span.hide-sm{display:none}.strip,.rg{grid-template-columns:1fr 1fr}.g:nth-child(even){margin-top:0}
+.mbar{display:flex;position:fixed;left:12px;right:12px;bottom:14px;z-index:50;gap:8px;padding:8px;border-radius:999px;background:rgba(246,241,232,.96);backdrop-filter:blur(10px);border:1px solid var(--line);box-shadow:0 10px 30px rgba(31,26,22,.14)}
+.mbar a{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.08em;text-transform:uppercase}
+.mbar a.p{background:var(--a);color:#FFFCFA}.mbar a:not(.p){border:1px solid rgba(31,26,22,.35)}footer{padding-bottom:110px}}
+
+/* Layout D — split storefront */
+.hero{display:grid!important;grid-template-columns:.95fr 1.05fr;align-items:stretch!important;justify-items:stretch!important;min-height:calc(100svh - var(--nav));color:var(--ink);text-align:left;isolation:isolate;overflow:hidden}
+.hero .poster{position:relative!important;inset:auto!important;width:100%;height:100%;min-height:420px;object-fit:cover;object-position:center 40%;z-index:0}
+.hero::after{display:none!important}
+.h-in{position:relative;background:var(--bg);color:var(--ink);padding:clamp(36px,6vw,72px) clamp(24px,4vw,56px);display:flex;flex-direction:column;justify-content:center;max-width:none;text-align:left}
+.hero .eyebrow{color:var(--ad)}.hero .eyebrow::before,.hero .eyebrow::after{background:var(--ad)}
+.hero h1{color:var(--ink);text-shadow:none;font-size:clamp(38px,5vw,70px);margin:18px 0 16px;line-height:1.02}
+.hero h1 em{color:var(--ad);display:inline}
+.hero .sub{color:var(--mut);margin:0}
+.hero .cta{justify-content:flex-start}
+.hero .btn-o{border-color:rgba(31,26,22,.45);color:var(--ink);background:transparent}
+.hero .btn-o:hover{background:var(--ink);color:var(--bg)}
+.trust{justify-content:flex-start;color:var(--mut)}
+.trust .st{color:var(--ink)}
+@media (max-width:900px){.hero{grid-template-columns:1fr}.hero .poster{min-height:46vh;max-height:50vh;order:-1}.h-in{text-align:center;align-items:center}.hero .cta,.trust,.eyebrow{justify-content:center}.hero .sub{margin:0 auto}.hero h1 em{display:block}}
+
+/* QA mobile header + sticky CTA clearance */
+.brand{min-width:0;flex:1}
+.brand .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:min(52vw,220px)}
+.pill.desk-only{display:inline-flex}
+.pill.compact-call{padding:0 14px}
+@media (max-width:767px){
+  .brand .name{font-size:15px!important;letter-spacing:.02em;max-width:calc(100vw - 150px)}
+  .brand .tag{display:none!important}
+  .pill.desk-only{display:none!important}
+  .pill.compact-call{height:40px;padding:0 12px;font-size:12px;gap:6px}
+  .pill.compact-call .call-num{display:none}
+  .pill.compact-call .call-short{display:inline}
+  .hero .h-in{padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))!important}
+  .hero .cta{margin-top:16px;gap:8px}
+  .hero .btn{min-height:46px;padding:0 18px;font-size:11px}
+  .trust{margin-top:12px;font-size:12px;gap:6px 12px}
+}
+.pill.compact-call .call-short{display:none}
+
+@media (max-width:767px){
+  .hero .poster{min-height:32vh!important;max-height:34vh!important}
+  .hero .h-in{padding-top:16px!important;padding-bottom:calc(100px + env(safe-area-inset-bottom,0px))!important}
+  .hero h1{font-size:32px!important;margin:10px 0 10px!important}
+  .hero .sub{font-size:13.5px!important}
+  .hero .cta{margin-top:12px!important}
+  .hero .btn{min-height:44px!important;padding:0 14px!important}
+  .hero .btn-o{font-size:10px!important;letter-spacing:.06em}
+  .trust{margin-top:8px!important;font-size:11px!important}
+  .trust span:last-child{display:none}
+}
+</style></head>
+<body>
+<header class="nav"><div class="wrap in">
+<a class="brand" href="#top"><img src="src/logo.jpg" alt="Gramercy Hair Salon"/><div><div class="name">Gramercy</div><div class="tag">Boca Raton</div></div></a>
+<div class="nav-cta">
+<a class="pill compact-call" href="tel:+15616009594"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span class="hide-sm">Call </span><span class="call-num">(561) 600-9594</span><span class="call-short">Call</span></a>
+<a class="pill solid desk-only" href="https://gramercyhairsalon.com/booknow-gramercy-salon/" target="_blank" rel="noopener">Book</a>
+</div></div></header>
+<main id="top">
+<section class="hero">
+<img class="poster" src="src/hero.jpg" alt="Gramercy Hair Salon storefront on N Federal Hwy, Boca Raton" fetchpriority="high"/>
+<div class="h-in">
+<div class="eyebrow">Boca Raton · Luxury Hair</div>
+<h1>More than just <em>great hair.</em></h1>
+<p class="sub">Dimensional color, invisible extensions, keratin treatments and precision cuts in a welcoming, sophisticated Boca Raton studio.</p>
+<div class="cta">
+<a class="btn btn-s" href="https://gramercyhairsalon.com/booknow-gramercy-salon/" target="_blank" rel="noopener">Book online</a>
+<a class="btn btn-o" href="tel:+15616009594"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call (561) 600-9594</a>
+</div>
+<div class="trust"><span class="st">4.7 on Google</span><span>· 577 reviews</span><span>2880 N Federal Hwy, Boca Raton</span></div>
+</div></section>
+<section class="svc" id="services"><div class="wrap">
+<div class="orn rv">Services</div><h2 class="rv">Crafted for <em>Boca.</em></h2>
+<p class="lede rv">From the Gramercy menu — color, cuts, extensions and smoothing.</p>
+<div class="sg">
+<div class="sc rv"><h3>Color</h3><ul><li>Dimensional color</li><li>Balayage &amp; highlights</li><li>French blending</li><li>Root touch-ups &amp; lowlights</li></ul></div>
+<div class="sc rv"><h3>Cut &amp; Style</h3><ul><li>Precision haircuts</li><li>Blowouts</li><li>Personalized styling</li><li>Look transformations</li></ul></div>
+<div class="sc rv"><h3>Extensions</h3><ul><li>Invisible luxury extensions</li><li>Length &amp; volume</li><li>Comfortable, easy-to-maintain installs</li></ul></div>
+<div class="sc rv"><h3>Treatments</h3><ul><li>Keratin smoothing</li><li>Hair botox &amp; nanoplasty</li><li>Thinning &amp; anti-aging care</li><li>Malina smoothing</li></ul></div>
+</div></div></section>
+<section class="peek" id="gallery"><div class="wrap">
+<div class="orn rv">Gallery</div><h2 class="rv">Salon &amp; <em>results.</em></h2>
+<p class="lede rv">Salon interiors and guest results.</p>
+<div class="strip">
+<button class="g rv" type="button"><img src="src/g1.jpg" alt="Gramercy salon interior" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g5.jpg" alt="Salon styling area" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g11.jpg" alt="Long blonde balayage" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/hero-style.jpg" alt="Dimensional blonde waves" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g8.jpg" alt="Smooth blonde result" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g12.jpg" alt="Layered cut and color" loading="lazy"/></button>
+</div></div></section>
+<section class="rvw" id="reviews"><div class="wrap">
+<div class="orn rv">Reviews</div><h2 class="rv">In their <em>own words.</em></h2>
+<p class="lede rv">Exact quotes from Google · 4.7 ★ · 577 reviews</p>
+<div class="rg">
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>Such a lovely experience! Everyone was so welcoming and friendly. I went in for a root touch-up, and B Corba did an amazing job! The separate hair wash room was such a peaceful and relaxing space.</q>
+<figcaption class="who">Nihal D · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>I came into gramercy to get my hair cut by isa and left very satisfied. It was absolutely amazing. From the moment I walked in, I was welcomed warmly and cared for. The atmosphere of the salon is very relaxing, and every part of the experience felt luxurious.</q>
+<figcaption class="who">Gisele Degouveia · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>I take the drive from Jupiter to Boca solely to get my hair done because I love it here so much! I went to Marques for the Malina smoothing treatment. … There’s no better feeling than a fresh blonde especially when you can rely on your stylist to get it right time after time!</q>
+<figcaption class="who">Amanda Sellmeyer · Google</figcaption></figure>
+</div></div></section>
+<section class="closing" id="visit"><div class="wrap"><div class="cl rv">
+<div class="cl-copy">
+<div class="orn" style="justify-content:flex-start">Visit</div>
+<h2>Find us on <em>Federal Hwy.</em></h2>
+<p class="lede">2880 N Federal Hwy, Boca Raton, FL 33431</p>
+<ul class="hrs"><b>Hours</b>
+<li><span>Monday</span><span>11 AM – 7 PM</span></li>
+<li><span>Tuesday – Saturday</span><span>9 AM – 9 PM</span></li>
+<li><span>Sunday</span><span>12 – 6 PM</span></li>
+</ul>
+<div class="cta">
+<a class="btn btn-s" href="https://gramercyhairsalon.com/booknow-gramercy-salon/" target="_blank" rel="noopener">Book online</a>
+<a class="btn btn-o" href="tel:+15616009594">Call (561) 600-9594</a>
+</div></div>
+<div class="map-card"><iframe title="Map of Gramercy Hair Salon" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Gramercy+Hair+Salon,+2880+N+Federal+Hwy,+Boca+Raton,+FL+33431&output=embed"></iframe></div>
+</div></div></section>
+</main>
+<footer><div class="wrap in"><div><b>Gramercy Hair Salon</b>2880 N Federal Hwy, Boca Raton, FL 33431</div><div>(561) 600-9594 · info@gramercyhairsalon.com</div></div></footer>
+<div class="mbar"><a class="p" href="https://gramercyhairsalon.com/booknow-gramercy-salon/" target="_blank" rel="noopener">Book</a>
+<a href="tel:+15616009594"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a></div>
+<script>(function(){var io=new IntersectionObserver(function(es){es.forEach(function(q){if(q.isIntersecting){q.target.classList.add('in');io.unobserve(q.target)}})},{rootMargin:'0px 0px -8% 0px'});document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});})();</script>
+</body></html>

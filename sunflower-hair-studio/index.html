@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<title>Sunflower Hair Studio · North Miami Beach, FL</title>
+<meta name="description" content="Color, cuts, keratin, extensions and blowouts at Sunflower Hair Studio on NE 163rd St in North Miami Beach."/>
+<meta name="theme-color" content="#FBF6E8"/>
+<meta name="robots" content="noindex"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--bg:#FBF6E8;--bg2:#F0E6C8;--card:#FFFCF5;--ink:#2A2418;--mut:#6E6452;--line:rgba(42,36,24,.12);--a:#D4A017;--ad:#A67C0A;--al:#E8C547;--at:#F5E6A8;--nav:84px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:Jost,"Segoe UI",system-ui,sans-serif;font-weight:400;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}img{display:block;max-width:100%}.ic{width:16px;height:16px;flex:none}
+.wrap{width:min(100%,1180px);margin:0 auto;padding:0 clamp(20px,4vw,48px)}
+.orn{display:flex;align-items:center;justify-content:center;gap:16px;color:var(--ad);font-size:11px;font-weight:500;letter-spacing:.28em;text-transform:uppercase}
+.orn::before,.orn::after{content:"";width:48px;height:1px;background:currentColor;opacity:.45}
+h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(36px,4.6vw,58px);line-height:1.02;text-align:center;margin:16px 0 12px}
+h2 em{font-style:italic;color:var(--ad)}.lede{text-align:center;color:var(--mut);font-size:15px;max-width:48ch;margin:0 auto}
+.nav{position:sticky;top:0;z-index:40;background:rgba(251,246,232,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav .in{height:var(--nav);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.brand img{width:46px;height:46px;border-radius:50%;object-fit:cover;border:1px solid rgba(212,160,23,.4)}
+.brand .name{font-family:"Cormorant Garamond",Georgia,serif;font-size:clamp(18px,2vw,24px);font-weight:500;letter-spacing:.04em;line-height:1.05}
+.brand .tag{font-size:10px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-top:3px}
+.nav-cta{display:flex;align-items:center;gap:10px;flex:none}
+.pill{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 18px;border:1px solid rgba(42,36,24,.5);border-radius:999px;font-size:13px;font-weight:500;letter-spacing:.04em;white-space:nowrap;transition:.2s}
+.pill:hover{background:var(--ink);color:var(--bg)}.pill.solid{background:var(--a);border-color:var(--a);color:#1F1A10}.pill.solid:hover{background:var(--ad);color:#FFFCF5}
+/* Layout F — storefront with cream left panel */
+.hero{position:relative;min-height:calc(100svh - var(--nav));display:grid;grid-template-columns:minmax(280px,42%) 1fr;align-items:stretch;overflow:hidden;isolation:isolate}
+.hero .poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 35%;z-index:-2}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(90deg,rgba(251,246,232,.97) 0%,rgba(251,246,232,.92) 38%,rgba(251,246,232,.35) 55%,rgba(42,36,24,.15) 100%)}
+.h-in{position:relative;padding:clamp(36px,7vh,96px) clamp(22px,4vw,48px);display:flex;flex-direction:column;justify-content:center;max-width:520px;color:var(--ink);grid-column:1}
+.eyebrow{display:inline-flex;align-items:center;gap:14px;font-size:11px;font-weight:500;letter-spacing:.3em;text-transform:uppercase;color:var(--ad)}
+.eyebrow::before,.eyebrow::after{content:"";width:clamp(20px,4vw,40px);height:1px;background:currentColor;opacity:.6}
+.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(40px,5.5vw,72px);line-height:.98;margin:20px 0 18px;color:var(--ink)}
+.hero h1 em{font-style:italic;color:var(--ad)}
+.sub{font-size:clamp(15px,1.3vw,17px);font-weight:300;max-width:40ch;color:var(--mut)}
+.cta{display:flex;flex-wrap:wrap;gap:12px;margin-top:28px;justify-content:flex-start}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 26px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;transition:.2s;white-space:nowrap}
+.btn-s{background:var(--a);color:#1F1A10;border:1px solid transparent}.btn-s:hover{background:var(--ad);color:#FFFCF5}
+.btn-o{border:1px solid rgba(42,36,24,.45);color:var(--ink);background:transparent}.btn-o:hover{background:var(--ink);color:var(--bg)}
+.trust{margin-top:22px;display:flex;flex-wrap:wrap;gap:8px 18px;font-size:13px;color:var(--mut);justify-content:flex-start}
+.trust .st{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:17px;color:var(--ink)}
+.svc{padding:clamp(64px,9vw,112px) 0}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.sc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px 24px}
+.sc h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:25px;margin-bottom:12px}
+.sc ul{list-style:none}.sc li{font-size:14.5px;color:var(--mut);padding:7px 0;border-top:1px solid var(--line)}.sc li:first-child{border-top:0}
+.peek{padding:0 0 clamp(56px,8vw,96px)}
+.strip{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(10px,1.4vw,18px);margin-top:clamp(28px,4vw,48px)}
+.g{overflow:hidden;border-radius:clamp(14px,1.6vw,22px);aspect-ratio:3/4;background:var(--bg2);border:0;padding:0;cursor:pointer}
+.g img{width:100%;height:100%;object-fit:cover;transition:transform .7s}.g:hover img{transform:scale(1.04)}.g:nth-child(even){margin-top:clamp(0px,2.5vw,36px)}
+.rvw{padding:0 0 clamp(64px,9vw,112px)}
+.rg{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.rc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px 26px;display:flex;flex-direction:column;gap:14px}
+.rc .stars{color:var(--a);letter-spacing:.12em}.rc .stars small{color:var(--mut);font-size:12px;margin-left:6px}
+.rc q{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:20px;line-height:1.35;quotes:"\201C" "\201D"}
+.rc .who{margin-top:auto;font-size:12px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--ad)}
+.closing{padding:0 0 clamp(64px,9vw,112px)}
+.cl{background:var(--bg2);border:1px solid var(--line);border-radius:clamp(22px,3vw,36px);padding:clamp(40px,6vw,72px) clamp(22px,5vw,56px);display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(24px,4vw,48px);align-items:center}
+.cl-copy h2{text-align:left;margin-top:10px}.cl-copy .lede{text-align:left;margin:0}
+.hrs{margin-top:18px;font-size:14px;color:var(--mut)}.hrs b{display:block;font-size:11px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-bottom:8px}
+.hrs li{list-style:none;display:flex;justify-content:space-between;gap:16px;padding:5px 0;border-bottom:1px solid var(--line);max-width:340px}
+.map-card{border-radius:20px;overflow:hidden;border:1px solid var(--line);min-height:280px}
+.map-card iframe{width:100%;height:100%;min-height:280px;border:0;display:block;filter:grayscale(.1)}
+.cl .cta{justify-content:flex-start;margin-top:22px}
+footer{border-top:1px solid var(--line);padding:28px 0 100px;color:var(--mut);font-size:13px}
+footer .in{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer b{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:18px;color:var(--ink);margin-right:10px}
+.mbar{display:none}.rv{opacity:0;transform:translateY(14px);transition:opacity .8s,transform .8s}.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none}}
+@media (max-width:900px){.rg,.strip{grid-template-columns:1fr 1fr}.cl{grid-template-columns:1fr}.cl-copy h2,.cl-copy .lede{text-align:center}.cl .cta{justify-content:center}.hrs li{margin:0 auto}
+.hero{grid-template-columns:1fr}.hero::after{background:linear-gradient(180deg,rgba(251,246,232,.2),rgba(251,246,232,.88) 55%,rgba(251,246,232,.96))}
+.h-in{max-width:none;text-align:center;align-items:center;padding-top:42vh}.hero .cta,.trust,.eyebrow{justify-content:center}.sub{margin:0 auto}}
+@media (max-width:767px){:root{--nav:68px}.brand .tag{display:none}.nav .pill span.hide-sm{display:none}.strip,.rg{grid-template-columns:1fr 1fr}.g:nth-child(even){margin-top:0}
+.mbar{display:flex;position:fixed;left:12px;right:12px;bottom:14px;z-index:50;gap:8px;padding:8px;border-radius:999px;background:rgba(251,246,232,.96);backdrop-filter:blur(10px);border:1px solid var(--line);box-shadow:0 10px 30px rgba(42,36,24,.14)}
+.mbar a{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.08em;text-transform:uppercase}
+.mbar a.p{background:var(--a);color:#1F1A10}.mbar a:not(.p){border:1px solid rgba(42,36,24,.35)}footer{padding-bottom:110px}}
+
+/* QA mobile header + sticky CTA clearance */
+.brand{min-width:0;flex:1}
+.brand .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:min(52vw,220px)}
+.pill.desk-only{display:inline-flex}
+.pill.compact-call{padding:0 14px}
+@media (max-width:767px){
+  .brand .name{font-size:15px!important;letter-spacing:.02em;max-width:calc(100vw - 150px)}
+  .brand .tag{display:none!important}
+  .pill.desk-only{display:none!important}
+  .pill.compact-call{height:40px;padding:0 12px;font-size:12px;gap:6px}
+  .pill.compact-call .call-num{display:none}
+  .pill.compact-call .call-short{display:inline}
+  .hero .h-in{padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))!important}
+  .hero .cta{margin-top:16px;gap:8px}
+  .hero .btn{min-height:46px;padding:0 18px;font-size:11px}
+  .trust{margin-top:12px;font-size:12px;gap:6px 12px}
+}
+.pill.compact-call .call-short{display:none}
+
+@media (max-width:767px){
+  .hero .h-in{padding-top:36vh!important;padding-bottom:calc(92px + env(safe-area-inset-bottom,0px))!important}
+  .hero h1{font-size:34px!important;margin:12px 0 12px!important}
+}
+</style></head>
+<body>
+<header class="nav"><div class="wrap in">
+<a class="brand" href="#top"><img src="src/logo.jpg" alt="Sunflower Hair Studio"/><div><div class="name">Sunflower</div><div class="tag">North Miami Beach</div></div></a>
+<div class="nav-cta">
+<a class="pill desk-only" href="https://www.google.com/maps/place/?q=place_id:ChIJB2sW5git2YgR-EZZ_3CYDvQ" target="_blank" rel="noopener">Maps</a>
+<a class="pill solid compact-call" href="tel:+13059499949"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span class="hide-sm">Call </span><span class="call-num">(305) 949-9949</span><span class="call-short">Call</span></a>
+</div></div></header>
+<main id="top">
+<section class="hero">
+<img class="poster" src="src/hero.jpg" alt="Sunflower Hair Studio storefront in North Miami Beach" fetchpriority="high"/>
+<div class="h-in">
+<div class="eyebrow">North Miami Beach</div>
+<h1>Healthy color. <em>Warm welcome.</em></h1>
+<p class="sub">Color, cuts, keratin, extensions and blowouts with Cindy, Joanna and the team on NE 163rd St.</p>
+<div class="cta">
+<a class="btn btn-s" href="tel:+13059499949">Call to book</a>
+<a class="btn btn-o" href="https://www.google.com/maps/place/?q=place_id:ChIJB2sW5git2YgR-EZZ_3CYDvQ" target="_blank" rel="noopener">Get directions</a>
+</div>
+<div class="trust"><span class="st">4.9 on Google</span><span>· 177 reviews</span><span>3131 NE 163rd St</span></div>
+</div></section>
+<section class="svc" id="services"><div class="wrap">
+<div class="orn rv">Services</div><h2 class="rv">Hair, done <em>with care.</em></h2>
+<p class="lede rv">From Google guests and the studio windows — color, cuts, keratin and more.</p>
+<div class="sg">
+<div class="sc rv"><h3>Color</h3><ul><li>Custom color</li><li>Highlights</li><li>Tone &amp; gloss</li></ul></div>
+<div class="sc rv"><h3>Cut &amp; Style</h3><ul><li>Haircuts (women, men &amp; kids)</li><li>Blow drying</li><li>Updos &amp; makeovers</li></ul></div>
+<div class="sc rv"><h3>Treatments</h3><ul><li>Keratin</li><li>Hair botox</li><li>Healthy-hair care</li></ul></div>
+<div class="sc rv"><h3>Extensions</h3><ul><li>Hair extensions</li><li>UV-activated strand method</li><li>Fine &amp; thinning hair options</li></ul></div>
+</div></div></section>
+<section class="peek" id="gallery"><div class="wrap">
+<div class="orn rv">Gallery</div><h2 class="rv">Studio &amp; <em>results.</em></h2>
+<p class="lede rv">Photos from Google guests and the Sunflower studio.</p>
+<div class="strip">
+<button class="g rv" type="button"><img src="src/logo_lg.jpg" alt="Sunflower Hair Studio brand mark" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g1.jpg" alt="Styled hair result" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g2.jpg" alt="Salon guest result" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/fb1.jpg" alt="Sunflower studio work" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/fb2.jpg" alt="Finished style" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g3.jpg" alt="Color and cut result" loading="lazy"/></button>
+</div></div></section>
+<section class="rvw" id="reviews"><div class="wrap">
+<div class="orn rv">Reviews</div><h2 class="rv">In their <em>own words.</em></h2>
+<p class="lede rv">Exact quotes from Google · 4.9 ★ · 177 reviews</p>
+<div class="rg">
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>I had such a wonderful experience with Cindy Berman at Sunflower Hair Salon. I had color, hair Botox, and a haircut, so I was there for several hours, and Cindy made the entire experience incredibly relaxing and enjoyable.</q>
+<figcaption class="who">Esther Laforest · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>Every stylist here is truly exceptional—talented, kind, and highly professional. I just had my hair cut by Cindy Schnabel Berman, and she was fantastic! … My mom has been coming here for 10+ years and Joanna, the owner and founder is quite special.</q>
+<figcaption class="who">Elisabetta Pianta · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>I found Cindy Schnabel Berman at Sunflower Studios a year ago when I moved to North Miami. My hair is fine, thin and curly … Cindy understood what I was asking for and translated it to a current, easy care style on the first try.</q>
+<figcaption class="who">Dee · Google</figcaption></figure>
+</div></div></section>
+<section class="closing" id="visit"><div class="wrap"><div class="cl rv">
+<div class="cl-copy">
+<div class="orn" style="justify-content:flex-start">Visit</div>
+<h2>See you on <em>163rd.</em></h2>
+<p class="lede">3131 NE 163rd St, North Miami Beach, FL 33160</p>
+<ul class="hrs"><b>Hours</b>
+<li><span>Monday</span><span>10 AM – 5 PM</span></li>
+<li><span>Tuesday – Saturday</span><span>9:30 AM – 6:30 PM</span></li>
+<li><span>Sunday</span><span>Closed</span></li>
+</ul>
+<div class="cta">
+<a class="btn btn-s" href="tel:+13059499949">Call (305) 949-9949</a>
+<a class="btn btn-o" href="https://www.google.com/maps/place/?q=place_id:ChIJB2sW5git2YgR-EZZ_3CYDvQ" target="_blank" rel="noopener">Open in Maps</a>
+</div></div>
+<div class="map-card"><iframe title="Map of Sunflower Hair Studio" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Sunflower+Hair+Studio,+3131+NE+163rd+St,+North+Miami+Beach,+FL+33160&output=embed"></iframe></div>
+</div></div></section>
+</main>
+<footer><div class="wrap in"><div><b>Sunflower Hair Studio</b>3131 NE 163rd St, North Miami Beach, FL 33160</div><div>(305) 949-9949</div></div></footer>
+<div class="mbar"><a class="p" href="tel:+13059499949"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a>
+<a href="https://www.google.com/maps/place/?q=place_id:ChIJB2sW5git2YgR-EZZ_3CYDvQ" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Maps</a></div>
+<script>(function(){var io=new IntersectionObserver(function(es){es.forEach(function(q){if(q.isIntersecting){q.target.classList.add('in');io.unobserve(q.target)}})},{rootMargin:'0px 0px -8% 0px'});document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});})();</script>
+</body></html>

@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<title>Coco's Hair Salon · Aventura, FL</title>
+<meta name="description" content="Cuts, color, blowouts and full-service styling at Coco's Hair Salon in Aventura Mall since 1984."/>
+<meta name="theme-color" content="#F7F3EC"/>
+<meta name="robots" content="noindex"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--bg:#F7F3EC;--bg2:#EFE7DC;--card:#FFFCF8;--ink:#1C1A17;--mut:#6E675E;--line:rgba(28,26,23,.12);--a:#B08A45;--ad:#8A6A32;--al:#E4D2A8;--at:#F0E2BE;--nav:84px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:Jost,"Segoe UI",system-ui,sans-serif;font-weight:400;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}img{display:block;max-width:100%}.ic{width:16px;height:16px;flex:none}
+.wrap{width:min(100%,1180px);margin:0 auto;padding:0 clamp(20px,4vw,48px)}
+.orn{display:flex;align-items:center;justify-content:center;gap:16px;color:var(--ad);font-size:11px;font-weight:500;letter-spacing:.28em;text-transform:uppercase}
+.orn::before,.orn::after{content:"";width:48px;height:1px;background:currentColor;opacity:.45}
+h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(36px,4.6vw,58px);line-height:1.02;text-align:center;margin:16px 0 12px}
+h2 em{font-style:italic;color:var(--ad)}
+.lede{text-align:center;color:var(--mut);font-size:15px;max-width:48ch;margin:0 auto}
+.nav{position:sticky;top:0;z-index:40;background:rgba(247,243,236,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav .in{height:var(--nav);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.brand img{width:46px;height:46px;border-radius:50%;object-fit:cover;border:1px solid rgba(176,138,69,.4);background:#fff}
+.brand .name{font-family:"Cormorant Garamond",Georgia,serif;font-size:clamp(20px,2.1vw,26px);font-weight:500;letter-spacing:.04em;line-height:1.05}
+.brand .tag{font-size:10px;font-weight:500;letter-spacing:.26em;text-transform:uppercase;color:var(--ad);margin-top:3px}
+.nav-cta{display:flex;align-items:center;gap:10px;flex:none}
+.pill{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 18px;border:1px solid rgba(28,26,23,.5);border-radius:999px;font-size:13px;font-weight:500;letter-spacing:.04em;white-space:nowrap;transition:.2s}
+.pill:hover{background:var(--ink);color:var(--bg)}
+.pill.solid{background:var(--ink);border-color:var(--ink);color:#FFFCF7}
+.pill.solid:hover{background:#000}
+.hero{position:relative;min-height:calc(100svh - var(--nav));display:grid;align-items:end;justify-items:center;text-align:center;overflow:hidden;color:#FFFCF8;isolation:isolate}
+@media (min-width:768px){.hero{align-items:center}}
+.hero .poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 40%;z-index:-2}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(28,26,23,.35),rgba(28,26,23,.62) 55%,rgba(28,26,23,.78))}
+.h-in{padding:clamp(28px,6vh,110px) 20px clamp(88px,11vh,120px);max-width:920px}
+.eyebrow{display:inline-flex;align-items:center;gap:14px;font-size:11px;font-weight:500;letter-spacing:.3em;text-transform:uppercase;color:#FFF6EE}
+.eyebrow::before,.eyebrow::after{content:"";width:clamp(24px,5vw,56px);height:1px;background:currentColor;opacity:.6}
+.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(42px,6.8vw,92px);line-height:.98;margin:22px 0 20px;text-shadow:0 2px 24px rgba(0,0,0,.3)}
+.hero h1 em{display:block;font-style:italic;font-weight:400;color:var(--at)}
+.sub{font-size:clamp(15px,1.35vw,18px);font-weight:300;max-width:46ch;margin:0 auto;color:#FFF8F1}
+.cta{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:30px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 26px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;transition:.2s;white-space:nowrap}
+.btn-s{background:var(--a);color:#1C1A17;border:1px solid transparent}.btn-s:hover{background:var(--ad);color:#fff}
+.btn-o{border:1px solid rgba(255,252,248,.78);color:#FFFCF8;background:rgba(255,252,248,.08)}.btn-o:hover{background:rgba(255,252,248,.18)}
+.trust{margin-top:24px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;font-size:13px;color:#FFF6EE}
+.trust .st{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:17px}
+.svc{padding:clamp(64px,9vw,112px) 0}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.sc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px 24px}
+.sc h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:25px;line-height:1.1;margin-bottom:12px}
+.sc ul{list-style:none}.sc li{font-size:14.5px;color:var(--mut);padding:7px 0;border-top:1px solid var(--line)}.sc li:first-child{border-top:0}
+.peek{padding:0 0 clamp(56px,8vw,96px)}
+.strip{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(10px,1.4vw,18px);margin-top:clamp(28px,4vw,48px)}
+.g{position:relative;overflow:hidden;border-radius:clamp(14px,1.6vw,22px);aspect-ratio:3/4;background:var(--bg2);border:0;padding:0;cursor:pointer}
+.g img{width:100%;height:100%;object-fit:cover;transition:transform .7s cubic-bezier(.2,.7,.2,1)}.g:hover img{transform:scale(1.04)}
+.g:nth-child(even){margin-top:clamp(0px,2.5vw,36px)}
+.rvw{padding:0 0 clamp(64px,9vw,112px)}
+.rg{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.rc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px 26px;display:flex;flex-direction:column;gap:14px}
+.rc .stars{color:var(--a);letter-spacing:.12em;font-size:15px}.rc .stars small{color:var(--mut);letter-spacing:.06em;font-size:12px;margin-left:6px}
+.rc q{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:20px;line-height:1.35;quotes:"\201C" "\201D"}
+.rc .who{margin-top:auto;font-size:12px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--ad)}
+.closing{padding:0 0 clamp(64px,9vw,112px)}
+.cl{background:var(--bg2);border:1px solid var(--line);border-radius:clamp(22px,3vw,36px);padding:clamp(40px,6vw,72px) clamp(22px,5vw,56px);display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(24px,4vw,48px);align-items:center}
+.cl-copy h2{text-align:left;margin-top:10px}.cl-copy .lede{text-align:left;margin:0}
+.hrs{margin-top:18px;font-size:14px;color:var(--mut)}.hrs b{display:block;font-size:11px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-bottom:8px}
+.hrs li{list-style:none;display:flex;justify-content:space-between;gap:16px;padding:5px 0;border-bottom:1px solid var(--line);max-width:320px}
+.map-card{border-radius:20px;overflow:hidden;border:1px solid var(--line);background:var(--card);min-height:280px}
+.map-card iframe{width:100%;height:100%;min-height:280px;border:0;display:block;filter:grayscale(.12) contrast(1.02)}
+.cl .cta{justify-content:flex-start;margin-top:22px}.cl .btn-o{border-color:rgba(28,26,23,.45);color:var(--ink);background:transparent}.cl .btn-o:hover{background:var(--ink);color:var(--bg)}
+footer{border-top:1px solid var(--line);padding:28px 0 100px;color:var(--mut);font-size:13px}
+footer .in{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer b{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:18px;color:var(--ink);letter-spacing:.06em;margin-right:10px}
+.mbar{display:none}.rv{opacity:0;transform:translateY(14px);transition:opacity .8s ease,transform .8s ease}.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none;transition:none}}
+@media (max-width:900px){.rg,.strip{grid-template-columns:1fr 1fr}.cl{grid-template-columns:1fr}.cl-copy h2,.cl-copy .lede{text-align:center}.cl .cta{justify-content:center}.hrs li{margin:0 auto}}
+@media (max-width:767px){
+ :root{--nav:68px}.brand .tag{display:none}.nav .pill span.hide-sm{display:none}.strip,.rg{grid-template-columns:1fr 1fr}.g:nth-child(even){margin-top:0}
+ .mbar{display:flex;position:fixed;left:12px;right:12px;bottom:14px;z-index:50;gap:8px;padding:8px;border-radius:999px;background:rgba(247,243,236,.96);backdrop-filter:blur(10px);border:1px solid var(--line);box-shadow:0 10px 30px rgba(28,26,23,.14)}
+ .mbar a{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.08em;text-transform:uppercase}
+ .mbar a.p{background:var(--ink);color:#FFFCF7}.mbar a:not(.p){border:1px solid rgba(28,26,23,.35)}
+ footer{padding-bottom:110px}
+}
+
+.hero{align-items:end!important}
+.hero::before{content:"";position:absolute;left:clamp(16px,4vw,48px);top:18%;bottom:18%;width:3px;background:var(--a);z-index:1;opacity:.85}
+.h-in{text-align:left!important;margin-left:clamp(28px,5vw,72px);max-width:640px;justify-self:start}
+.hero .eyebrow,.hero .cta,.trust{justify-content:flex-start!important}
+.sub{margin-left:0!important}
+@media (max-width:767px){.hero::before{display:none}.h-in{margin-left:0;text-align:center!important}.hero .eyebrow,.hero .cta,.trust{justify-content:center!important}}
+
+/* QA Coco split bright */
+.hero{display:grid!important;grid-template-columns:1.05fr .95fr;align-items:stretch!important;justify-items:stretch!important;min-height:calc(100svh - var(--nav));color:var(--ink)!important;text-align:left;isolation:isolate;overflow:hidden}
+.hero .poster{position:relative!important;inset:auto!important;width:100%;height:100%;min-height:420px;object-fit:cover;object-position:center 25%;z-index:0;filter:none}
+.hero::after,.hero::before{display:none!important}
+.h-in{position:relative;background:var(--bg);color:var(--ink);padding:clamp(36px,6vw,72px) clamp(24px,4vw,48px);display:flex;flex-direction:column;justify-content:center;max-width:none;text-align:left;margin:0!important}
+.hero .eyebrow{color:var(--a,#B08A4A);justify-content:flex-start!important}
+.hero .eyebrow::before,.hero .eyebrow::after{background:currentColor}
+.hero h1{color:var(--ink)!important;text-shadow:none!important;font-size:clamp(36px,4.8vw,64px);margin:18px 0 16px}
+.hero h1 em{color:var(--a,#C4A35A)!important}
+.hero .sub{color:var(--mut)!important;margin:0!important}
+.hero .cta{justify-content:flex-start!important}
+.hero .btn-o{border-color:rgba(28,26,23,.45)!important;color:var(--ink)!important;background:transparent!important}
+.hero .btn-o:hover{background:var(--ink)!important;color:var(--bg)!important}
+.trust{justify-content:flex-start!important;color:var(--mut)!important}
+.trust .st{color:var(--ink)!important}
+@media (max-width:900px){.hero{grid-template-columns:1fr}.hero .poster{min-height:42vh;max-height:46vh}.h-in{text-align:center;align-items:center}.hero .cta,.trust,.eyebrow{justify-content:center!important}.hero .sub{margin:0 auto!important}}
+
+/* QA mobile header + sticky CTA clearance */
+.brand{min-width:0;flex:1}
+.brand .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:min(52vw,220px)}
+.pill.desk-only{display:inline-flex}
+.pill.compact-call{padding:0 14px}
+@media (max-width:767px){
+  .brand .name{font-size:15px!important;letter-spacing:.02em;max-width:calc(100vw - 150px)}
+  .brand .tag{display:none!important}
+  .pill.desk-only{display:none!important}
+  .pill.compact-call{height:40px;padding:0 12px;font-size:12px;gap:6px}
+  .pill.compact-call .call-num{display:none}
+  .pill.compact-call .call-short{display:inline}
+  .hero .h-in{padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))!important}
+  .hero .cta{margin-top:16px;gap:8px}
+  .hero .btn{min-height:46px;padding:0 18px;font-size:11px}
+  .trust{margin-top:12px;font-size:12px;gap:6px 12px}
+}
+.pill.compact-call .call-short{display:none}
+</style>
+</head>
+<body>
+<header class="nav"><div class="wrap in">
+<a class="brand" href="#top"><img src="src/logo.jpg" alt="Coco's Hair Salon logo"/><div><div class="name">Coco's</div><div class="tag">Hair Salon · Aventura</div></div></a>
+<div class="nav-cta">
+<a class="pill desk-only" href="https://www.google.com/maps/place/?q=place_id:ChIJs_3tDvas2YgRkURUdLFsTdk" target="_blank" rel="noopener">Maps</a>
+<a class="pill solid compact-call" href="tel:+13059339889"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span class="hide-sm">Call </span><span class="call-num">(305) 933-9889</span><span class="call-short">Call</span></a>
+</div></div></header>
+<main id="top">
+<section class="hero">
+<img class="poster" src="src/hero.jpg" alt="Coco's Salon storefront in Aventura" fetchpriority="high"/>
+<div class="h-in">
+<div class="eyebrow">Aventura Mall · Since 1984</div>
+<h1>Full-service hair, <em>right at the mall.</em></h1>
+<p class="sub">Cuts, color, blowouts and beach waves from a team that has styled Aventura for decades — find us at the Bloomingdale's entrance.</p>
+<div class="cta">
+<a class="btn btn-s" href="tel:+13059339889"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call to book</a>
+<a class="btn btn-o" href="https://www.google.com/maps/place/?q=place_id:ChIJs_3tDvas2YgRkURUdLFsTdk" target="_blank" rel="noopener">Get directions</a>
+</div>
+<div class="trust"><span class="st">4.1 on Google</span><span>· 247 reviews</span><span>19501 Biscayne Blvd, Aventura</span></div>
+</div></section>
+
+<section class="svc" id="services"><div class="wrap">
+<div class="orn rv">Services</div>
+<h2 class="rv">What clients <em>come in for.</em></h2>
+<p class="lede rv">From Google reviews and the salon floor — cuts, color, blowouts and more.</p>
+<div class="sg">
+<div class="sc rv"><h3>Cut &amp; Style</h3><ul><li>Haircuts</li><li>Wash &amp; blow dry</li><li>Beach waves</li><li>Event styling</li></ul></div>
+<div class="sc rv"><h3>Color</h3><ul><li>Color &amp; highlights</li><li>Balayage</li><li>Full transformations</li><li>Gloss &amp; tone</li></ul></div>
+<div class="sc rv"><h3>Treatments</h3><ul><li>Deep conditioning</li><li>Olaplex care</li><li>Kerastase rituals</li><li>Moroccanoil finish</li></ul></div>
+<div class="sc rv"><h3>Salon &amp; Spa</h3><ul><li>Hair salon services</li><li>Beauty salon care</li><li>Nail salon services</li><li>Retail: Kerastase, Olaplex, Moroccanoil</li></ul></div>
+</div></div></section>
+
+<section class="peek" id="gallery"><div class="wrap">
+<div class="orn rv">Gallery</div>
+<h2 class="rv">Real work <em>from the chair.</em></h2>
+<p class="lede rv">The Aventura studio and finished styles from Google and Instagram.</p>
+<div class="strip">
+<button class="g rv" type="button"><img src="src/hero.jpg" alt="Coco's Salon storefront in Aventura" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g2.jpg" alt="Beach waves after styling" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g3.jpg" alt="Blonde balayage result" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g1.jpg" alt="Stylist and client at Coco's" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g4.jpg" alt="Salon interior styling station" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g7.jpg" alt="Finished look at Coco's" loading="lazy"/></button>
+</div></div></section>
+
+<section class="rvw" id="reviews"><div class="wrap">
+<div class="orn rv">Reviews</div>
+<h2 class="rv">In their <em>own words.</em></h2>
+<p class="lede rv">Exact quotes from Google · 4.1 ★ · 247 reviews</p>
+<div class="rg">
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>Love the salon! Gabriel (Gabo) did my hair and I absolutely Love it. Best Beach waves ever!!! 100% recommended.</q>
+<figcaption class="who">Etsy Shop · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>I had an excellent experience with a haircut at Coco’s Hair Salon. Polina was meticulous and precise with the cut and blow dry. She makes you feel so welcome from the start. She nailed exactly what I wanted.</q>
+<figcaption class="who">Mira K · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>Called yesterday for an appointment— spoke with a friendly receptionist who booked a 3:30 appointment for me. When I arrived I was warmly greeted— had my hair expertly washed and conditioned and then sat in Dorian’s chair… Dorian was amazing.</q>
+<figcaption class="who">Rose Mullen · Google</figcaption></figure>
+</div></div></section>
+
+<section class="closing" id="visit"><div class="wrap"><div class="cl rv">
+<div class="cl-copy">
+<div class="orn" style="justify-content:flex-start">Visit</div>
+<h2>Find us in <em>Aventura Mall.</em></h2>
+<p class="lede">19501 Biscayne Blvd, Aventura, FL 33180 · Bloomingdale's entrance</p>
+<ul class="hrs"><b>Hours</b>
+<li><span>Monday – Saturday</span><span>10 AM – 8 PM</span></li>
+<li><span>Sunday</span><span>11 AM – 8 PM</span></li>
+</ul>
+<div class="cta">
+<a class="btn btn-s" href="tel:+13059339889">Call (305) 933-9889</a>
+<a class="btn btn-o" href="https://www.google.com/maps/place/?q=place_id:ChIJs_3tDvas2YgRkURUdLFsTdk" target="_blank" rel="noopener">Open in Maps</a>
+</div></div>
+<div class="map-card"><iframe title="Map of Coco's Hair Salon" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Coco's+Hair+Salon,+19501+Biscayne+Blvd,+Aventura,+FL+33180&output=embed"></iframe></div>
+</div></div></section>
+</main>
+<footer><div class="wrap in"><div><b>Coco's Hair Salon</b>19501 Biscayne Blvd, Aventura, FL 33180</div><div>(305) 933-9889</div></div></footer>
+<div class="mbar"><a class="p" href="tel:+13059339889"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a>
+<a href="https://www.google.com/maps/place/?q=place_id:ChIJs_3tDvas2YgRkURUdLFsTdk" target="_blank" rel="noopener"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Maps</a></div>
+<script>(function(){var io=new IntersectionObserver(function(es){es.forEach(function(q){if(q.isIntersecting){q.target.classList.add('in');io.unobserve(q.target)}})},{rootMargin:'0px 0px -8% 0px'});document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});})();</script>
+</body></html>

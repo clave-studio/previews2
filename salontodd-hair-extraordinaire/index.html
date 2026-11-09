@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Salontodd Hair Extraordinaire · Stuart, FL</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+tailwind.config={theme:{extend:{colors:{ink:'#1a1a1a',muted:'#5c5c5c',line:'#e6e1d8',cream:'#f7f3ec',paper:'#fffcf7',accent:'#1e4f9c',char:'#2c2c2c'},fontFamily:{serif:['Cormorant Garamond','Georgia','serif'],sans:['Manrope','system-ui','sans-serif']}}}}
+</script>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,500;0,600;1,500&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet"/>
+<script src="https://code.iconify.design/iconify-icon/2.1.0/iconify-icon.min.js"></script>
+<style>
+  html{scroll-behavior:smooth}
+  .btn-accent{background:#1e4f9c;color:#fff}
+  .btn-accent:hover{filter:brightness(.95)}
+  .mag img{object-fit:cover;width:100%;height:100%}
+  em{font-style:italic;color:#1e4f9c}
+</style>
+</head>
+<body>
+<div class="min-h-screen bg-paper text-ink font-sans antialiased overflow-x-hidden">
+  <header class="sticky top-0 z-40 bg-paper/90 backdrop-blur-md border-b border-line">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 h-14 sm:h-[4.25rem] flex items-center justify-between gap-3">
+      <a id="nav-home" href="#top" class="flex items-center gap-2.5 min-w-0 no-underline text-ink flex-1">
+        <img src="src/logo.jpg" alt="Salontodd Hair Extraordinaire logo" class="h-9 w-9 sm:h-11 sm:w-11 object-contain shrink-0"/>
+        <div class="min-w-0 leading-tight">
+          <div class="font-serif text-base sm:text-xl font-semibold truncate whitespace-nowrap">Salontodd</div>
+          <div class="hidden sm:block text-[10px] uppercase tracking-[0.18em] text-muted font-medium">Salon · Stuart</div>
+        </div>
+      </a>
+      <div class="flex items-center gap-2 shrink-0">
+        <a id="nav-call" href="tel:+15615430902" class="inline-flex items-center gap-1.5 rounded-full bg-ink text-white px-3 sm:px-5 py-2 text-xs sm:text-sm font-semibold">
+          <iconify-icon icon="lucide:phone" width="14" height="14"></iconify-icon>
+          <span>Call</span>
+        </a>
+        <a id="nav-book" href="https://app.squareup.com/appointments/book/61763659-fc9c-4bfb-984a-e2a8e9d0d2c0/6VXK2TKWK7H33/start" target="_blank" rel="noopener" class="hidden sm:inline-flex items-center gap-2 rounded-full border border-ink text-ink px-4 py-2 text-sm font-medium hover:bg-cream">
+          <iconify-icon icon="lucide:calendar" width="16" height="16"></iconify-icon>
+          Book
+        </a>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    
+    <section class="hero-safe bg-gradient-to-b from-cream to-paper py-10 sm:py-14">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 grid md:grid-cols-2 gap-8 md:gap-12 items-center">
+        <div class="order-2 md:order-1 relative">
+          <img src="src/hero.jpg" alt="Client result at Salontodd Hair Extraordinaire" class="w-full aspect-[4/5] object-cover rounded-[2rem] shadow-2xl shadow-ink/10"/>
+        </div>
+        <div class="order-1 md:order-2 md:pl-4">
+          <p class="text-accent text-xs tracking-[0.22em] uppercase font-semibold mb-3">Hair salon · Stuart, FL</p>
+          <h1 class="font-serif text-[2.6rem] sm:text-5xl md:text-[3.5rem] leading-[1.04] font-medium tracking-tight">Stuart’s color & extension <em>artist.</em></h1>
+          <p class="mt-4 text-base sm:text-lg text-muted leading-relaxed max-w-md">Blonde, balayage, precision cuts, and extensions with Todd — Stuart, Jensen Beach, Hobe Sound, and Hutchinson Island.</p>
+          <div class="mt-6 flex flex-wrap gap-3">
+            <a id="hero-call" href="tel:+15615430902" class="btn-accent inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm font-semibold">
+              <iconify-icon icon="lucide:phone" width="18" height="18"></iconify-icon>
+              Call (561) 543-0902
+            </a>
+            <a id="hero-book" href="https://app.squareup.com/appointments/book/61763659-fc9c-4bfb-984a-e2a8e9d0d2c0/6VXK2TKWK7H33/start" target="_blank" rel="noopener" class="inline-flex items-center gap-2 rounded-full border border-ink px-5 py-3 text-sm font-medium hover:bg-cream">
+              <iconify-icon icon="lucide:calendar" width="18" height="18"></iconify-icon>
+              Book online
+            </a>
+          </div>
+          <p class="mt-4 text-sm text-muted">1320 SE Federal Hwy · 4.9 ★ on Google (467 reviews)</p>
+        
+        </div>
+      </div>
+    </section>
+<section id="services" class="py-16 sm:py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <p class="text-accent text-xs tracking-[0.22em] uppercase font-semibold mb-2">Services</p>
+        <h2 class="font-serif text-3xl sm:text-4xl font-medium mb-3">What we do best</h2>
+        <p class="text-muted max-w-xl mb-10 leading-relaxed">From the salon’s own offerings. Call or book to schedule — we don’t list prices here.</p>
+        <div class="grid sm:grid-cols-3 gap-4">
+          <article class="bg-cream border border-line rounded-2xl p-6">
+            <h3 class="font-serif text-2xl font-semibold mb-2">Hair color &amp; balayage</h3>
+            <p class="text-muted text-sm leading-relaxed">Lived-in blondes, gray blending, and color correction shaped to your face and skin tone.</p>
+          </article>
+          <article class="bg-cream border border-line rounded-2xl p-6">
+            <h3 class="font-serif text-2xl font-semibold mb-2">Hair extensions</h3>
+            <p class="text-muted text-sm leading-relaxed">Invisible and custom extension work for length, density, and a natural finish.</p>
+          </article>
+          <article class="bg-cream border border-line rounded-2xl p-6">
+            <h3 class="font-serif text-2xl font-semibold mb-2">Precision haircuts</h3>
+            <p class="text-muted text-sm leading-relaxed">Women’s and men’s cuts that hold their shape — including blowouts and polished finishes.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section id="gallery" class="py-16 sm:py-20 bg-cream border-y border-line">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <p class="text-accent text-xs tracking-[0.22em] uppercase font-semibold mb-2">Gallery</p>
+        <h2 class="font-serif text-3xl sm:text-4xl font-medium mb-3">Recent work</h2>
+        <p class="text-muted max-w-xl mb-10 leading-relaxed">Real photos from Salontodd Hair Extraordinaire.</p>
+        <div class="mag grid grid-cols-2 md:grid-cols-3 gap-3 md:gap-4">
+          <div class="col-span-2 md:col-span-1 md:row-span-2 min-h-[280px] md:min-h-[520px] rounded-xl overflow-hidden"><img src="src/g1.jpg" alt="Salon hair result" class="rounded-xl"/></div>
+          <div class="aspect-[4/3] rounded-xl overflow-hidden"><img src="src/g2.jpg" alt="Color and styling" class="rounded-xl"/></div>
+          <div class="aspect-[4/3] rounded-xl overflow-hidden"><img src="src/g3.jpg" alt="Finished look" class="rounded-xl"/></div>
+          <div class="aspect-square rounded-xl overflow-hidden"><img src="src/g4.jpg" alt="Client result" class="rounded-xl"/></div>
+          <div class="aspect-square rounded-xl overflow-hidden"><img src="src/g5.jpg" alt="Blowout and shine" class="rounded-xl"/></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="reviews" class="py-16 sm:py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6">
+        <p class="text-accent text-xs tracking-[0.22em] uppercase font-semibold mb-2">Clients</p>
+        <h2 class="font-serif text-3xl sm:text-4xl font-medium mb-3">Words from Google</h2>
+        <p class="text-muted max-w-xl mb-10 leading-relaxed">Exact quotes from verified Google reviews — 4.9 ★ across 467 ratings.</p>
+        <div class="grid md:grid-cols-3 gap-4">
+      <figure class="bg-white border border-line rounded-2xl p-6 flex flex-col h-full">
+        <div class="text-accent tracking-widest mb-3 text-sm" aria-label="5 stars">★★★★★</div>
+        <blockquote class="text-[0.95rem] leading-relaxed text-char flex-1">“I just had my first appointment with Todd and I’m thrilled with the result. The highlights look great, and so does the cut. He took the time to think about my face shape and skin tone, and chose a style and color that suit me. It’s clear he pays attention to detail and knows what he’s doing.”</blockquote>
+        <figcaption class="mt-5 pt-4 border-t border-line grid gap-0.5">
+          <strong class="text-ink">Maggie Phillips</strong>
+          <span class="text-xs text-muted">Google review</span>
+          <a id="review-maggie" href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2tkQldqSk1NM1pCTW5wdVRHcGpUMFpCTjNWV00xRRAB!2m1!1s0x0:0xb1874cf89e5e27ef!3m1!1s2@1:CAIQACodChtycF9oOkdBWjJMM3ZBMnpuTGpjT0ZBN3VWM1E%7C%7C?hl=en-US" target="_blank" rel="noopener" class="text-xs font-semibold text-accent mt-1 no-underline hover:underline">Read on Google</a>
+        </figcaption>
+      </figure>
+      <figure class="bg-white border border-line rounded-2xl p-6 flex flex-col h-full">
+        <div class="text-accent tracking-widest mb-3 text-sm" aria-label="5 stars">★★★★★</div>
+        <blockquote class="text-[0.95rem] leading-relaxed text-char flex-1">“BEST HAIR SALON STUART FLORIDA ! I was looking to return to my natural Silver-toned hair color... after years of trying to hide it! Todd is AMAZING! Not only was he able to correct my color, but he also added Sparkly Silver Highlights that I noticed when I walked outside! Thank You, Todd, You are truly a Hair -ARTIST !!!!”</blockquote>
+        <figcaption class="mt-5 pt-4 border-t border-line grid gap-0.5">
+          <strong class="text-ink">Lori Seegoolam</strong>
+          <span class="text-xs text-muted">Google review</span>
+          <a id="review-lori" href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT2w5VVQyOUhWbkYwUnpkNWVHVjNXa3cxU0VSalIzYxAB!2m1!1s0x0:0xb1874cf89e5e27ef!3m1!1s2@1:CAIQACodChtycF9oOl9UT29HVnF0Rzd5eGV3Wkw1SERjR3c%7C%7C?hl=en-US" target="_blank" rel="noopener" class="text-xs font-semibold text-accent mt-1 no-underline hover:underline">Read on Google</a>
+        </figcaption>
+      </figure>
+      <figure class="bg-white border border-line rounded-2xl p-6 flex flex-col h-full">
+        <div class="text-accent tracking-widest mb-3 text-sm" aria-label="5 stars">★★★★★</div>
+        <blockquote class="text-[0.95rem] leading-relaxed text-char flex-1">“Best salon I’ve been to in Stuart! Great job was done got some cherry cola base color. Todd was extremely professional and welcoming and I had a blast! 100% will recommend!☺️”</blockquote>
+        <figcaption class="mt-5 pt-4 border-t border-line grid gap-0.5">
+          <strong class="text-ink">Melanie Kalner</strong>
+          <span class="text-xs text-muted">Google review</span>
+          <a id="review-melanie" href="https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sCi9DQUlRQUNvZENodHljRjlvT21sMk1VUjNZbW8zTW1sMWFYRnlhWHBQVlc1RlNGRRAB!2m1!1s0x0:0xb1874cf89e5e27ef!3m1!1s2@1:CAIQACodChtycF9oOml2MUR3Ymo3Mml1aXFyaXpPVW5FSFE%7C%7C?hl=en-US" target="_blank" rel="noopener" class="text-xs font-semibold text-accent mt-1 no-underline hover:underline">Read on Google</a>
+        </figcaption>
+      </figure>
+        </div>
+      </div>
+    </section>
+
+    <section id="visit" class="py-16 sm:py-20">
+      <div class="max-w-6xl mx-auto px-4 sm:px-6 grid md:grid-cols-2 gap-10 items-start">
+        <div>
+          <p class="text-accent text-xs tracking-[0.22em] uppercase font-semibold mb-2">Visit</p>
+          <h2 class="font-serif text-3xl sm:text-4xl font-medium mb-4">Come see us</h2>
+          <p class="text-muted leading-relaxed mb-6">Reach out to schedule — call + book from any page.</p>
+          <div class="mb-5 text-sm leading-relaxed text-muted">
+            <strong class="block text-ink mb-1">Address</strong>
+            1320 SE Federal Hwy<br/>Stuart, FL 34994
+          </div>
+          <div class="mb-5 text-sm leading-relaxed text-muted">
+            <strong class="block text-ink mb-1">Phone</strong>
+            <a id="visit-call" href="tel:+15615430902" class="text-ink font-medium">(561) 543-0902</a>
+          </div>
+          <div class="text-sm">
+            <strong class="block text-ink mb-1">Hours</strong>
+            <ul class="mt-2 border-t border-line divide-y divide-line text-[0.92rem]"><li class="flex justify-between gap-4 py-2.5"><span>Monday</span><span class="text-muted">9 AM – 5 PM</span></li><li class="flex justify-between gap-4 py-2.5"><span>Tuesday</span><span class="text-muted">9 AM – 5 PM</span></li><li class="flex justify-between gap-4 py-2.5"><span>Wednesday</span><span class="text-muted">9 AM – 5 PM</span></li><li class="flex justify-between gap-4 py-2.5"><span>Thursday</span><span class="text-muted">9 AM – 5 PM</span></li><li class="flex justify-between gap-4 py-2.5"><span>Friday</span><span class="text-muted">9 AM – 5 PM</span></li><li class="flex justify-between gap-4 py-2.5"><span>Saturday</span><span class="text-muted">9 AM – 5 PM</span></li><li class="flex justify-between gap-4 py-2.5"><span>Sunday</span><span class="text-muted">Closed</span></li>
+            </ul>
+            <p class="text-xs text-muted mt-3">Hours from Google Maps (Nov 9, 2026).</p>
+          </div>
+          <div class="mt-6 flex flex-wrap gap-3">
+            <a id="visit-call-btn" href="tel:+15615430902" class="btn-accent inline-flex items-center gap-2 rounded-full px-5 py-3 text-sm font-semibold">Call now</a>
+            <a id="visit-book-btn" href="https://app.squareup.com/appointments/book/61763659-fc9c-4bfb-984a-e2a8e9d0d2c0/6VXK2TKWK7H33/start" target="_blank" rel="noopener" class="inline-flex items-center gap-2 rounded-full border border-ink px-5 py-3 text-sm font-medium hover:bg-cream">Book online</a>
+          </div>
+        </div>
+        <div class="relative rounded-2xl overflow-hidden aspect-[5/4] bg-line">
+          <img src="src/storefront.jpg" alt="Salontodd Hair Extraordinaire storefront" class="w-full h-full object-cover"/>
+          <div class="absolute inset-x-0 bottom-0 p-5 bg-gradient-to-t from-black/75 to-transparent text-white">
+            <div class="font-serif text-xl mb-1">Stuart studio</div>
+            <div class="text-sm opacity-90 mb-2">1320 SE Federal Hwy</div>
+            <a id="map-card-link" href="https://www.google.com/maps/place/?q=place_id:ChIJb6s4aELd3ogR7ydenvhMh7E" target="_blank" rel="noopener" class="text-sm font-semibold text-white">View on Google Maps →</a>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="border-t border-line py-8 pb-24 sm:pb-8 bg-paper">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 flex flex-wrap gap-4 justify-between items-center">
+      <div>
+        <div class="font-serif text-lg">Salontodd Hair Extraordinaire</div>
+        <small class="text-muted">Design preview · not published</small>
+      </div>
+      <div class="flex gap-4 text-sm text-muted">
+        <a id="footer-fb" href="https://www.facebook.com/salontodd/" target="_blank" rel="noopener" class="hover:text-ink no-underline">Facebook</a> <a id="footer-call" href="tel:+15615430902" class="hover:text-ink no-underline">Call</a>
+      </div>
+    </div>
+  </footer>
+
+  <div class="fixed inset-x-0 bottom-0 z-50 flex gap-2 p-2 pb-[calc(0.5rem+env(safe-area-inset-bottom))] bg-paper/95 backdrop-blur-md border-t border-line sm:hidden" aria-label="Quick actions">
+    <a id="mbar-call" href="tel:+15615430902" class="btn-accent flex-1 inline-flex items-center justify-center rounded-full py-3 text-sm font-semibold">Call</a>
+    <a id="mbar-book" href="https://app.squareup.com/appointments/book/61763659-fc9c-4bfb-984a-e2a8e9d0d2c0/6VXK2TKWK7H33/start" target="_blank" rel="noopener" class="flex-1 inline-flex items-center justify-center rounded-full border border-ink py-3 text-sm font-semibold">Book</a>
+  </div>
+</div>
+</body>
+</html>

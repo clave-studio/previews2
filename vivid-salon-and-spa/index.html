@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover"/>
+<title>Vivid Salon &amp; Spa · Port St. Lucie, FL</title>
+<meta name="description" content="Hair, color, nails, brows and spa care at Vivid Salon &amp; Spa on Crosstown Parkway in Port St. Lucie."/>
+<meta name="theme-color" content="#F4F6F1"/>
+<meta name="robots" content="noindex"/>
+<link rel="preconnect" href="https://fonts.googleapis.com"/>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+<style>
+:root{--bg:#F4F6F1;--bg2:#E6EBE3;--card:#FBFCF9;--ink:#1E2A24;--mut:#5E6B63;--line:rgba(30,42,36,.12);--a:#3F6B55;--ad:#2F5241;--al:#8FB39A;--at:#C5D9CB;--nav:84px}
+*{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{background:var(--bg);color:var(--ink);font-family:Jost,"Segoe UI",system-ui,sans-serif;font-weight:400;line-height:1.55;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit;text-decoration:none}img{display:block;max-width:100%}.ic{width:16px;height:16px;flex:none}
+.wrap{width:min(100%,1180px);margin:0 auto;padding:0 clamp(20px,4vw,48px)}
+.orn{display:flex;align-items:center;justify-content:center;gap:16px;color:var(--ad);font-size:11px;font-weight:500;letter-spacing:.28em;text-transform:uppercase}
+.orn::before,.orn::after{content:"";width:48px;height:1px;background:currentColor;opacity:.45}
+h2{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(36px,4.6vw,58px);line-height:1.02;text-align:center;margin:16px 0 12px}
+h2 em{font-style:italic;color:var(--ad)}.lede{text-align:center;color:var(--mut);font-size:15px;max-width:48ch;margin:0 auto}
+.nav{position:sticky;top:0;z-index:40;background:rgba(244,246,241,.94);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid var(--line)}
+.nav .in{height:var(--nav);display:flex;align-items:center;justify-content:space-between;gap:16px}
+.brand{display:flex;align-items:center;gap:12px;min-width:0}
+.brand img{width:48px;height:48px;object-fit:contain;background:#fff;border-radius:50%;border:1px solid var(--line);padding:4px}
+.brand .name{font-family:"Cormorant Garamond",Georgia,serif;font-size:clamp(18px,2vw,24px);font-weight:500;letter-spacing:.04em;line-height:1.05}
+.brand .tag{font-size:10px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-top:3px}
+.nav-cta{display:flex;align-items:center;gap:10px;flex:none}
+.pill{display:inline-flex;align-items:center;gap:8px;height:44px;padding:0 18px;border:1px solid rgba(30,42,36,.5);border-radius:999px;font-size:13px;font-weight:500;letter-spacing:.04em;white-space:nowrap;transition:.2s}
+.pill:hover{background:var(--ink);color:var(--bg)}.pill.solid{background:var(--a);border-color:var(--a);color:#FBFCF9}.pill.solid:hover{background:var(--ad)}
+.hero{position:relative;min-height:calc(100svh - var(--nav));display:grid;align-items:end;justify-items:center;text-align:center;overflow:hidden;color:#FBFCF9;isolation:isolate}
+@media (min-width:768px){.hero{align-items:center}}
+.hero .poster{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 30%;z-index:-2}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(244,246,241,.08) 0%,rgba(244,246,241,.22) 35%,rgba(244,246,241,.78) 68%,rgba(244,246,241,.94) 100%)}
+.h-in{padding:clamp(28px,6vh,110px) 20px clamp(88px,11vh,120px);max-width:920px}
+.eyebrow{display:inline-flex;align-items:center;gap:14px;font-size:11px;font-weight:500;letter-spacing:.3em;text-transform:uppercase;color:#F3F8F4}
+.eyebrow::before,.eyebrow::after{content:"";width:clamp(24px,5vw,56px);height:1px;background:currentColor;opacity:.6}
+.hero h1{font-family:"Cormorant Garamond",Georgia,serif;font-weight:400;font-size:clamp(42px,6.8vw,88px);line-height:.98;margin:22px 0 20px;text-shadow:0 2px 24px rgba(0,0,0,.28)}
+.hero h1 em{display:block;font-style:italic;font-weight:400;color:var(--at)}
+.sub{font-size:clamp(15px,1.35vw,18px);font-weight:300;max-width:46ch;margin:0 auto;color:#F5FAF6}
+.cta{display:flex;flex-wrap:wrap;justify-content:center;gap:12px;margin-top:30px}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:10px;min-height:52px;padding:0 26px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.14em;text-transform:uppercase;transition:.2s;white-space:nowrap}
+.btn-s{background:var(--a);color:#FBFCF9;border:1px solid transparent}.btn-s:hover{background:var(--ad)}
+.btn-o{border:1px solid rgba(251,252,249,.78);color:#FBFCF9;background:rgba(251,252,249,.08)}.btn-o:hover{background:rgba(251,252,249,.18)}
+.trust{margin-top:24px;display:flex;flex-wrap:wrap;justify-content:center;gap:8px 20px;font-size:13px;color:#F3F8F4}
+.trust .st{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:17px}
+.svc{padding:clamp(64px,9vw,112px) 0}
+.sg{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.sc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:26px 24px}
+.sc h3{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:25px;margin-bottom:12px}
+.sc ul{list-style:none}.sc li{font-size:14.5px;color:var(--mut);padding:7px 0;border-top:1px solid var(--line)}.sc li:first-child{border-top:0}
+.peek{padding:0 0 clamp(56px,8vw,96px)}
+.strip{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(10px,1.4vw,18px);margin-top:clamp(28px,4vw,48px)}
+.g{overflow:hidden;border-radius:clamp(14px,1.6vw,22px);aspect-ratio:3/4;background:var(--bg2);border:0;padding:0;cursor:pointer}
+.g img{width:100%;height:100%;object-fit:cover;transition:transform .7s}.g:hover img{transform:scale(1.04)}.g:nth-child(even){margin-top:clamp(0px,2.5vw,36px)}
+.rvw{padding:0 0 clamp(64px,9vw,112px)}
+.rg{display:grid;grid-template-columns:repeat(3,1fr);gap:clamp(14px,1.8vw,22px);margin-top:clamp(28px,4vw,48px)}
+.rc{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:28px 26px;display:flex;flex-direction:column;gap:14px}
+.rc .stars{color:var(--a);letter-spacing:.12em}.rc .stars small{color:var(--mut);font-size:12px;margin-left:6px}
+.rc q{font-family:"Cormorant Garamond",Georgia,serif;font-style:italic;font-size:20px;line-height:1.35;quotes:"\201C" "\201D"}
+.rc .who{margin-top:auto;font-size:12px;font-weight:500;letter-spacing:.16em;text-transform:uppercase;color:var(--ad)}
+.closing{padding:0 0 clamp(64px,9vw,112px)}
+.cl{background:var(--bg2);border:1px solid var(--line);border-radius:clamp(22px,3vw,36px);padding:clamp(40px,6vw,72px) clamp(22px,5vw,56px);display:grid;grid-template-columns:1.1fr .9fr;gap:clamp(24px,4vw,48px);align-items:center}
+.cl-copy h2{text-align:left;margin-top:10px}.cl-copy .lede{text-align:left;margin:0}
+.hrs{margin-top:18px;font-size:14px;color:var(--mut)}.hrs b{display:block;font-size:11px;font-weight:500;letter-spacing:.22em;text-transform:uppercase;color:var(--ad);margin-bottom:8px}
+.hrs li{list-style:none;display:flex;justify-content:space-between;gap:16px;padding:5px 0;border-bottom:1px solid var(--line);max-width:340px}
+.map-card{border-radius:20px;overflow:hidden;border:1px solid var(--line);min-height:280px}
+.map-card iframe{width:100%;height:100%;min-height:280px;border:0;display:block;filter:grayscale(.1)}
+.cl .cta{justify-content:flex-start;margin-top:22px}.cl .btn-o{border-color:rgba(30,42,36,.45);color:var(--ink);background:transparent}.cl .btn-o:hover{background:var(--ink);color:var(--bg)}
+footer{border-top:1px solid var(--line);padding:28px 0 100px;color:var(--mut);font-size:13px}
+footer .in{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer b{font-family:"Cormorant Garamond",Georgia,serif;font-weight:500;font-size:18px;color:var(--ink);margin-right:10px}
+.mbar{display:none}.rv{opacity:0;transform:translateY(14px);transition:opacity .8s,transform .8s}.rv.in{opacity:1;transform:none}
+@media (prefers-reduced-motion:reduce){.rv{opacity:1;transform:none}}
+@media (max-width:900px){.rg,.strip{grid-template-columns:1fr 1fr}.cl{grid-template-columns:1fr}.cl-copy h2,.cl-copy .lede{text-align:center}.cl .cta{justify-content:center}.hrs li{margin:0 auto}}
+@media (max-width:767px){:root{--nav:68px}.brand .tag{display:none}.nav .pill span.hide-sm{display:none}.strip,.rg{grid-template-columns:1fr 1fr}.g:nth-child(even){margin-top:0}
+.mbar{display:flex;position:fixed;left:12px;right:12px;bottom:14px;z-index:50;gap:8px;padding:8px;border-radius:999px;background:rgba(244,246,241,.96);backdrop-filter:blur(10px);border:1px solid var(--line);box-shadow:0 10px 30px rgba(30,42,36,.14)}
+.mbar a{flex:1;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:46px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.08em;text-transform:uppercase}
+.mbar a.p{background:var(--a);color:#FBFCF9}.mbar a:not(.p){border:1px solid rgba(30,42,36,.35)}footer{padding-bottom:110px}}
+
+.h-in{text-align:center;padding-left:20px;padding-right:20px}.hero .eyebrow,.hero .cta,.trust{justify-content:center!important}.sub{margin:0 auto!important}}
+
+
+/* QA mobile header + sticky CTA clearance */
+.brand{min-width:0;flex:1}
+.brand .name{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;max-width:min(52vw,220px)}
+.pill.desk-only{display:inline-flex}
+.pill.compact-call{padding:0 14px}
+@media (max-width:767px){
+  .brand .name{font-size:15px!important;letter-spacing:.02em;max-width:calc(100vw - 150px)}
+  .brand .tag{display:none!important}
+  .pill.desk-only{display:none!important}
+  .pill.compact-call{height:40px;padding:0 12px;font-size:12px;gap:6px}
+  .pill.compact-call .call-num{display:none}
+  .pill.compact-call .call-short{display:inline}
+  .hero .h-in{padding-bottom:calc(88px + env(safe-area-inset-bottom,0px))!important}
+  .hero .cta{margin-top:16px;gap:8px}
+  .hero .btn{min-height:46px;padding:0 18px;font-size:11px}
+  .trust{margin-top:12px;font-size:12px;gap:6px 12px}
+}
+.pill.compact-call .call-short{display:none}
+
+
+/* CEO: Vivid SPLIT — cream panel L, full team photo R (contain). Mobile photo above, no overlay */
+.hero{display:grid!important;grid-template-columns:minmax(300px,.92fr) minmax(320px,1.08fr);align-items:stretch!important;justify-items:stretch!important;min-height:calc(100svh - var(--nav));background:var(--bg);color:var(--ink)!important;text-align:left;isolation:isolate;overflow:hidden}
+.hero .poster{position:relative!important;inset:auto!important;width:100%;height:100%;min-height:480px;object-fit:contain!important;object-position:center center!important;background:#E8EDE6;z-index:0;filter:none!important}
+.hero::after,.hero::before{display:none!important}
+.h-in{position:relative;background:var(--bg);color:var(--ink);padding:clamp(36px,6vw,80px) clamp(28px,4vw,56px);display:flex;flex-direction:column;justify-content:center;max-width:none;text-align:left;order:-1}
+.hero .eyebrow{color:var(--ad);justify-content:flex-start!important}
+.hero .eyebrow::before,.hero .eyebrow::after{background:var(--ad)}
+.hero h1{color:var(--ink)!important;text-shadow:none!important;font-size:clamp(36px,4.6vw,64px);margin:18px 0 16px;line-height:1.05}
+.hero h1 em{color:var(--ad)!important;display:inline;font-style:italic}
+.hero .sub{color:var(--mut)!important;margin:0!important;max-width:40ch}
+.hero .cta{justify-content:flex-start!important;margin-top:24px}
+.hero .btn-o{border-color:rgba(30,42,36,.45)!important;color:var(--ink)!important;background:transparent!important}
+.hero .btn-o:hover{background:var(--ink)!important;color:var(--bg)!important}
+.trust{justify-content:flex-start!important;color:var(--mut)!important}
+.trust .st{color:var(--ink)!important}
+@media (max-width:900px){
+  .hero{grid-template-columns:1fr!important}
+  .hero .poster{order:-1;min-height:42vh;max-height:48vh;width:100%;object-fit:contain!important;background:#E8EDE6}
+  .h-in{order:0;text-align:center;align-items:center;padding:28px 20px calc(100px + env(safe-area-inset-bottom,0px))}
+  .hero .cta,.trust,.eyebrow{justify-content:center!important}
+  .hero .sub{margin:0 auto!important}
+  .hero h1{font-size:34px!important}
+}
+</style></head>
+<body>
+<header class="nav"><div class="wrap in">
+<a class="brand" href="#top"><img src="src/logo.png" alt="Vivid Salon &amp; Spa"/><div><div class="name">Vivid</div><div class="tag">Port St. Lucie</div></div></a>
+<div class="nav-cta">
+<a class="pill compact-call" href="tel:+17728075991"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg><span class="hide-sm">Call </span><span class="call-num">(772) 807-5991</span><span class="call-short">Call</span></a>
+<a class="pill solid desk-only" href="https://na0.meevo.com/CustomerPortal/onlinebooking?tenantId=100943&LocationId=103236" target="_blank" rel="noopener">Book</a>
+</div></div></header>
+<main id="top">
+<section class="hero">
+<img class="poster" src="src/hero.jpg" alt="Vivid Salon &amp; Spa team in Port St. Lucie" fetchpriority="high"/>
+<div class="h-in">
+<div class="eyebrow">Port St. Lucie · Salon &amp; Spa</div>
+<h1>Your new <em>favorite</em> salon.</h1>
+<p class="sub">Hair, color, nails, brows and spa care on Crosstown Parkway — book online or call the team that makes Port St. Lucie glow.</p>
+<div class="cta">
+<a class="btn btn-s" href="https://na0.meevo.com/CustomerPortal/onlinebooking?tenantId=100943&LocationId=103236" target="_blank" rel="noopener">Book online</a>
+<a class="btn btn-o" href="tel:+17728075991"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call (772) 807-5991</a>
+</div>
+<div class="trust"><span class="st">4.8 on Google</span><span>· 950 reviews</span><span>10684 SW Crosstown Pkwy</span></div>
+</div></section>
+<section class="svc" id="services"><div class="wrap">
+<div class="orn rv">Services</div><h2 class="rv">All under <em>one roof.</em></h2>
+<p class="lede rv">From Google guests — hair, color, nails, brows and more.</p>
+<div class="sg">
+<div class="sc rv"><h3>Hair</h3><ul><li>Haircuts &amp; blowouts</li><li>Color matching &amp; root touch-ups</li><li>Blonde specialization</li><li>Personalized consultations</li></ul></div>
+<div class="sc rv"><h3>Color</h3><ul><li>Full color &amp; touch-ups</li><li>Highlights &amp; lowlights</li><li>Custom blonde work</li></ul></div>
+<div class="sc rv"><h3>Nails</h3><ul><li>Gel manicures</li><li>Pedicures</li><li>Shaping &amp; polish</li></ul></div>
+<div class="sc rv"><h3>Brows &amp; Spa</h3><ul><li>Eyebrow wax &amp; tint</li><li>Spa-side pampering</li><li>Rewards program</li></ul></div>
+</div></div></section>
+<section class="peek" id="gallery"><div class="wrap">
+<div class="orn rv">Gallery</div><h2 class="rv">Inside <em>Vivid.</em></h2>
+<p class="lede rv">Salon photos and guest results from Google.</p>
+<div class="strip">
+<button class="g rv" type="button"><img src="src/interior.jpg" alt="Vivid salon interior" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g1.jpg" alt="Haircut result" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g2.jpg" alt="Styled hair" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g3.jpg" alt="Salon style result" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g4.jpg" alt="Finished look" loading="lazy"/></button>
+<button class="g rv" type="button"><img src="src/g5.jpg" alt="Guest hairstyle" loading="lazy"/></button>
+</div></div></section>
+<section class="rvw" id="reviews"><div class="wrap">
+<div class="orn rv">Reviews</div><h2 class="rv">In their <em>own words.</em></h2>
+<p class="lede rv">Exact quotes from Google · 4.8 ★ · 950 reviews</p>
+<div class="rg">
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>I was greeted warmly at reception by Jodie. My stylist Danielle was friendly and did a great job matching my color since it was my first visit to the salon. My hair was styled with care and I am totally satisfied with my experience and I have made future appointments with her at the salon!</q>
+<figcaption class="who">Sheryl Schneider · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>Every time I have an appointment at Vivid I know I'm going to leave feeling amazing. The whole team is full of friendly people and the salon has such great vibes. Taylee is the absolute best and has given me such beautiful results every time I see her.</q>
+<figcaption class="who">taylor pickup · Google</figcaption></figure>
+<figure class="rc rv"><div class="stars">★★★★★ <small>5/5</small></div>
+<q>Paige gave me the best haircut of my life! She was so gentle with my long hair, she didn’t yank or pull — it was honestly the most relaxing experience I’ve ever had at a hair salon. She was also very knowledgeable about what type of cut would suit my fine hair best.</q>
+<figcaption class="who">Hallie Lukat · Google</figcaption></figure>
+</div></div></section>
+<section class="closing" id="visit"><div class="wrap"><div class="cl rv">
+<div class="cl-copy">
+<div class="orn" style="justify-content:flex-start">Visit</div>
+<h2>Come see the <em>new space.</em></h2>
+<p class="lede">10684 SW Crosstown Pkwy, Port St. Lucie, FL 34987</p>
+<ul class="hrs"><b>Hours</b>
+<li><span>Monday</span><span>10 AM – 4 PM</span></li>
+<li><span>Tuesday – Thursday</span><span>9 AM – 8 PM</span></li>
+<li><span>Friday – Saturday</span><span>9 AM – 5 PM</span></li>
+<li><span>Sunday</span><span>Closed</span></li>
+</ul>
+<div class="cta">
+<a class="btn btn-s" href="https://na0.meevo.com/CustomerPortal/onlinebooking?tenantId=100943&LocationId=103236" target="_blank" rel="noopener">Book online</a>
+<a class="btn btn-o" href="tel:+17728075991">Call (772) 807-5991</a>
+</div></div>
+<div class="map-card"><iframe title="Map of Vivid Salon &amp; Spa" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=Vivid+Salon+%26+Spa,+10684+SW+Crosstown+Pkwy,+Port+St.+Lucie,+FL+34987&output=embed"></iframe></div>
+</div></div></section>
+</main>
+<footer><div class="wrap in"><div><b>Vivid Salon &amp; Spa</b>10684 SW Crosstown Pkwy, Port St. Lucie, FL 34987</div><div>(772) 807-5991</div></div></footer>
+<div class="mbar"><a class="p" href="https://na0.meevo.com/CustomerPortal/onlinebooking?tenantId=100943&LocationId=103236" target="_blank" rel="noopener">Book</a>
+<a href="tel:+17728075991"><svg class="ic" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M22 16.92v3a2 2 0 0 1-2.18 2 19.8 19.8 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6A19.8 19.8 0 0 1 2.12 4.18 2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72c.13.96.36 1.9.7 2.81a2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45c.9.34 1.85.57 2.81.7A2 2 0 0 1 22 16.92z"/></svg>Call</a></div>
+<script>(function(){var io=new IntersectionObserver(function(es){es.forEach(function(q){if(q.isIntersecting){q.target.classList.add('in');io.unobserve(q.target)}})},{rootMargin:'0px 0px -8% 0px'});document.querySelectorAll('.rv').forEach(function(el){io.observe(el)});})();</script>
+</body></html>
